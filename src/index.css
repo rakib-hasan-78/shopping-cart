@@ -17,7 +17,12 @@
   --breakpoint-2xl:1350px;
   --breakpoint-3xl:87.5rem;
   /* color */
-  --color-project-violet:#9538E2;
+  --color-project-violet:oklch(65.03% 0.226 306.62);
+  --color-project-white:oklch(100% 0 0);
+  --color-project-gray:oklch(11.3% 0.014 282.52 / 0.05);
+  --color-project-light-gray:oklch(11.3% 0.014 282.52 / 0.6);
+  --color-regular-black:oklch(11.3% 0.014 282.52);
+  --color-project-black:oklch(11.6% 0 0);
 
 }
 
@@ -28,12 +33,15 @@
   body{
     @apply font-serif capitalize font-normal leading-7;
   }
+  img{
+    @apply w-full h-full;
+  }
 }
 
 @layer components{
   /*  hero title*/
   .xxxl-title{
-    @apply xxs:text-3xl sm:text-4xl lg:text-5xl font-bold text-project-violet;
+    @apply xxs:text-3xl sm:text-4xl lg:text-5xl font-bold;
   }
   /* footer title */
   .xxl-title{
@@ -63,6 +71,10 @@
 
   .brief{
     @apply xxs:text-xs md:text-sm lg:text-base font-normal;
+  }
+
+  .btn-gradient-border{
+    @apply relative inline-block rounded-full p-[2px] bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500;
   }
 
 }
