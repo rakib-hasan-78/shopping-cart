@@ -1,0 +1,3057 @@
+[
+    {
+    "product_id": "A001",
+    "product_title": "Apple MacBook Pro 16-inch M2 Max",
+    "product_image": "https://ibb.co.com/HfVYZt3X",
+    "category": "Laptops",
+    "price": 3499,
+    "description": "The Apple MacBook Pro 16-inch with M2 Max chip offers unparalleled power and performance for creative professionals. Equipped with a stunning Liquid Retina XDR display, it delivers vibrant colors and true blacks for accurate design work. With up to 64GB of unified memory and 8TB SSD storage, it handles intensive workflows effortlessly. Enjoy long battery life, a premium keyboard, and advanced thermal design.",
+    "specification": [
+      "16-inch Liquid Retina XDR display",
+      "M2 Max chip with 12-core CPU",
+      "64GB unified memory",
+      "Up to 8TB SSD storage",
+      "Battery life up to 21 hours"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 25
+  },
+  {
+    "product_id": "A002",
+    "product_title": "Apple MacBook Air 15-inch M2",
+    "product_image": "https://ibb.co.com/SZdhHmQ",
+    "category": "Laptops",
+    "price": 1499,
+    "description": "The Apple MacBook Air 15-inch with M2 chip is the perfect combination of portability and power. It features a sleek, lightweight design ideal for students and professionals on the go. The Retina display offers sharp images and vibrant colors. With up to 18 hours of battery life, fast SSD storage, and silent fanless architecture, it is ready to support your daily productivity and creativity needs.",
+    "specification": [
+      "15.3-inch Liquid Retina display",
+      "M2 chip with 8-core CPU",
+      "16GB unified memory",
+      "Up to 2TB SSD storage",
+      "Battery life up to 18 hours"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 20
+  },
+  {
+    "product_id": "A003",
+    "product_title": "Apple MacBook Pro 14-inch M1 Pro",
+    "product_image": "https://ibb.co.com/gLNZQnFB",
+    "category": "Laptops",
+    "price": 2399,
+    "description": "Experience pro-level performance with the Apple MacBook Pro 14-inch featuring the M1 Pro chip. This laptop boasts a stunning Liquid Retina XDR display with ProMotion technology for smoother visuals. It offers outstanding power efficiency and lightning-fast performance, making it ideal for video editing, coding, and multitasking. Long battery life and an advanced cooling system keep you working uninterrupted.",
+    "specification": [
+      "14-inch Liquid Retina XDR display",
+      "M1 Pro chip with 10-core CPU",
+      "32GB unified memory",
+      "1TB SSD storage",
+      "Battery life up to 17 hours"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 22
+  },
+  {
+    "product_id": "A004",
+    "product_title": "Apple MacBook Air 13-inch M1",
+    "product_image": "https://ibb.co.com/N2ncQkrL",
+    "category": "Laptops",
+    "price": 999,
+    "description": "The MacBook Air 13-inch with Apple’s M1 chip revolutionizes thin and light laptops. Its fanless design ensures silent operation, while the powerful CPU and GPU deliver fast performance for everyday tasks and creative projects. The Retina display is bright and colorful, and the laptop provides excellent battery life, perfect for users who prioritize mobility and all-day productivity.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip with 8-core CPU",
+      "8GB unified memory",
+      "256GB SSD storage",
+      "Battery life up to 18 hours"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 15
+  },
+  {
+    "product_id": "A005",
+    "product_title": "Apple MacBook Pro 13-inch M2",
+    "product_image": "https://ibb.co.com/PvFZQw1f",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "This 13-inch MacBook Pro with the M2 chip offers a great balance of portability and power for professionals on the move. Featuring the Magic Keyboard and Retina display, it supports intensive workloads like photo and video editing with smooth performance. The Touch Bar adds quick access to controls and shortcuts, while the battery supports long work sessions.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M2 chip with 8-core CPU",
+      "16GB unified memory",
+      "512GB SSD storage",
+      "Battery life up to 20 hours"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 18
+  },
+  {
+    "product_id": "A006",
+    "product_title": "Apple MacBook Pro 16-inch M1 Max",
+    "product_image": "https://ibb.co.com/9kJ6jRLX",
+    "category": "Laptops",
+    "price": 3199,
+    "description": "Designed for heavy workloads, the MacBook Pro 16-inch with M1 Max chip delivers extraordinary CPU and GPU performance. It features a stunning 16-inch Liquid Retina XDR display with excellent color accuracy. With up to 64GB memory and fast SSD storage, it’s perfect for 3D rendering, software development, and video production. Advanced cooling ensures consistent performance during extended use.",
+    "specification": [
+      "16-inch Liquid Retina XDR display",
+      "M1 Max chip with 10-core CPU",
+      "64GB unified memory",
+      "4TB SSD storage",
+      "Battery life up to 21 hours"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 25
+  },
+  {
+    "product_id": "A007",
+    "product_title": "Apple MacBook Air 13-inch M1 2020",
+    "product_image": "https://ibb.co.com/nsH1Z3pq",
+    "category": "Laptops",
+    "price": 899,
+    "description": "The 2020 MacBook Air powered by the Apple M1 chip is known for exceptional performance and efficiency in a slim design. It offers a high-resolution Retina display and supports up to 16GB of memory. This model is ideal for students and professionals who want a dependable, lightweight machine for everyday computing and multimedia.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB unified memory",
+      "256GB SSD storage",
+      "Battery life up to 18 hours"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 15
+  },
+  {
+    "product_id": "A008",
+    "product_title": "Apple MacBook Pro 14-inch M2 Pro",
+    "product_image": "https://ibb.co.com/DDtPTNtk",
+    "category": "Laptops",
+    "price": 1999,
+    "description": "The MacBook Pro 14-inch equipped with the M2 Pro chip is tailored for demanding professional tasks, offering a Liquid Retina XDR display and ProMotion technology. It balances power efficiency with top-tier performance and includes a versatile range of ports. Perfect for video editors, developers, and designers who need reliability and speed on the go.",
+    "specification": [
+      "14-inch Liquid Retina XDR display",
+      "M2 Pro chip with 12-core CPU",
+      "32GB unified memory",
+      "1TB SSD storage",
+      "Battery life up to 17 hours"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 22
+  },
+  {
+    "product_id": "A009",
+    "product_title": "Apple MacBook Air 13-inch M2 2022",
+    "product_image": "https://ibb.co.com/ZRdzMcCB",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "The 2022 MacBook Air with the M2 chip features a fresh design with a bigger 13.6-inch Retina display, improved performance, and battery life. This model offers MagSafe charging, better speakers, and an upgraded 1080p webcam, making it ideal for both everyday productivity and creative work in a compact form factor.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "M2 chip with 8-core CPU",
+      "16GB unified memory",
+      "512GB SSD storage",
+      "Battery life up to 18 hours"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 20
+  },
+  {
+    "product_id": "A010",
+    "product_title": "Apple MacBook Pro 13-inch M1 Pro",
+    "product_image": "https://ibb.co.com/7hw34gP",
+    "category": "Laptops",
+    "price": 1799,
+    "description": "The MacBook Pro 13-inch with M1 Pro chip brings enhanced CPU and GPU power, along with an extended battery life and advanced cooling system. It features the Retina display and is ideal for professionals requiring strong performance in a portable size. Perfect for multitasking, software development, and creative projects that demand reliability and speed.",
+    "specification": [
+      "13.3-inch Retina display",
+      "M1 Pro chip with 8-core CPU",
+      "16GB unified memory",
+      "1TB SSD storage",
+      "Battery life up to 20 hours"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 18
+  },
+
+   {
+    "product_id": "HP001",
+    "product_title": "HP Envy 13",
+    "product_image": "https://ibb.co.com/b5f6HZSM",
+    "category": "Laptops",
+    "price": 1199.99,
+    "description": "The HP Envy 13 is a sleek and ultra-portable laptop designed for creators and professionals. Featuring a vibrant 13.3-inch 4K display, the latest Intel Core i7 processor, and fast SSD storage, it offers powerful performance and excellent battery life in a lightweight metal chassis.",
+    "specification": [
+      "13.3-inch 4K UHD display",
+      "Intel Core i7-1165G7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "HP002",
+    "product_title": "HP Envy x360 15",
+    "product_image": "https://ibb.co.com/NGZR9fN",
+    "category": "Laptops",
+    "price": 1049.99,
+    "description": "HP Envy x360 15 is a powerful 2-in-1 convertible laptop equipped with AMD Ryzen 7 processors and a stunning touch-enabled display. It is designed to provide excellent multitasking and creative capabilities in a durable metal build with Bang & Olufsen audio for an immersive experience.",
+    "specification": [
+      "15.6-inch Full HD touch display",
+      "AMD Ryzen 7 5700U processor",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Radeon Graphics"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 20.00
+  },
+  {
+    "product_id": "HP003",
+    "product_title": "HP Dragonfly G3",
+    "product_image": "https://example.com/hp_dragonfly_g3.jpg",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "The HP Dragonfly G3 is an ultra-lightweight business laptop weighing under 1 kg, offering powerful Intel Evo platform performance. It includes a 13.5-inch 3:2 display, advanced security features, and excellent battery life, making it perfect for executives who prioritize mobility without sacrificing power.",
+    "specification": [
+      "13.5-inch 3:2 display",
+      "Intel Core i7-1165G7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 25.00
+  },
+  {
+    "product_id": "HP004",
+    "product_title": "HP Dragonfly Folio",
+    "product_image": "https://ibb.co.com/Qv7vzC3L",
+    "category": "Laptops",
+    "price": 1799.99,
+    "description": "HP Dragonfly Folio is a premium business convertible laptop with a leather-inspired finish and ultra-thin design. It features a 13.5-inch touchscreen, stylus support, and enterprise-grade security, perfect for professionals looking for style, performance, and security in one elegant device.",
+    "specification": [
+      "13.5-inch touch display",
+      "Intel Core i7-1165G7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "shipping_charge": 30.00
+  },
+  {
+    "product_id": "HP005",
+    "product_title": "HP EliteBook 840 G9",
+    "product_image": "https://ibb.co.com/LXNT37s8",
+    "category": "Laptops",
+    "price": 1349.99,
+    "description": "The HP EliteBook 840 G9 is a powerful business laptop combining strong security features with a durable chassis. With a 14-inch Full HD display and 12th Gen Intel Core processors, it delivers reliable performance and long battery life, ideal for on-the-go professionals and corporate environments.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-1265U processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 18.00
+  },
+  {
+    "product_id": "HP006",
+    "product_title": "HP EliteBook x360 1040 G9",
+    "product_image": "https://ibb.co.com/4RGLnx9v",
+    "category": "Laptops",
+    "price": 1899.99,
+    "description": "The HP EliteBook x360 1040 G9 is a versatile premium business convertible with a 14-inch touchscreen and 360-degree hinge. Equipped with powerful Intel processors and collaboration tools, it offers flexibility, security, and performance for executives who need to work efficiently in any environment.",
+    "specification": [
+      "14-inch Full HD touch display",
+      "Intel Core i7-1265U processor",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 22.00
+  },
+  {
+    "product_id": "HP007",
+    "product_title": "HP ProBook 450 G9",
+    "product_image": "https://ibb.co.com/svwhBqW6",
+    "category": "Laptops",
+    "price": 899.99,
+    "description": "The HP ProBook 450 G9 is a budget-friendly business laptop offering a solid balance of performance and value. With a 15.6-inch display, Intel Core i5/i7 processors, and a sturdy chassis, it’s perfect for small and medium-sized businesses requiring reliable productivity tools.",
+    "specification": [
+      "15.6-inch Full HD display",
+      "Intel Core i5-1235U processor",
+      "8GB RAM",
+      "256GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "HP008",
+    "product_title": "HP ProBook 635 Aero",
+    "product_image": "https://ibb.co.com/5WYbrXsK",
+    "category": "Laptops",
+    "price": 1099.99,
+    "description": "HP ProBook 635 Aero offers AMD Ryzen processor power packed in a lightweight, durable chassis. It boasts impressive battery life and strong security features, making it ideal for mobile professionals who need dependable performance and portability without compromise.",
+    "specification": [
+      "13.3-inch Full HD display",
+      "AMD Ryzen 7 5850U processor",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Radeon Graphics"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 17.00
+  },
+  {
+    "product_id": "HP009",
+    "product_title": "HP Elite Dragonfly Max",
+    "product_image": "https://ibb.co.com/zTJzr6Rj",
+    "category": "Laptops",
+    "price": 1799.99,
+    "description": "The HP Elite Dragonfly Max is a top-tier business laptop featuring AI noise cancellation, 5G connectivity, and a vivid 13.5-inch display. Designed for professionals working remotely, it offers long battery life and enhanced collaboration capabilities for seamless productivity anywhere.",
+    "specification": [
+      "13.5-inch 3:2 display",
+      "Intel Core i7-1165G7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 25.00
+  },
+  {
+    "product_id": "HP010",
+    "product_title": "HP ProBook x360 435 G8",
+    "product_image": "https://ibb.co.com/6RRqXWZt",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "The HP ProBook x360 435 G8 is a flexible 2-in-1 laptop powered by AMD Ryzen processors. Its 13.3-inch touch display and convertible design make it ideal for teamwork and presentations, while security features ensure data safety for business environments.",
+    "specification": [
+      "13.3-inch Full HD touch display",
+      "AMD Ryzen 5 5600U processor",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Radeon Graphics"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 18.00
+  },
+
+  {
+    "product_id": "DELL001",
+    "product_title": "Dell XPS 13 Plus",
+    "product_image": "https://ibb.co.com/Q39ZHgB4",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "The Dell XPS 13 Plus offers a futuristic design with a seamless glass touch function row and edge-to-edge 13.4-inch OLED display. Powered by 12th Gen Intel Core processors, this laptop is ideal for professionals and creatives seeking top-tier performance in a compact, stylish body.",
+    "specification": [
+      "13.4-inch OLED touch display",
+      "Intel Core i7-1260P processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 20.00
+  },
+
+  {
+    "product_id": "DELL003",
+    "product_title": "Dell Latitude 7420",
+    "product_image": "https://ibb.co.com/CsSc0YSW",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "The Dell Latitude 7420 is a premium business laptop built for durability and security. Featuring a 14-inch Full HD display and 11th Gen Intel Core processors, it delivers excellent performance with long battery life and enterprise-grade security features ideal for professionals.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-1185G7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 22.00
+  },
+  {
+    "product_id": "DELL004",
+    "product_title": "Dell G15 Gaming Laptop",
+    "product_image": "https://ibb.co.com/bg9ZKMJB",
+    "category": "Laptops",
+    "price": 1149.99,
+    "description": "The Dell G15 is a budget-friendly gaming laptop with powerful hardware including an Intel Core i7 processor and NVIDIA RTX 3050 graphics. With a 15.6-inch Full HD display and effective thermal cooling, it offers smooth gameplay and reliable performance for gamers on a budget.",
+    "specification": [
+      "15.6-inch Full HD display",
+      "Intel Core i7-11800H processor",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GeForce RTX 3050"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 19.00
+  },
+
+  {
+    "product_id": "DELL007",
+    "product_title": "Dell Latitude 9520",
+    "product_image": "https://ibb.co.com/Y7vMt5Lf",
+    "category": "Laptops",
+    "price": 2099.99,
+    "description": "The Dell Latitude 9520 is an enterprise-class laptop built for performance and security. It features a 15-inch Full HD display, 11th Gen Intel Core processors, and advanced security solutions. Its premium chassis and long battery life make it ideal for demanding business environments.",
+    "specification": [
+      "15-inch Full HD display",
+      "Intel Core i7-1185G7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 28.00
+  },
+
+  {
+    "product_id": "DELL009",
+    "product_title": "Dell Precision 5570",
+    "product_image": "https://ibb.co.com/99vRbB36",
+    "category": "Laptops",
+    "price": 2499.99,
+    "description": "The Dell Precision 5570 is a mobile workstation designed for professionals in CAD and 3D design. Featuring a 15.6-inch 4K UHD display and Intel Xeon processors, it offers high-end graphics performance and reliability for demanding creative and engineering tasks.",
+    "specification": [
+      "15.6-inch 4K UHD display",
+      "Intel Xeon W-11955M processor",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA RTX A2000"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 35.00
+  },
+  {
+    "product_id": "DELL010",
+    "product_title": "Dell Inspiron 16 Plus",
+    "product_image": "https://ibb.co.com/Pv9T8Wnh",
+    "category": "Laptops",
+    "price": 1249.99,
+    "description": "The Dell Inspiron 16 Plus offers a large 16-inch 3K display and powerful 11th Gen Intel Core processors. It’s perfect for users needing a big screen and strong multitasking capabilities for creative work and entertainment, all within a stylish, modern chassis.",
+    "specification": [
+      "16-inch 3K display",
+      "Intel Core i7-11800H processor",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GeForce RTX 3050 Ti"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 20.00
+  },
+
+  {
+    "product_id": "AS001",
+    "product_title": "Asus Vivobook 15 OLED (M513IA)",
+    "product_image": "https://ibb.co.com/qSVHnxc",
+    "category": "Laptops",
+    "price": 899.99,
+    "description": "The Asus Vivobook 15 OLED (M513IA) delivers stunning visual quality with its 15.6-inch Full HD OLED display, perfect for content creators and media enthusiasts. Powered by AMD Ryzen 7 5800H and 16GB RAM, it handles multitasking effortlessly. A fast 512GB SSD, ergonomic keyboard, and lightweight chassis make it ideal for both work and entertainment on the go.",
+    "specification": [
+      "15.6-inch Full HD OLED display",
+      "AMD Ryzen 7 5800H processor",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Radeon Graphics"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "AS004",
+    "product_title": "Asus Vivobook Flip 14 (TP470EA)",
+    "product_image": "https://ibb.co.com/kggMJgPp",
+    "category": "Laptops",
+    "price": 749.99,
+    "description": "The Asus Vivobook Flip 14 (TP470EA) is a versatile 2-in-1 convertible laptop with a responsive touch screen and stylus support. Powered by Intel Core i5-1135G7, it offers solid performance for work, study, and creative projects. The 360-degree hinge, lightweight design, and long battery life make it ideal for flexible on-the-go usage.",
+    "specification": [
+      "14-inch Full HD touch display",
+      "Intel Core i5-1135G7 processor",
+      "8GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "shipping_charge": 15.00
+  },
+  
+  {
+    "product_id": "AS010",
+    "product_title": "Asus Vivobook 15X OLED (M1504QA)",
+    "product_image": "https://ibb.co.com/mVWMxgSj",
+    "category": "Laptops",
+    "price": 1049.99,
+    "description": "The Asus Vivobook 15X OLED (M1504QA) is a creative-focused laptop featuring a 15.6-inch 2.8K OLED display, making it ideal for multimedia editing and vibrant visuals. Equipped with AMD Ryzen 7 6800H and 16GB RAM, it provides reliable performance for creators and students alike. Its light build and long battery life ensure productivity on the move.",
+    "specification": [
+      "15.6-inch 2.8K OLED display",
+      "AMD Ryzen 7 6800H processor",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Radeon Graphics"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 18.00
+  },
+
+  {
+    "product_id": "SB001",
+    "product_title": "Microsoft Surface Book 3 – 13.5-inch",
+    "product_image": "https://ibb.co.com/VYQntZHx",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "The Surface Book 3 13.5-inch combines the power of a high-performance laptop with the versatility of a detachable tablet. With Intel Core i7, up to NVIDIA GTX 1650 Max‑Q graphics, and all-day battery life, it handles creative workflows like photo editing, coding, and light gaming effortlessly. The PixelSense touchscreen is vivid and responsive, and the hinge allows easy transition between laptop and tablet modes.",
+    "specification": [
+      "13.5-inch PixelSense touchscreen",
+      "Intel Core i7-1065G7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GeForce GTX 1650 Max‑Q"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 20.00
+  },
+  {
+    "product_id": "SB002",
+    "product_title": "Microsoft Surface Book 3 – 15-inch",
+    "product_image": "https://ibb.co.com/LsqNYK0",
+    "category": "Laptops",
+    "price": 2399.99,
+    "description": "The Surface Book 3 15-inch is designed for power users who need professional-grade performance. Sporting Intel Core i7 and NVIDIA GTX 1660 Ti, it excels at 3D rendering, video editing, and other GPU-intensive tasks. This detachable laptop delivers tablet convenience with pen support and long battery life, while its sturdy build ensures reliability in various work environments.",
+    "specification": [
+      "15-inch PixelSense touchscreen",
+      "Intel Core i7-1065G7 processor",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce GTX 1660 Ti"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 25.00
+  },
+
+  {
+    "product_id": "SB007",
+    "product_title": "Microsoft Surface Book 3 – High Spec",
+    "product_image": "https://ibb.co.com/n8bxg9Pn",
+    "category": "Laptops",
+    "price": 2799.99,
+    "description": "The highest-performance Surface Book 3 features Intel Core i7 and NVIDIA GTX 1660 Ti Max‑Q, alongside 32GB RAM and 2TB SSD storage. Built for professional creative workflows such as video editing, 3D rendering, and graphic design, its detachable form factor and impressive battery life make it a powerful yet flexible studio device.",
+    "specification": [
+      "15-inch PixelSense touchscreen",
+      "Intel Core i7-1065G7 processor",
+      "32GB RAM",
+      "2TB SSD",
+      "NVIDIA GeForce GTX 1660 Ti Max‑Q"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 30.00
+  },
+ 
+  {
+    "product_id": "SB009",
+    "product_title": "Microsoft Surface Book 3 – Mid Spec",
+    "product_image": "https://ibb.co.com/VYQntZHx",
+    "category": "Laptops",
+    "price": 1999.99,
+    "description": "The mid-spec Surface Book 3 model offers a solid blend of power and portability with Intel Core i7, 16GB RAM, 1TB SSD, and NVIDIA GTX 1650. The detachable design provides flexibility for tablet usage, and the bright PixelSense display is great for drawing, presentations, or watching HD video content anywhere.",
+    "specification": [
+      "13.5-inch PixelSense touchscreen",
+      "Intel Core i7-1065G7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce GTX 1650"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 22.00
+  },
+  {
+    "product_id": "SB010",
+    "product_title": "Microsoft Surface Book 3 – 2TB GPU",
+    "product_image": "https://ibb.co.com/9kkZLKjt",
+    "category": "Laptops",
+    "price": 3199.99,
+    "description": "This top-tier Surface Book 3 model includes Intel Core i7, NVIDIA GTX 1660 Ti Max‑Q, 32GB RAM, and 2TB SSD. Built for professionals who need maximum performance in a portable design, it excels in video editing, 3D modeling, and graphic design. The detachable tablet mode and precise pen input enhance creative workflows.",
+    "specification": [
+      "15-inch PixelSense touchscreen",
+      "Intel Core i7-1065G7 processor",
+      "32GB RAM",
+      "2TB SSD",
+      "NVIDIA GeForce GTX 1660 Ti Max‑Q"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 30.00
+  },
+
+  {
+    "product_id": "KBD001",
+    "product_title": "Logitech MX Keys",
+    "product_image": "https://ibb.co.com/yc5FXsTQ",
+    "category": "Keyboards",
+    "price": 82.81,
+    "description": "The Logitech MX Keys is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 3.8,
+    "shipping_charge": 12.46
+  },
+  {
+    "product_id": "KBD002",
+    "product_title": "Logitech K380 Multi-Device",
+    "product_image": "https://ibb.co.com/vC6Jbz3N",
+    "category": "Keyboards",
+    "price": 55.87,
+    "description": "The Logitech K380 Multi-Device is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 4.27
+  },
+  {
+    "product_id": "KBD003",
+    "product_title": "Logitech G915 TKL",
+    "product_image": "https://ibb.co.com/BHhY4F3K",
+    "price": 234.81,
+    "description": "The Logitech G915 TKL is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "shipping_charge": 8.12
+  },
+  {
+    "product_id": "KBD004",
+    "product_title": "Logitech K845 Mechanical",
+    "product_image": "https://ibb.co.com/GQ9x7Btx",
+    "category": "Keyboards",
+    "price": 194.37,
+    "description": "The Logitech K845 Mechanical is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "shipping_charge": 14.25
+  },
+  {
+    "product_id": "KBD005",
+    "product_title": "Razer BlackWidow V4",
+    "product_image": "https://ibb.co.com/N20D6JpQ",
+    "category": "Keyboards",
+    "price": 243.86,
+    "description": "The Razer BlackWidow V4 is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 5.0,
+    "shipping_charge": 12.62
+  },
+  {
+    "product_id": "KBD006",
+    "product_title": "Razer Huntsman Mini",
+    "product_image": "https://ibb.co.com/60v1ydHh",
+    "category": "Keyboards",
+    "price": 242.29,
+    "description": "The Razer Huntsman Mini is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 4.3,
+    "shipping_charge": 0.05
+  },
+  {
+    "product_id": "KBD007",
+    "product_title": "Razer Cynosa V2",
+    "product_image": "https://ibb.co.com/5gfZHkcm",
+    "category": "Keyboards",
+    "price": 246.47,
+    "description": "The Razer Cynosa V2 is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.0,
+    "shipping_charge": 5.1
+  },
+  {
+    "product_id": "KBD008",
+    "product_title": "Razer Pro Type Ultra",
+    "product_image": "https://ibb.co.com/PGDM6CFg",
+    "category": "Keyboards",
+    "price": 228.79,
+    "description": "The Razer Pro Type Ultra is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.2,
+    "shipping_charge": 9.78
+  },
+  {
+    "product_id": "KBD009",
+    "product_title": "Corsair K95 RGB Platinum",
+    "product_image": "https://ibb.co.com/fd1kRXBF",
+    "category": "Keyboards",
+    "price": 95.69,
+    "description": "The Corsair K95 RGB Platinum is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 7.7
+  },
+  {
+    "product_id": "KBD010",
+    "product_title": "Corsair K70 RGB TKL",
+    "product_image": "https://ibb.co.com/H98NJJ1",
+    "category": "Keyboards",
+    "price": 175.92,
+    "description": "The Corsair K70 RGB TKL is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 5.0,
+    "shipping_charge": 10.96
+  },
+  {
+    "product_id": "KBD011",
+    "product_title": "Corsair K55 RGB Pro XT",
+    "product_image": "https://ibb.co.com/qFjBVYCg",
+    "category": "Keyboards",
+    "price": 207.98,
+    "description": "The Corsair K55 RGB Pro XT is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.2,
+    "shipping_charge": 14.19
+  },
+  {
+    "product_id": "KBD012",
+    "product_title": "Corsair K100 Air Wireless",
+    "product_image": "https://ibb.co.com/z0ZFRYf",
+    "category": "Keyboards",
+    "price": 170.02,
+    "description": "The Corsair K100 Air Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 3.9,
+    "shipping_charge": 9.7
+  },
+  {
+    "product_id": "KBD013",
+    "product_title": "Keychron K2 Wireless",
+    "product_image": "https://ibb.co.com/5xXhV8JS",
+    "category": "Keyboards",
+    "price": 87.29,
+    "description": "The Keychron K2 Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "shipping_charge": 6.68
+  },
+  {
+    "product_id": "KBD014",
+    "product_title": "Keychron K6 Wireless",
+    "product_image": "https://ibb.co.com/XfSzfYJv",
+    "category": "Keyboards",
+    "price": 159.3,
+    "description": "The Keychron K6 Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 14.99
+  },
+  {
+    "product_id": "KBD015",
+    "product_title": "Keychron Q1 Pro",
+    "product_image": "https://ibb.co.com/MxCknrdb",
+    "category": "Keyboards",
+    "price": 54.09,
+    "description": "The Keychron Q1 Pro is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "shipping_charge": 1.82
+  },
+  {
+    "product_id": "KBD016",
+    "product_title": "Keychron V1 QMK",
+    "product_image": "https://ibb.co.com/xKTVTMBV",
+    "category": "Keyboards",
+    "price": 149.25,
+    "description": "The Keychron V1 QMK is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
+    "specification": [
+      "Ergonomic layout",
+      "Wireless and USB connectivity",
+      "Backlit keys",
+      "Multi-OS support",
+      "Long battery life"
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "shipping_charge": 3.1
+  },
+   
+  {
+    "product_id": "MSERAZR001",
+    "product_title": "Razer DeathAdder V3 Pro",
+    "product_image": "https://ibb.co.com/sXKWx0R",
+    "category": "Computer Mouse",
+    "price": 149.99,
+    "description": "The evolution of a legend. The DeathAdder V3 Pro is an ultra-lightweight ergonomic mouse, refined and reforged to provide absolute control and comfort for competitive play.",
+    "specification": [
+      "63g Ultra-lightweight Design",
+      "Focus Pro 30K Optical Sensor",
+      "Razer HyperSpeed Wireless",
+      "Optical Mouse Switches Gen-3",
+      "Up to 90 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "MSERAZR002",
+    "product_title": "Razer Viper V2 Pro",
+    "product_image": "https://ibb.co.com/prbtNfPs",
+    "category": "Computer Mouse",
+    "price": 149.99,
+    "description": "Esports has a new apex predator. The Razer Viper V2 Pro is 20% lighter than its predecessor and armed with all-round upgrades for enhanced performance. For the pros, by the pros.",
+    "specification": [
+      "58g Ultra-lightweight Design",
+      "Ambidextrous shape",
+      "Focus Pro 30K Optical Sensor",
+      "Razer HyperSpeed Wireless",
+      "Optical Mouse Switches Gen-3"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "MSERAZR003",
+    "product_title": "Razer Basilisk V3",
+    "product_image": "https://ibb.co.com/chtLk01L",
+    "category": "Computer Mouse",
+    "price": 69.99,
+    "description": "The quintessential ergonomic gaming mouse for customized performance. Features 11 programmable buttons, a smart-reel scroll wheel, and a heavy dose of Razer Chroma RGB.",
+    "specification": [
+      "10+1 Programmable Buttons",
+      "Razer HyperScroll Tilt Wheel",
+      "11 Chroma RGB Lighting Zones",
+      "Focus+ 26K DPI Optical Sensor",
+      "Iconic ergonomic design with thumb rest"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 8.99
+  },
+  {
+    "product_id": "MSERAZR004",
+    "product_title": "Razer Naga V2 Pro",
+    "product_image": "https://ibb.co.com/5XRm1ZMn",
+    "category": "Computer Mouse",
+    "price": 179.99,
+    "description": "The master of MMO and MOBA games. The Razer Naga V2 Pro comes with 3 swappable side plates, allowing you to adapt to any game genre with 12, 6, or 2 button layouts.",
+    "specification": [
+      "3 Swappable Side Plates",
+      "Up to 19+1 Programmable Buttons",
+      "Razer HyperSpeed Wireless",
+      "Focus Pro 30K Optical Sensor",
+      "Razer HyperScroll Pro Wheel"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 15.99
+  },
+  
+  {
+    "product_id": "MSESTEEL001",
+    "product_title": "SteelSeries Aerox 5 Wireless",
+    "product_image": "https://ibb.co.com/fTLt14m",
+    "category": "Computer Mouse",
+    "price": 139.99,
+    "description": "Engineered to be lightning fast, the Aerox 5 Wireless has an ultra-lightweight 74g design, perfect for any game genre. Features dual wireless connectivity and 9 programmable buttons.",
+    "specification": [
+      "74g ultra-lightweight design",
+      "Quantum 2.0 Dual Wireless (2.4GHz and Bluetooth)",
+      "AquaBarrier protection (water resistant)",
+      "TrueMove Air precision optical sensor",
+      "180+ hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 12.95
+  },
+  {
+    "product_id": "MSESTEEL002",
+    "product_title": "SteelSeries Prime Wireless",
+    "product_image": "https://ibb.co.com/ycjJQCqJ",
+    "category": "Computer Mouse",
+    "price": 99.99,
+    "description": "Developed with the world's leading competitive esports players, the Prime Wireless mouse has a battle-tested shape, ultra-lightweight 80g design, and crispy optical magnetic switches.",
+    "specification": [
+      "80g lightweight design",
+      "Prestige OM optical magnetic switches",
+      "Quantum 2.0 Wireless technology",
+      "TrueMove Air gaming sensor",
+      "100 hours of gameplay on a full charge"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 10.50
+  },
+  {
+    "product_id": "MSESTEEL003",
+    "product_title": "SteelSeries Rival 3",
+    "product_image": "https://ibb.co.com/ycjJQCqJ",
+    "category": "Computer Mouse",
+    "price": 29.99,
+    "description": "Enjoy true performance with the Rival 3. Featuring a TrueMove Core optical gaming sensor and a durable, lightweight build, it's the perfect entry into competitive gaming.",
+    "specification": [
+      "Hyper durable materials",
+      "77g lightweight ergonomic construction",
+      "TrueMove Core Optical Gaming Sensor",
+      "Brilliant Prism RGB lighting",
+      "60 Million Click Mechanical Switches"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "shipping_charge": 5.99
+  },
+ 
+  {
+    "product_id": "MSECORS001",
+    "product_title": "Corsair Scimitar RGB Elite",
+    "product_image": "https://ibb.co.com/pjn65r39",
+    "category": "Computer Mouse",
+    "price": 79.99,
+    "description": "The Scimitar RGB Elite levels up your gameplay with 17 fully programmable buttons for advanced macros and remaps. A patented Key Slider control system lets you reposition the 12 side buttons.",
+    "specification": [
+      "17 programmable buttons",
+      "Patented Key Slider control system",
+      "18,000 DPI optical sensor",
+      "Durable 50 million click Omron switches",
+      "Four-zone dynamic RGB lighting"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 9.99
+  },
+  {
+    "product_id": "MSECORS002",
+    "product_title": "Corsair Dark Core RGB Pro SE",
+    "product_image": "https://ibb.co.com/JLfspxy",
+    "category": "Computer Mouse",
+    "price": 89.99,
+    "description": "The Dark Core RGB Pro SE features three ways to connect, including sub-1ms Slipstream Wireless. It also supports Qi wireless charging and has a comfortable contoured shape.",
+    "specification": [
+      "Three ways to connect: Slipstream Wireless, Bluetooth, USB",
+      "Qi Wireless Charging compatible",
+      "18,000 DPI optical sensor",
+      "Nine-zone dynamic RGB lighting",
+      "Two interchangeable side grips"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "shipping_charge": 10.25
+  },
+  
+  {
+    "product_id": "MSEMSFT004",
+    "product_title": "Microsoft Pro IntelliMouse",
+    "product_image": "https://ibb.co.com/Fd1X4v6",
+    "category": "Computer Mouse",
+    "price": 59.99,
+    "description": "Inspired by the classic IntelliMouse 3.0, the Pro IntelliMouse has exceptional tracking and the firm scroll wheel fans love, but with modern upgrades like a better sensor and customizable buttons.",
+    "specification": [
+      "Classic ergonomic design",
+      "PixArt PAW3389PRO-MS tracking sensor",
+      "Improved top-of-the-line performance",
+      "Customizable buttons and tail light",
+      "Wired USB 2.0 connection"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 7.80
+  },
+  
+   {
+    "product_id": "SNDJBL001",
+    "product_title": "JBL Flip 6",
+    "product_image": "https://ibb.co.com/7J2gjy2B",
+    "category": "Soundboxes",
+    "price": 129.95,
+    "description": "The JBL Flip 6 delivers powerful JBL Original Pro Sound with exceptional clarity thanks to its 2-way speaker system. It's waterproof and dustproof, so you can bring your speaker anywhere.",
+    "specification": [
+      "JBL Original Pro Sound",
+      "IP67 waterproof and dustproof",
+      "12 hours of playtime",
+      "Bluetooth 5.1 connectivity",
+      "PartyBoost compatible to link multiple speakers"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 10.50
+  },
+  {
+    "product_id": "SNDJBL002",
+    "product_title": "JBL Charge 5",
+    "product_image": "https://ibb.co.com/XxWGXCWD",
+    "category": "Soundboxes",
+    "price": 179.95,
+    "description": "Take the party with you no matter what the weather. The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with an optimized long-excursion driver, separate tweeter, and dual bass radiators. It also doubles as a powerbank.",
+    "specification": [
+      "Bold JBL Original Pro Sound",
+      "IP67 waterproof and dustproof",
+      "20 hours of playtime",
+      "Built-in powerbank to charge devices",
+      "PartyBoost compatible"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 12.99
+  },
+  {
+    "product_id": "SNDJBL003",
+    "product_title": "JBL Go 3",
+    "product_image": "https://ibb.co.com/S49rrd23",
+    "category": "Soundboxes",
+    "price": 49.95,
+    "description": "JBL Go 3 features bold styling and rich JBL Pro Sound. With its new eye-catching edgy design, colorful fabrics, and expressive details this a must-have accessory for your next outing.",
+    "specification": [
+      "Ultra-portable design with integrated loop",
+      "IP67 waterproof and dustproof",
+      "5 hours of playtime",
+      "Bluetooth 5.1",
+      "Vibrant color options"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 6.95
+  },
+  {
+    "product_id": "SNDJBL004",
+    "product_title": "JBL PartyBox 310",
+    "product_image": "https://ibb.co.com/sdDyvKHR",
+    "category": "Soundboxes",
+    "price": 549.95,
+    "description": "Huge JBL Pro Sound, a dazzling, dynamic light show that syncs to the beat, and a splashproof design. The PartyBox 310 is the ultimate portable party machine with wheels and a telescopic handle.",
+    "specification": [
+      "240 watts of powerful JBL Pro Sound",
+      "Dynamic light show with multiple modes",
+      "18 hours of battery life",
+      "IPX4 splashproof",
+      "Mic and guitar inputs with built-in vocal tuning"
+    ],
+    "availability": false,
+    "rating": 4.9,
+    "shipping_charge": 45.00
+  },
+ 
+  {
+    "product_id": "SNDBOSE001",
+    "product_title": "Bose SoundLink Flex",
+    "product_image": "https://ibb.co.com/R4d4z3Tq",
+    "category": "Soundboxes",
+    "price": 149.00,
+    "description": "The SoundLink Flex Bluetooth speaker delivers the clearest possible sound with deep, powerful bass. Packed with exclusive technologies and a custom-engineered transducer for deep, clear, and immersive audio.",
+    "specification": [
+      "Astonishing sound quality",
+      "PositionIQ technology for optimal sound in any orientation",
+      "IP67 waterproof and dustproof",
+      "Up to 12 hours of battery life",
+      "Rugged, portable design"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 11.99
+  },
+  {
+    "product_id": "SNDBOSE002",
+    "product_title": "Bose Portable Smart Speaker",
+    "product_image": "https://ibb.co.com/Pzrg50S9",
+    "category": "Soundboxes",
+    "price": 399.00,
+    "description": "The most versatile smart speaker from Bose. It’s a home speaker, a portable speaker, and a voice-controlled speaker, all in one. Enjoy 360 degrees of deep, clear, lifelike sound.",
+    "specification": [
+      "360-degree immersive sound",
+      "Wi-Fi and Bluetooth connectivity",
+      "Built-in Amazon Alexa and Google Assistant",
+      "Up to 12 hours of battery life",
+      "Durable, water-resistant design (IPX4)"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 18.00
+  },
+  {
+    "product_id": "SNDBOSE003",
+    "product_title": "Bose SoundLink Micro",
+    "product_image": "https://ibb.co.com/TxQdPFGH",
+    "category": "Soundboxes",
+    "price": 119.00,
+    "description": "Crisp, balanced sound and unmatched bass for a speaker its size. The SoundLink Micro is waterproof from the inside out and features a tear-resistant silicone strap, so you can take it wherever you go.",
+    "specification": [
+      "Surprisingly loud for its size",
+      "IP67 waterproof rating",
+      "Tear-resistant strap for easy attachment",
+      "Up to 6 hours of battery life",
+      "Built-in speakerphone"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 9.95
+  },
+  {
+    "product_id": "SNDBOSE004",
+    "product_title": "Bose SoundLink Revolve+ II",
+    "product_image": "https://ibb.co.com/Pd7kpnb",
+    "category": "Soundboxes",
+    "price": 329.00,
+    "description": "The best-performing portable Bluetooth speaker from Bose, engineered to spread deep, jaw-dropping sound in every direction. Place it in the center of the room to give everyone the same experience.",
+    "specification": [
+      "True 360-degree sound",
+      "Durable, water-resistant design (IP55)",
+      "Up to 17 hours of battery life",
+      "Flexible fabric handle",
+      "Built-in microphone for calls and voice assistants"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "SNDSONY001",
+    "product_title": "Sony SRS-XB100",
+    "product_image": "https://ibb.co.com/35HLFQBh",
+    "category": "Soundboxes",
+    "price": 59.99,
+    "description": "Enjoy powerful, clear sound with the super-compact SRS-XB100 wireless speaker. It's durable, has up to 16 hours of battery life, and is perfect for on-the-go listening.",
+    "specification": [
+      "Extra Bass for deep, punchy sound",
+      "IP67 waterproof and dustproof",
+      "Up to 16 hours of battery life",
+      "Sound Diffusion Processor for wider sound",
+      "Multiway strap for easy carrying"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 7.50
+  },
+  {
+    "product_id": "SNDSONY002",
+    "product_title": "Sony SRS-XE300",
+    "product_image": "https://ibb.co.com/SD544S7G",
+    "category": "Soundboxes",
+    "price": 199.99,
+    "description": "The XE300 has a Line-Shape Diffuser that will help your music reach further, even to the side of the speaker. Plus, with a portable size and 24-hour battery life, it’s the perfect partner for your next party.",
+    "specification": [
+      "Line-Shape Diffuser for wider soundstage",
+      "IP67 waterproof, dustproof, and shockproof",
+      "24 hours of battery life",
+      "Quick charging (10 mins for 70 mins of play)",
+      "X-Balanced Speaker Unit for powerful bass"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 13.25
+  },
+  {
+    "product_id": "SNDSONY004",
+    "product_title": "Sony LSPX-S3 Glass Sound Speaker",
+    "product_image": "https://ibb.co.com/twbnQzqp",
+    "category": "Soundboxes",
+    "price": 349.99,
+    "description": "Enhance the atmosphere of any room with the crystal clear sound and ambient illumination of the LSPX-S3 Glass Sound Speaker. It features an organic glass tweeter that provides clear, high-frequency sound in every direction.",
+    "specification": [
+      "360-degree high-resolution audio",
+      "Organic glass tube tweeter",
+      "Candle-like LED illumination",
+      "8 hours of battery life",
+      "Bluetooth connectivity"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "shipping_charge": 16.50
+  },
+  {
+    "product_id": "SNDSONY005",
+    "product_title": "Sony SRS-RA3000",
+    "product_image": "https://ibb.co.com/7tVqB83j",
+    "category": "Soundboxes",
+    "price": 249.99,
+    "description": "Enjoy a new listening experience with the RA3000. This Wi-Fi enabled speaker creates ambient room-filling sound and supports 360 Reality Audio for an immersive experience.",
+    "specification": [
+      "Ambient room-filling sound",
+      "360 Reality Audio support",
+      "Wi-Fi and Bluetooth connectivity",
+      "Chromecast built-in and Spotify Connect",
+      "Humidity resistant for use in kitchen or bathroom"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "SNDSONOS001",
+    "product_title": "Sonos One (Gen 2)",
+    "product_image": "https://ibb.co.com/wZfxtYm6",
+    "category": "Soundboxes",
+    "price": 219.00,
+    "description": "The powerful smart speaker with voice control built in. Get rich, room-filling sound with Sonos One, and control it with your voice, the Sonos app, Apple AirPlay 2, and more.",
+    "specification": [
+      "Brilliant sound for any room",
+      "Amazon Alexa and Google Assistant built-in",
+      "Wi-Fi and Apple AirPlay 2 support",
+      "Humidity resistant",
+      "Part of the Sonos multi-room system"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 14.95
+  },
+  {
+    "product_id": "SNDSONOS002",
+    "product_title": "Sonos Roam",
+    "product_image": "https://ibb.co.com/B2cmj5L4",
+    "category": "Soundboxes",
+    "price": 179.00,
+    "description": "The portable smart speaker for all your listening adventures. Enjoy music, voice control, and multiroom listening at home on Wi-Fi, plus Bluetooth streaming, all-day battery life, and waterproof durability on the go.",
+    "specification": [
+      "Wi-Fi and Bluetooth streaming",
+      "10 hours of battery life",
+      "IP67 waterproof and drop resistant",
+      "Automatic Trueplay tuning",
+      "Voice control with Alexa or Google Assistant"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 12.00
+  },
+ 
+  {
+    "product_id": "SNDSONOS005",
+    "product_title": "Sonos Beam (Gen 2)",
+    "product_image": "https://ibb.co.com/S1R5y6J",
+    "category": "Soundboxes",
+    "price": 499.00,
+    "description": "Enrich all your entertainment with the latest generation of our compact smart soundbar, now with Dolby Atmos. Experience panoramic sound for shows, movies, and games.",
+    "specification": [
+      "Smart, compact soundbar",
+      "Dolby Atmos for 3D sound",
+      "Wi-Fi and Apple AirPlay 2",
+      "Voice control with Alexa or Google Assistant",
+      "HDMI eARC connection"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 25.00
+  },
+
+  {
+    "product_id": "SNDANKR002",
+    "product_title": "Anker Soundcore 2",
+    "product_image": "https://ibb.co.com/QFjxP0Zb",
+    "category": "Soundboxes",
+    "price": 39.99,
+    "description": "Anker's classic portable Bluetooth speaker. Incredible sound, unbelievable 24-hour playtime, and a rugged, durable build make it the perfect go-anywhere speaker.",
+    "specification": [
+      "12W of audio power",
+      "24-hour playtime",
+      "IPX7 waterproof",
+      "Bluetooth 5.0",
+      "BassUp technology for enhanced low-end"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 5.99
+  },
+  {
+    "product_id": "SNDANKR003",
+    "product_title": "Anker Soundcore Flare 2",
+    "product_image": "https://ibb.co.com/dsHZ7N0b",
+    "category": "Soundboxes",
+    "price": 79.00,
+    "description": "A portable 360° Bluetooth speaker with a beat-driven light show. Dual drivers and passive radiators combine with BassUp technology to generate a 20W party with intense bass.",
+    "specification": [
+      "360-degree immersive sound",
+      "Beat-driven light show",
+      "IPX7 waterproof",
+      "12-hour playtime",
+      "PartyCast technology to sync 100+ speakers"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 8.50
+  },
+  {
+    "product_id": "SNDANKR004",
+    "product_title": "Anker Soundcore Motion Boom Plus",
+    "product_image": "https://ibb.co.com/FkQ8jxC6",
+    "category": "Soundboxes",
+    "price": 179.99,
+    "description": "An epic outdoor speaker with an epic 80W of power. Titanium drivers and BassUp technology deliver huge sound that's ready for any adventure. Fully waterproof and includes a detachable strap.",
+    "specification": [
+      "Incredible 80W sound",
+      "Titanium drivers for clarity",
+      "IP67 fully waterproof and dustproof",
+      "20-hour playtime",
+      "PartyCast 2.0 to sync speakers and lights"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 14.00
+  },
+  {
+    "product_id": "SNDANKR005",
+    "product_title": "Anker Soundcore Mini 3",
+    "product_image": "https://ibb.co.com/0VvmpVbR",
+    "category": "Soundboxes",
+    "price": 40.99,
+    "description": "A super-compact Bluetooth speaker with 360° sound, customizable EQ, and 15-hour playtime. The Mini 3 is small enough to slip into a coat pocket or a bag.",
+    "specification": [
+      "Pocket-sized party speaker",
+      "360-degree sound",
+      "IPX7 waterproof",
+      "15-hour playtime",
+      "PartyCast technology"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 6.50
+  },
+   {
+    "product_id": "MONDELL001",
+    "product_title": "Dell UltraSharp U2723QE",
+    "product_image": "https://ibb.co.com/21sVRt9X",
+    "category": "Monitors",
+    "price": 579.99,
+    "description": "A premier 27-inch 4K monitor designed for professionals. It features IPS Black technology for deeper blacks and vibrant colors, extensive connectivity including a KVM switch, and a focus on productivity and user comfort.",
+    "specification": [
+      "27-inch 4K (3840x2160) IPS Black Panel",
+      "VESA DisplayHDR 400",
+      "98% DCI-P3 color coverage",
+      "Extensive connectivity with USB-C Hub (90W Power Delivery)",
+      "Built-in KVM switch"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 25.50
+  },
+  {
+    "product_id": "MONDELL002",
+    "product_title": "Alienware AW3423DWF",
+    "product_image": "https://ibb.co.com/S7KR7kJ7",
+    "category": "Monitors",
+    "price": 999.99,
+    "description": "Experience breathtaking gaming with this 34-inch ultrawide QD-OLED monitor. It combines the deep blacks and infinite contrast of OLED with the vibrant colors of Quantum Dot technology for an incredibly immersive experience.",
+    "specification": [
+      "34-inch Ultrawide (3440x1440) QD-OLED Panel",
+      "165Hz Refresh Rate",
+      "0.1ms GtG Response Time",
+      "VESA DisplayHDR True Black 400",
+      "AMD FreeSync Premium Pro"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 45.00
+  },
+  {
+    "product_id": "MONDELL003",
+    "product_title": "Dell S3222DGM",
+    "product_image": "https://ibb.co.com/1fQ90d7c",
+    "category": "Monitors",
+    "price": 349.99,
+    "description": "A 32-inch curved QHD gaming monitor that offers an immersive viewing experience at a great value. Its high refresh rate and fast response time make it ideal for fast-paced gaming.",
+    "specification": [
+      "31.5-inch QHD (2560x1440) Curved VA Panel",
+      "165Hz Refresh Rate",
+      "1ms (MPRT) Response Time",
+      "AMD FreeSync Premium",
+      "99% sRGB color coverage"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 30.00
+  },
+  {
+    "product_id": "MONDELL004",
+    "product_title": "Dell P2422H",
+    "product_image": "https://ibb.co.com/yBWPvF4d",
+    "category": "Monitors",
+    "price": 219.99,
+    "description": "A reliable and efficient 24-inch Full HD monitor designed for everyday office work. It features ComfortView Plus to reduce harmful blue light emissions without sacrificing color accuracy.",
+    "specification": [
+      "23.8-inch Full HD (1920x1080) IPS Panel",
+      "ComfortView Plus technology",
+      "Thin bezel design",
+      "Fully adjustable stand (height, pivot, swivel, tilt)",
+      "VGA, HDMI, and DisplayPort connectivity"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 18.50
+  },
+  {
+    "product_id": "MONDELL005",
+    "product_title": "Alienware AW2524H",
+    "product_image": "https://ibb.co.com/W4p791h5",
+    "category": "Monitors",
+    "price": 829.99,
+    "description": "Engineered for esports professionals, this monitor boasts a world-first 500Hz refresh rate for the ultimate in motion clarity and responsiveness. Every millisecond counts.",
+    "specification": [
+      "24.5-inch Full HD (1920x1080) Fast IPS Panel",
+      "500Hz Overclocked (480Hz Native) Refresh Rate",
+      "0.5ms GtG Response Time",
+      "NVIDIA G-SYNC and Reflex Analyzer",
+      "VESA DisplayHDR 400"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 40.00
+  },
+  {
+    "product_id": "MONLG001",
+    "product_title": "LG 27GP850-B UltraGear",
+    "product_image": "https://ibb.co.com/Kjhq1fJL",
+    "category": "Monitors",
+    "price": 429.99,
+    "description": "A highly popular gaming monitor that hits the sweet spot for many gamers. It features a fast and colorful Nano IPS panel, QHD resolution, and a high refresh rate for a smooth and immersive experience.",
+    "specification": [
+      "27-inch QHD (2560x1440) Nano IPS Panel",
+      "165Hz (O/C 180Hz) Refresh Rate",
+      "1ms GtG Response Time",
+      "NVIDIA G-SYNC Compatible & AMD FreeSync Premium",
+      "VESA DisplayHDR 400"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 35.00
+  },
+  {
+    "product_id": "MONLG002",
+    "product_title": "LG 42-inch C3 OLED evo",
+    "product_image": "https://ibb.co.com/W4KLpDsk",
+    "category": "Monitors",
+    "price": 1199.99,
+    "description": "While technically a TV, the 42-inch C3 is a favorite desktop monitor for gamers and creators seeking the ultimate image quality. It offers perfect blacks, infinite contrast, and an incredible HDR experience.",
+    "specification": [
+      "42-inch 4K (3840x2160) OLED Panel",
+      "120Hz Refresh Rate",
+      "<1ms Response Time",
+      "G-SYNC Compatible, FreeSync Premium, VRR",
+      "4x HDMI 2.1 ports"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 60.00
+  },
+  {
+    "product_id": "MONLG003",
+    "product_title": "LG DualUp 28MQ780-B",
+    "product_image": "https://ibb.co.com/LdgFkM8S",
+    "category": "Monitors",
+    "price": 699.99,
+    "description": "A completely unique monitor designed for multitasking. Its 16:18 aspect ratio provides the same screen real estate as two 21.5-inch monitors stacked vertically, perfect for coding, editing, and creative work.",
+    "specification": [
+      "27.6-inch SDQHD (2560x2880) Nano IPS Display",
+      "16:18 aspect ratio",
+      "DCI-P3 98% color gamut",
+      "USB Type-C with 90W Power Delivery",
+      "Ergonomic C-Clamp Stand"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 38.00
+  },
+  {
+    "product_id": "MONLG004",
+    "product_title": "LG 34WK95U-W UltraFine",
+    "product_image": "https://ibb.co.com/Dg8cMBRL",
+    "category": "Monitors",
+    "price": 1299.99,
+    "description": "The ultimate ultrawide monitor for creative professionals. It features a stunning 5K2K resolution, providing incredible detail for video editing, photo retouching, and multitasking.",
+    "specification": [
+      "34-inch Ultrawide 5K2K (5120x2160) Nano IPS Display",
+      "VESA DisplayHDR 600",
+      "DCI-P3 98% color gamut",
+      "Thunderbolt 3 connectivity",
+      "Hardware Calibration Ready"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 55.00
+  },
+
+  {
+    "product_id": "MONSAMS001",
+    "product_title": "Samsung Odyssey Neo G9",
+    "product_image": "https://ibb.co.com/20SgFYpK",
+    "category": "Monitors",
+    "price": 1799.99,
+    "description": "An unparalleled, immersive gaming experience. The Odyssey Neo G9 features a massive 49-inch curved screen with Quantum Mini-LED technology, delivering breathtaking picture quality and performance.",
+    "specification": [
+      "49-inch Dual QHD (5120x1440) Curved Panel",
+      "240Hz Refresh Rate & 1ms Response Time",
+      "Quantum Mini-LED with HDR 2000",
+      "1000R Curvature for deep immersion",
+      "G-SYNC and FreeSync Premium Pro"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 85.00
+  },
+
+  {
+    "product_id": "MONSAMS003",
+    "product_title": "Samsung Odyssey G7 (G70B)",
+    "product_image": "https://i.ibb.co/sxWL5z2/LS32-BG702-ENXGO.jpg",
+    "category": "Monitors",
+    "price": 599.99,
+    "description": "A high-performance 4K gaming monitor that delivers incredible speed and image quality. Its flat IPS panel provides wide viewing angles and vibrant colors, perfect for competitive and AAA gaming.",
+    "specification": [
+      "28-inch 4K UHD (3840x2160) IPS Panel",
+      "144Hz Refresh Rate & 1ms Response Time",
+      "VESA DisplayHDR 400",
+      "G-SYNC Compatible & FreeSync Premium Pro",
+      "CoreSync lighting"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 32.50
+  },
+
+  {
+    "product_id": "MONSAMS005",
+    "product_title": "Samsung ViewFinity S9 (S90PC)",
+    "product_image": "https://i.ibb.co/b53hsRDq/uk-viewfinity-s9-27s90pc-ls27c902pauxxu-537644339-1164-776-PNG.png",
+    "category": "Monitors",
+    "price": 1599.99,
+    "description": "Designed for creative professionals, the ViewFinity S9 is a 5K monitor that delivers outstanding color accuracy and resolution. It's a direct competitor to high-end professional displays.",
+    "specification": [
+      "27-inch 5K (5120x2880) IPS Display",
+      "Matte Display for reduced reflections",
+      "99% DCI-P3 with factory calibration",
+      "Thunderbolt 4 and USB-C ports",
+      "Detachable 4K SlimFit camera"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 65.00
+  },
+  {
+    "product_id": "MONASUS001",
+    "product_title": "ASUS ROG Swift PG279QM",
+    "product_image": "https://i.ibb.co/LzTjGR1q/h525.png",
+    "category": "Monitors",
+    "price": 749.99,
+    "description": "A top-tier esports monitor featuring a 240Hz refresh rate at QHD resolution. It includes NVIDIA's Reflex Latency Analyzer to give competitive players an edge.",
+    "specification": [
+      "27-inch QHD (2560x1440) Fast IPS Panel",
+      "240Hz Refresh Rate & 1ms Response Time",
+      "NVIDIA G-SYNC and Reflex Latency Analyzer",
+      "VESA DisplayHDR 400",
+      "Aura Sync RGB lighting"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 42.00
+  },
+  {
+    "product_id": "MONASUS002",
+    "product_title": "ASUS ProArt PA279CV",
+    "product_image": "https://i.ibb.co/21KpQKVV/asus-proart-display-pa279cv-4k-monitor-01-500x500.jpg",
+    "category": "Monitors",
+    "price": 499.00,
+    "description": "A 4K monitor built for content creators. It's Calman Verified and factory calibrated for excellent color accuracy right out of the box, making it perfect for photo and video editing.",
+    "specification": [
+      "27-inch 4K UHD (3840x2160) IPS Panel",
+      "100% sRGB and 100% Rec. 709 color gamut",
+      "Calman Verified with Delta E < 2",
+      "USB-C with 65W Power Delivery",
+      "ProArt Preset and Palette tools"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 28.50
+  },
+  {
+    "product_id": "MONASUS003",
+    "product_title": "ASUS TUF Gaming VG27AQ",
+    "product_image": "https://ibb.co.com/jP2W2Lv8",
+    "category": "Monitors",
+    "price": 329.00,
+    "description": "A well-rounded and popular gaming monitor from the TUF series. It combines a QHD resolution with a high refresh rate and exclusive features like ELMB SYNC for a great gaming experience without breaking the bank.",
+    "specification": [
+      "27-inch WQHD (2560x1440) IPS Panel",
+      "165Hz Refresh Rate",
+      "ELMB SYNC (Extreme Low Motion Blur Sync)",
+      "G-SYNC Compatible",
+      "Shadow Boost technology"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 25.00
+  },
+
+  {
+    "product_id": "MONASUS005",
+    "product_title": "ASUS ZenScreen MQ16AH",
+    "product_image": "https://ibb.co.com/rGDrQk0F",
+    "category": "Monitors",
+    "price": 399.00,
+    "description": "A premium portable monitor with a beautiful OLED panel. It's incredibly slim and lightweight, making it the perfect travel companion for work or play, providing stunning visuals on the go.",
+    "specification": [
+      "15.6-inch Full HD (1920x1080) OLED Panel",
+      "100% DCI-P3 color gamut",
+      "1ms Response Time, Delta E < 2 color accuracy",
+      "Ultra-slim 5mm profile",
+      "Mini HDMI and 3x USB-C ports"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "MONBENQ001",
+    "product_title": "BenQ MOBIUZ EX2710Q",
+    "product_image": "https://ibb.co.com/GrrFvCf",
+    "category": "Monitors",
+    "price": 399.99,
+    "description": "An immersive gaming monitor from the MOBIUZ line. It combines great image quality, a high refresh rate, and excellent built-in treVolo speakers for a complete audiovisual experience.",
+    "specification": [
+      "27-inch QHD (2560x1440) IPS Panel",
+      "165Hz Refresh Rate & 1ms MPRT",
+      "AMD FreeSync Premium",
+      "HDRi technology for intelligent HDR",
+      "Built-in 2.1 channel treVolo speakers"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 29.99
+  },
+
+  {
+    "product_id": "MONBENQ003",
+    "product_title": "BenQ ZOWIE XL2546K",
+    "product_image": "https://ibb.co.com/LDyD0GYq",
+    "category": "Monitors",
+    "price": 499.99,
+    "description": "The standard for esports. The XL2546K is trusted by pro gamers for its incredible smoothness, fast response time, and features like DyAc+ that are purely focused on competitive performance.",
+    "specification": [
+      "24.5-inch Full HD (1920x1080) TN Panel",
+      "240Hz Refresh Rate",
+      "DyAc+ Technology for motion clarity",
+      "Smaller base for more desk space",
+      "S Switch for quick profile changes"
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "shipping_charge": 35.00
+  },
+
+  {
+    "product_id": "MONBENQ005",
+    "product_title": "BenQ GW2780",
+    "product_image": "https://ibb.co.com/D6Lf98W",
+    "category": "Monitors",
+    "price": 179.99,
+    "description": "A stylish and affordable 27-inch monitor for home or office use. It features an IPS panel for great viewing angles and BenQ's exclusive eye-care technology for comfortable viewing.",
+    "specification": [
+      "27-inch Full HD (1920x1080) IPS Panel",
+      "Brightness Intelligence Technology",
+      "Low Blue Light and Flicker-Free technology",
+      "Edge to edge slim bezel design",
+      "Integrated cable management system"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 19.99
+  },
+   {
+    "product_id": "HDPSONY001",
+    "product_title": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+    "product_image": "https://ibb.co.com/d44LZ5XQ",
+    "category": "Headphones",
+    "price": 399.99,
+    "description": "The industry-leading noise-cancelling headphones from Sony. The WH-1000XM5 features a new design, improved ANC performance with two processors, and exceptional sound quality for an immersive listening experience.",
+    "specification": [
+      "Industry-leading Noise Cancellation",
+      "Up to 30-hour battery life with quick charging",
+      "Crystal clear hands-free calling",
+      "Multipoint connection for two Bluetooth devices",
+      "Ultra-comfortable, lightweight design"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 15.50
+  },
+  {
+    "product_id": "HDPSONY002",
+    "product_title": "Sony WF-1000XM5 Truly Wireless Noise Canceling Earbuds",
+    "product_image": "https://ibb.co.com/twSW4mHc",
+    "category": "Headphones",
+    "price": 299.99,
+    "description": "The best noise-canceling earbuds, redefined. The WF-1000XM5 offers stunning sound quality, the best noise cancellation on the market, and a smaller, more comfortable design.",
+    "specification": [
+      "The world's best noise canceling earbuds",
+      "Astonishing sound quality with High-Resolution Audio",
+      "Sony’s best-ever call quality with AI-based noise reduction",
+      "Up to 24-hour total battery life with charging case",
+      "IPX4 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 12.00
+  },
+
+  {
+    "product_id": "HDPSONY004",
+    "product_title": "Sony LinkBuds S",
+    "product_image": "https://ibb.co.com/pBXRQgMM",
+    "category": "Headphones",
+    "price": 199.99,
+    "description": "Super small and light, the LinkBuds S offer a comfortable, 'never-off' wearing experience. They intelligently switch between high-quality noise canceling and natural ambient sound.",
+    "specification": [
+      "Small, light, and comfortable for all-day wear",
+      "High-quality noise canceling",
+      "Hi-Res Audio Wireless support",
+      "IPX4 water resistance",
+      "Smart features like Speak-to-Chat"
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "shipping_charge": 9.50
+  },
+  {
+    "product_id": "HDPSONY005",
+    "product_title": "Sony MDR-7506 Professional Studio Headphones",
+    "product_image": "https://ibb.co.com/mCDPvJKQ",
+    "category": "Headphones",
+    "price": 99.99,
+    "description": "A staple in professional recording studios for decades. The MDR-7506 offers a rugged design, excellent sound isolation, and a clear, detailed sound that's trusted by sound engineers worldwide.",
+    "specification": [
+      "Industry-standard wired studio monitor headphones",
+      "40mm drivers for clear, detailed sound",
+      "Closed-ear design for comfort and noise isolation",
+      "Folding construction for portability",
+      "Includes a 1/4-inch adapter"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 8.99
+  },
+  {
+    "product_id": "HDPBOSE001",
+    "product_title": "Bose QuietComfort Ultra Headphones",
+    "product_image": "https://ibb.co.com/8gTFZnHG",
+    "category": "Headphones",
+    "price": 429.00,
+    "description": "The next generation of noise-canceling headphones from Bose. Featuring groundbreaking Bose Immersive Audio, world-class noise cancellation, and a luxurious design for unparalleled comfort.",
+    "specification": [
+      "World-class noise cancellation",
+      "Bose Immersive Audio for spatialized sound",
+      "Up to 24 hours of battery life",
+      "Premium materials and deluxe comfort",
+      "CustomTune technology for personalized sound"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 16.50
+  },
+  {
+    "product_id": "HDPBOSE002",
+    "product_title": "Bose QuietComfort Ultra Earbuds",
+    "product_image": "https://ibb.co.com/XZR2s75c",
+    "category": "Headphones",
+    "price": 299.00,
+    "description": "Experience a deeper level of immersion with these noise-canceling earbuds. Bose Immersive Audio and CustomTune technology deliver sound and silence that is perfectly tailored to you.",
+    "specification": [
+      "Breakthrough Bose Immersive Audio",
+      "World-class noise cancellation",
+      "CustomTune technology for personalized audio",
+      "Up to 6 hours of listening time per charge",
+      "Advanced Bluetooth 5.3"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 12.00
+  },
+  {
+    "product_id": "HDPBOSE003",
+    "product_title": "Bose Noise Cancelling Headphones 700",
+    "product_image": "https://ibb.co.com/6c8S1Lvp",
+    "category": "Headphones",
+    "price": 379.00,
+    "description": "Critically acclaimed for their powerful noise cancellation, stunning design, and an unrivaled voice pickup system for the clearest calls. A premium choice for work and travel.",
+    "specification": [
+      "Unrivaled adaptive 4-microphone system for calls",
+      "11 levels of noise cancellation",
+      "Sleek, lightweight stainless-steel headband",
+      "Up to 20 hours of wireless battery life",
+      "Built-in voice control with Alexa and Google Assistant"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "HDPBOSE004",
+    "product_title": "Bose QuietComfort Headphones",
+    "product_image": "https://ibb.co.com/0VZ1qpmD",
+    "category": "Headphones",
+    "price": 349.00,
+    "description": "The legendary QuietComfort headphones are back, with a modern take on the iconic design. They offer a perfect balance of quiet, comfort, and sound, making them an ideal everyday companion.",
+    "specification": [
+      "Iconic quiet, comfort, and sound",
+      "High-fidelity audio with adjustable EQ",
+      "Up to 24 hours of battery on a single charge",
+      "Aware Mode for hearing your surroundings",
+      "Plush earcup cushions"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "HDPBOSE005",
+    "product_title": "Bose SoundLink Around-Ear Wireless Headphones II",
+    "product_image": "https://ibb.co.com/nqWQ5sK0",
+    "category": "Headphones",
+    "price": 229.00,
+    "description": "If you prioritize sound quality and comfort over noise cancellation, the SoundLink AE2 are an excellent choice. They deliver deep, immersive sound and a long-lasting battery in a comfortable, lightweight package.",
+    "specification": [
+      "Deep, immersive sound at any volume",
+      "Advanced microphone system for clear calls in windy/noisy environments",
+      "Up to 15 hours of playtime",
+      "Easy switching between two Bluetooth devices",
+      "Lightweight and comfortable design"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 11.50
+  },
+  {
+    "product_id": "HDPSENN001",
+    "product_title": "Sennheiser Momentum 4 Wireless",
+    "product_image": "https://ibb.co.com/6c8S1Lvp",
+    "category": "Headphones",
+    "price": 379.95,
+    "description": "Sennheiser's flagship headphones for consumers, focusing on signature sound quality. The Momentum 4 offers adaptive noise cancellation and an outstanding 60-hour battery life.",
+    "specification": [
+      "Sennheiser Signature Sound",
+      "Best-in-class 60-hour battery life",
+      "Adaptive Noise Cancellation",
+      "Premium comfort with a lightweight design",
+      "Customizable sound via Sennheiser Smart Control app"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 15.99
+  },
+  {
+    "product_id": "HDPSENN002",
+    "product_title": "Sennheiser HD 660S2 Open-Back Headphones",
+    "product_image": "https://ibb.co.com/0y3w2DCX",
+    "category": "Headphones",
+    "price": 599.95,
+    "description": "A refined version of a legend, the HD 660S2 is designed for audiophiles. The open-back design provides a wide, natural soundstage, with improved sub-bass for a more emotional listening experience.",
+    "specification": [
+      "High-end open-back design for audiophiles",
+      "Natural, relaxed, high-fidelity sound",
+      "Improved sub-bass performance",
+      "300-ohm impedance for high-performance systems",
+      "Exceptional comfort for long listening sessions"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 22.00
+  },
+  {
+    "product_id": "HDPSENN003",
+    "product_title": "Sennheiser Momentum True Wireless 4",
+    "product_image": "https://ibb.co.com/G4kHrkvm",
+    "category": "Headphones",
+    "price": 299.95,
+    "description": "Packed with future-proof technologies, these earbuds deliver uncompromised sound for the connected audio enthusiast. Experience the next evolution of listening.",
+    "specification": [
+      "Sennheiser TrueResponse sound",
+      "Adaptive Noise Cancellation",
+      "Future-proof technologies like Auracast and LE Audio",
+      "Up to 30 hours of listening time with case",
+      "Personalized sound profiles"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 12.00
+  },
+  {
+    "product_id": "HDPSENN004",
+    "product_title": "Sennheiser HD 280 Pro",
+    "product_image": "https://ibb.co.com/HDvYDp5z",
+    "category": "Headphones",
+    "price": 99.95,
+    "description": "A classic closed-back studio headphone known for its durability and excellent ambient noise attenuation. A workhorse for monitoring, recording, and DJing.",
+    "specification": [
+      "Accurate, linear sound reproduction",
+      "High ambient noise attenuation (up to 32 dB)",
+      "Rugged, durable construction",
+      "Collapsible design with rotating earcups",
+      "Replaceable parts for long service life"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 8.99
+  },
+  {
+    "product_id": "HDPSENN005",
+    "product_title": "Sennheiser Accentum Wireless",
+    "product_image": "https://ibb.co.com/d08Y8tzM",
+    "category": "Headphones",
+    "price": 179.95,
+    "description": "Experience the best in-class battery life and versatile features in a fresh new design. The Accentum Wireless offers great sound and hybrid ANC at an accessible price point.",
+    "specification": [
+      "50-hour battery playtime",
+      "Hybrid Active Noise Cancellation",
+      "Sennheiser signature sound quality",
+      "Lightweight, ergonomic design",
+      "Fast charging: 10 mins for 5 hours of play"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 10.50
+  },
+  {
+    "product_id": "HDPAPPL001",
+    "product_title": "Apple AirPods Max",
+    "product_image": "https://ibb.co.com/KxwJ7WS2",
+    "category": "Headphones",
+    "price": 549.00,
+    "description": "Apple's premium over-ear headphones, offering a magical combination of high-fidelity audio, industry-leading Active Noise Cancellation, and the effortless setup of AirPods.",
+    "specification": [
+      "High-fidelity audio with Apple-designed dynamic driver",
+      "Active Noise Cancellation with Transparency Mode",
+      "Spatial Audio with dynamic head tracking",
+      "Knit-mesh canopy and memory foam ear cushions",
+      "Seamless integration with Apple devices"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 19.99
+  },
+  {
+    "product_id": "HDPAPPL002",
+    "product_title": "Apple AirPods Pro (2nd generation)",
+    "product_image": "https://ibb.co.com/8nDSDsGD",
+    "category": "Headphones",
+    "price": 249.00,
+    "description": "Re-engineered for richer audio experiences. Next-level Active Noise Cancellation and new features like Adaptive Transparency provide a more immersive and convenient listening experience.",
+    "specification": [
+      "Up to 2x more Active Noise Cancellation",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Touch control for volume adjustment",
+      "Up to 30 hours total listening time with case",
+      "MagSafe Charging Case (USB-C) with speaker and lanyard loop"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 11.50
+  },
+  {
+    "product_id": "HDPAPPL003",
+    "product_title": "Beats Studio Pro",
+    "product_image": "https://ibb.co.com/j9L3ymzn",
+    "category": "Headphones",
+    "price": 349.99,
+    "description": "Beats' most powerful custom acoustic platform in an iconic over-ear design. Featuring lossless audio via USB-C, Personalized Spatial Audio, and fully adaptive Active Noise Cancelling.",
+    "specification": [
+      "Fully adaptive Active Noise Cancelling",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Lossless Audio via USB-C",
+      "Up to 40 hours of battery life",
+      "Enhanced Apple and Android compatibility"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 14.99
+  },
+  {
+    "product_id": "HDPAPPL004",
+    "product_title": "Beats Fit Pro",
+    "product_image": "https://ibb.co.com/Lhn3Wh9R",
+    "category": "Headphones",
+    "price": 199.99,
+    "description": "Flexible, secure-fit wingtips for all-day comfort and stability. A true wireless, noise-canceling earbud that's designed for workouts but versatile enough for everyday use.",
+    "specification": [
+      "Flexible, secure-fit wingtips",
+      "Active Noise Cancelling with Transparency Mode",
+      "Powered by the Apple H1 chip for seamless connectivity",
+      "Spatial Audio with dynamic head tracking",
+      "Sweat and water resistant (IPX4-rated)"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "shipping_charge": 9.99
+  },
+  {
+    "product_id": "HDPAPPL005",
+    "product_title": "Apple AirPods (3rd generation)",
+    "product_image": "https://ibb.co.com/1tBRBq2r",
+    "category": "Headphones",
+    "price": 169.00,
+    "description": "An all-new contoured design with a shorter stem. Featuring Personalized Spatial Audio that places sound all around you and an Adaptive EQ that tunes music to your ears.",
+    "specification": [
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Adaptive EQ for custom sound",
+      "Force sensor for easy control",
+      "Sweat and water resistant (IPX4)",
+      "Up to 30 hours of total listening time with case"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 9.50
+  },
+
+    {
+    "product_id": "PDRSAND001",
+    "product_title": "SanDisk Ultra 128GB USB 3.0 Flash Drive",
+    "product_image": "https://ibb.co.com/23QxbZZq",
+    "category": "Pendrives",
+    "price": 14.99,
+    "description": "The SanDisk Ultra USB 3.0 combines faster data speeds and generous capacity in a compact, stylish package. Spend less time waiting and transfer files to the drive up to ten times faster than with a standard USB 2.0 drive.",
+    "specification": [
+      "128GB Storage Capacity",
+      "USB 3.0 Interface (backwards compatible with USB 2.0)",
+      "Read speeds up to 130MB/s",
+      "Retractable design to protect the connector",
+      "Includes SanDisk SecureAccess software"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 4.99
+  },
+  {
+    "product_id": "PDRSAND002",
+    "product_title": "SanDisk Extreme PRO 256GB USB 3.2 Solid State Flash Drive",
+    "product_image": "https://ibb.co.com/ymk2phtg",
+    "category": "Pendrives",
+    "price": 59.99,
+    "description": "Blazing-fast performance in a USB 3.2 flash drive. With read speeds of up to 420MB/s and write speeds of up to 380MB/s, you can transfer a full-length 4K movie in less than 15 seconds. Housed in a durable aluminum metal casing.",
+    "specification": [
+      "256GB Storage Capacity",
+      "USB 3.2 Gen 1 (SSD performance)",
+      "Read speeds up to 420MB/s, Write speeds up to 380MB/s",
+      "Durable aluminum metal casing",
+      "RescuePRO Deluxe data recovery software included"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 6.50
+  },
+  {
+    "product_id": "PDRSAND003",
+    "product_title": "SanDisk Ultra Dual Drive Luxe 128GB USB Type-C",
+    "product_image": "SanDisk Ultra Dual Drive Luxe 128GB USB Type-C",
+    "category": "Pendrives",
+    "price": 19.99,
+    "description": "The all-metal, 2-in-1 flash drive that lets you easily move files between your USB Type-C smartphone, tablets, Macs and USB Type-A computers. Its high-end design features a swiveling protector for the connectors.",
+    "specification": [
+      "128GB Storage Capacity",
+      "Dual Connectors: USB Type-C and USB Type-A",
+      "High-performance USB 3.1 Gen 1",
+      "All-metal housing",
+      "Keychain hole for easy transport"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 5.25
+  },
+  {
+    "product_id": "PDRSAND004",
+    "product_title": "SanDisk Ultra Fit 64GB USB 3.1 Flash Drive",
+    "product_image": "https://ibb.co.com/dsLQXgFt",
+    "category": "Pendrives",
+    "price": 11.99,
+    "description": "This ultra-small, low-profile drive stays put for extra storage or moving media between devices at high speeds. It's so small you can plug it into your laptop, TV, or car audio system and leave it in.",
+    "specification": [
+      "64GB Storage Capacity",
+      "Low-profile, plug-and-stay design",
+      "USB 3.1 performance",
+      "Read speeds up to 130MB/s",
+      "Ideal for laptops, game consoles, and car audio"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 4.50
+  },
+  {
+    "product_id": "PDRSAND005",
+    "product_title": "SanDisk iXpand Flash Drive Go 256GB for iPhone",
+    "product_image": "https://ibb.co.com/1fm6bFgM",
+    "category": "Pendrives",
+    "price": 64.99,
+    "description": "Easily free up space on your iPhone with the iXpand Flash Drive Go. Features both a Lightning connector and a USB 3.0 connector to plug into your Mac or PC, so you can move files with ease.",
+    "specification": [
+      "256GB Storage Capacity",
+      "Dual Connectors: Lightning and USB 3.0",
+      "Automatically back up photos and videos",
+      "Swivel design protects connectors",
+      "Designed for iPhone and iPad"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 7.00
+  },
+  {
+    "product_id": "PDRKING001",
+    "product_title": "Kingston DataTraveler Exodia 128GB USB 3.2 Gen 1",
+    "product_image": "https://ibb.co.com/vfDSf6f",
+    "category": "Pendrives",
+    "price": 13.99,
+    "description": "Kingston’s DataTraveler Exodia features USB 3.2 Gen 1 performance for easy access to laptops, desktop PCs, monitors and other digital devices. Its practical design and colorful loop make it ideal for everyday use at work, home, or school.",
+    "specification": [
+      "128GB Storage Capacity",
+      "USB 3.2 Gen 1 speeds",
+      "Practical cap protects the USB plug",
+      "Large, colorful loop easily attaches to key rings",
+      "5-year warranty"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 4.95
+  },
+  {
+    "product_id": "PDRKING002",
+    "product_title": "Kingston DataTraveler Max 256GB USB-C",
+    "product_image": "https://ibb.co.com/JwBpQ6HT",
+    "category": "Pendrives",
+    "price": 62.99,
+    "description": "DataTraveler Max series USB flash drives leverage the latest USB 3.2 Gen 2 standard to deliver record-breaking read/write speeds up to 1,000/900MB/s. The unique ridged casing protects the USB-C connector when not in use.",
+    "specification": [
+      "256GB Storage Capacity",
+      "USB 3.2 Gen 2 Type-C",
+      "Read speeds up to 1,000MB/s, Write speeds up to 900MB/s",
+      "Sliding cap design",
+      "Keyring loop and LED status indicator"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 6.99
+  },
+  {
+    "product_id": "PDRKING003",
+    "product_title": "Kingston DataTraveler Kyson 64GB USB 3.2",
+    "product_image": "https://ibb.co.com/WWrFPqTK",
+    "category": "Pendrives",
+    "price": 9.99,
+    "description": "DataTraveler Kyson is a high-performance USB-A flash drive with extremely fast transfer speeds. With a stylish and durable capless metal casing, you won't have to worry about losing a cap.",
+    "specification": [
+      "64GB Storage Capacity",
+      "USB 3.2 Gen 1",
+      "Read speeds up to 200MB/s",
+      "Stylish capless metal design",
+      "Functional loop for keychains"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 4.50
+  },
+  {
+    "product_id": "PDRKING004",
+    "product_title": "Kingston IronKey Keypad 200 32GB Hardware-Encrypted",
+    "product_image": "https://ibb.co.com/LzKHvv5s",
+    "category": "Pendrives",
+    "price": 105.50,
+    "description": "An OS-independent hardware-encrypted USB drive with an alphanumeric keypad for easy-to-use PIN access. The KP200 incorporates FIPS 140-3 Level 3 certified security for your data.",
+    "specification": [
+      "32GB Storage Capacity",
+      "FIPS 140-3 Level 3 (Pending) certified security",
+      "XTS-AES 256-bit hardware encryption",
+      "OS-independent alphanumeric keypad",
+      "Brute-force password attack protection"
+    ],
+    "availability": false,
+    "rating": 4.9,
+    "shipping_charge": 8.00
+  },
+  {
+    "product_id": "PDRKING005",
+    "product_title": "Kingston DataTraveler MicroDuo 3C 128GB",
+    "product_image": "https://ibb.co.com/qMs9h1Fh",
+    "category": "Pendrives",
+    "price": 18.50,
+    "description": "DataTraveler microDuo 3C has a dual interface that works with both standard USB and USB Type-C ports. It's an ideal way to provide up to 128GB of extra storage for the latest smartphones, tablets, PCs and Mac computers.",
+    "specification": [
+      "128GB Storage Capacity",
+      "Dual connectors: USB-A and USB-C",
+      "USB 3.2 Gen 1 performance",
+      "Compact form factor for easy portability",
+      "Rotating cap to protect connector"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 5.00
+  },
+  {
+    "product_id": "PDRSAMS001",
+    "product_title": "Samsung BAR Plus 128GB USB 3.1 Flash Drive",
+    "product_image": "https://ibb.co.com/pvzz0Y3s",
+    "category": "Pendrives",
+    "price": 17.99,
+    "description": "A modern take on a classic. The next-generation BAR Plus elevates the flash drive to an everyday essential, offering impressive speed in a striking metal design. It's waterproof, shock-proof, magnet-proof, temp-proof, and X-ray-proof.",
+    "specification": [
+      "128GB Storage Capacity",
+      "USB 3.1 (up to 400MB/s read speed)",
+      "Rugged metal casing",
+      "Waterproof, shock-proof, X-ray-proof",
+      "Integrated key ring"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 5.50
+  },
+  {
+    "product_id": "PDRSAMS002",
+    "product_title": "Samsung FIT Plus 256GB USB 3.1 Flash Drive",
+    "product_image": "https://ibb.co.com/tFTgSB9",
+    "category": "Pendrives",
+    "price": 29.99,
+    "description": "The compact way to add big space. Plug in the FIT Plus to get secondary, upgraded storage for your devices, then leave it in to easily carry more files. It stays out of your way and is so quick it keeps files at the ready.",
+    "specification": [
+      "256GB Storage Capacity",
+      "Compact, low-profile design",
+      "USB 3.1 (up to 400MB/s read speed)",
+      "5-proof durability",
+      "Seamless fit for laptops, smart TVs and cars"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 5.00
+  },
+  {
+    "product_id": "PDRSAMS003",
+    "product_title": "Samsung Duo Plus 256GB USB 3.1 Type-C",
+    "product_image": "https://ibb.co.com/0RpX294N",
+    "category": "Pendrives",
+    "price": 34.99,
+    "description": "One drive to store it all. The DUO Plus is a Type-C drive with a super-useful Type-A adapter. Intuitively designed with a single piece cap that protects the connector and doubles as a key loop.",
+    "specification": [
+      "256GB Storage Capacity",
+      "USB Type-C with included Type-A adapter",
+      "USB 3.1 (up to 400MB/s read speed)",
+      "Versatile connectivity",
+      "Reliable and secure 5-proof design"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "shipping_charge": 6.00
+  },
+
+  {
+    "product_id": "PDRPNY001",
+    "product_title": "PNY Turbo Attache 3 128GB USB 3.0",
+    "product_image": "https://ibb.co.com/jvVB8rMZ",
+    "category": "Pendrives",
+    "price": 12.99,
+    "description": "The PNY Turbo Attache 3 is built for speed and convenience. It's the perfect solution for easily storing and quickly transferring all your large documents, high-resolution photos, HD videos, and more.",
+    "specification": [
+      "128GB Storage Capacity",
+      "USB 3.0, up to 10x faster than USB 2.0",
+      "Sliding collar, capless design",
+      "Lightweight and portable",
+      "Integrated loop for keychains"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "shipping_charge": 4.80
+  },
+  {
+    "product_id": "PDRPNY002",
+    "product_title": "PNY Pro Elite V2 256GB USB 3.2 Gen 1",
+    "product_image": "https://ibb.co.com/9kBByPw1",
+    "category": "Pendrives",
+    "price": 39.99,
+    "description": "The PNY Pro Elite V2 USB 3.2 Gen 1 Flash Drive is the next generation in mobile storage. It offers read speeds of up to 400MB/s, making it one of the fastest USB-A flash drives from PNY.",
+    "specification": [
+      "256GB Storage Capacity",
+      "USB 3.2 Gen 1",
+      "Read speeds up to 400MB/s",
+      "Sleek, gunmetal plated housing",
+      "Backwards compatible with USB 2.0"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 6.20
+  },
+  {
+    "product_id": "PDRPNY003",
+    "product_title": "PNY Elite-X Fit 64GB USB 3.1",
+    "product_image": "https://ibb.co.com/NnbKKFNJ",
+    "category": "Pendrives",
+    "price": 10.99,
+    "description": "The PNY Elite-X Fit USB 3.1 Flash Drive is a compact, plug-in solution for your on-the-go storage needs. Its micro-sized design is perfect for use with laptops, car stereos, and more without getting in the way.",
+    "specification": [
+      "64GB Storage Capacity",
+      "USB 3.1 Gen 1",
+      "Read speeds up to 200MB/s",
+      "Micro-sized, low-profile design",
+      "Includes a translucent cap to protect the connector"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 4.50
+  },
+  {
+    "product_id": "PDRPNY004",
+    "product_title": "PNY Duo Link 128GB USB 3.1 Type-C OTG",
+    "product_image": "https://ibb.co.com/BVYwKqV8",
+    "category": "Pendrives",
+    "price": 24.99,
+    "description": "PNY DUO LINK is a 2-in-1 USB 3.1 Type-C flash drive that connects to your Android device and computer to quickly and easily transfer files. Free up space on your phone or tablet in an instant.",
+    "specification": [
+      "128GB Storage Capacity",
+      "Dual connectors: USB-C and USB-A",
+      "USB 3.1 for fast file transfers",
+      "On-The-Go (OTG) compatible for Android devices",
+      "Durable, sleek metal housing"
+    ],
+    "availability": false,
+    "rating": 4.3,
+    "shipping_charge": 5.50
+  },
+
+  {
+    "product_id": "PDRCORS001",
+    "product_title": "Corsair Flash Survivor Stealth 128GB USB 3.0",
+    "product_image": "https://ibb.co.com/hJhSQk98",
+    "category": "Pendrives",
+    "price": 44.99,
+    "description": "Your files are important – that’s why you’re taking them with you. Flash Survivor Stealth is built to protect them. The anodized, aircraft-grade aluminum housing is waterproof to 200 meters, vibration-resistant, and shock-resistant.",
+    "specification": [
+      "128GB Storage Capacity",
+      "USB 3.0 high-speed performance",
+      "Aircraft-grade aluminum housing",
+      "Waterproof to 200 meters",
+      "Shock and vibration resistant"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 7.50
+  },
+  {
+    "product_id": "PDRCORS002",
+    "product_title": "Corsair Flash Voyager GTX 256GB USB 3.1",
+    "product_image": "https://ibb.co.com/j2k9bR8",
+    "category": "Pendrives",
+    "price": 89.99,
+    "description": "The Flash Voyager GTX puts SSD performance in your pocket, with read speeds up to 440MB/s. It is universally compatible with Windows, macOS and Linux with no driver installation necessary.",
+    "specification": [
+      "256GB Storage Capacity",
+      "Premium USB 3.1 Gen 1",
+      "SSD-like performance (up to 440MB/s read)",
+      "Rugged zinc alloy housing with aluminum accents",
+      "Optimized for USB 3.1 and UAS (USB Attached SCSI) protocol"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 8.00
+  },
+
+  {
+    "product_id": "PDRCORS005",
+    "product_title": "Corsair Flash Padlock 3 Secure 32GB USB 3.0",
+    "product_image": "https://ibb.co.com/Lbz8xgx",
+    "category": "Pendrives",
+    "price": 54.99,
+    "description": "Keep your personal files safe with the Flash Padlock 3. It features 256-bit AES hardware encryption and a built-in PIN pad for simple authentication. The ruggedized rubber housing helps protect it from the elements.",
+    "specification": [
+      "32GB Storage Capacity",
+      "256-bit AES hardware encryption",
+      "Built-in PIN pad for authentication",
+      "Ruggedized rubber housing",
+      "USB 3.0 speed"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "shipping_charge": 7.00
+  },
+  {
+    "product_id": "ESSDSAM001",
+    "product_title": "Samsung T7 Shield Portable SSD 2TB",
+    "product_image": "https://ibb.co.com/fdgKYw81",
+    "category": "External SSD",
+    "price": 159.99,
+    "description": "A rugged and durable portable SSD designed for outdoor content creators. The T7 Shield is IP65-rated for water and dust resistance and features a rubberized exterior for up to 3-meter drop protection, all while delivering super-fast speeds.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 1,050/1,000 MB/s Read/Write Speeds",
+      "IP65 Dust and Water Resistance",
+      "USB 3.2 Gen 2 Interface",
+      "Dynamic Thermal Guard to control heat"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 9.99
+  },
+  {
+    "product_id": "ESSDSAM002",
+    "product_title": "Samsung T9 Portable SSD 2TB",
+    "product_image": "https://ibb.co.com/MyTGFrHk",
+    "category": "External SSD",
+    "price": 239.99,
+    "description": "Samsung's flagship portable SSD, offering maximum speed for pro creators. With USB 3.2 Gen 2x2, the T9 delivers blazing-fast transfer speeds up to 2,000 MB/s, making it ideal for 8K video editing and other demanding tasks.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 2,000 MB/s Read/Write Speeds",
+      "USB 3.2 Gen 2x2 Interface",
+      "AES 256-bit hardware encryption",
+      "Carbon-patterned design for a non-slip grip"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 12.50
+  },
+  {
+    "product_id": "ESSDSAM003",
+    "product_title": "Samsung T7 Portable SSD 1TB",
+    "product_image": "https://ibb.co.com/Y7MJHBVH",
+    "category": "External SSD",
+    "price": 89.99,
+    "description": "The perfect combination of speed, security, and portability. The T7 is light and pocket-sized, offering fast speeds and data protection with password-enabled hardware encryption. Ideal for storing large files for work or play.",
+    "specification": [
+      "1TB Storage Capacity",
+      "Up to 1,050 MB/s Sequential Read Speed",
+      "Shock-resistant solid aluminum unibody",
+      "Password protection with AES 256-bit encryption",
+      "Compact and lightweight design"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "shipping_charge": 8.50
+  },
+  {
+    "product_id": "ESSDSAN001",
+    "product_title": "SanDisk Extreme Portable SSD V2 2TB",
+    "product_image": "https://ibb.co.com/LdXgpZ6n",
+    "category": "External SSD",
+    "price": 149.99,
+    "description": "A popular choice for its balance of speed and ruggedness. The SanDisk Extreme V2 provides fast NVMe solid state performance in a portable drive that’s tough enough to take on any adventure.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 1050MB/s read and 1000MB/s write speeds",
+      "IP65 water and dust resistance",
+      "Up to 2-meter drop protection",
+      "Handy carabiner loop for securing the drive"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 9.99
+  },
+  {
+    "product_id": "ESSDSAN002",
+    "product_title": "SanDisk Extreme PRO Portable SSD V2 2TB",
+    "product_image": "https://ibb.co.com/0yjTFV47",
+    "category": "External SSD",
+    "price": 219.99,
+    "description": "Built for professionals who need uncompromising speed. The Extreme PRO leverages blazing-fast NVMe technology to dramatically increase transfer speeds up to 2000MB/s, housed in a forged aluminum chassis that acts as a heatsink.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 2000MB/s read/write speeds",
+      "Forged aluminum chassis-core for durability",
+      "IP65 water and dust resistance",
+      "256-bit AES hardware encryption"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 11.99
+  },
+  {
+    "product_id": "ESSDSAN003",
+    "product_title": "SanDisk Portable SSD 1TB",
+    "product_image": "https://ibb.co.com/h1MS4dW0",
+    "category": "External SSD",
+    "price": 79.99,
+    "description": "A reliable and affordable SSD for your everyday needs. Get solid state performance featuring up to 800MB/s read speeds in a portable drive you can depend on. The durable rubber hook makes it easy to secure.",
+    "specification": [
+      "1TB Storage Capacity",
+      "Up to 800MB/s read speed",
+      "Up to 2-meter drop protection",
+      "USB 3.2 Gen 2 Interface",
+      "Durable rubber hook for transport"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 7.50
+  },
+  {
+    "product_id": "ESSDCRU001",
+    "product_title": "Crucial X10 Pro Portable SSD 2TB",
+    "product_image": "https://ibb.co.com/cKxKbtZK",
+    "category": "External SSD",
+    "price": 169.99,
+    "description": "Crucial's fastest portable SSD, designed for video professionals and creators. The X10 Pro delivers mind-bending 2,100MB/s read speeds, allowing you to edit directly from the drive and accelerate your workflows.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 2,100/2,000 MB/s Read/Write Speeds",
+      "USB 3.2 Gen 2x2 Type-C",
+      "IP55 water and dust resistance",
+      "Anodized aluminum body with a soft-touch rubber base"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 10.50
+  },
+  {
+    "product_id": "ESSDCRU002",
+    "product_title": "Crucial X9 Pro Portable SSD 2TB",
+    "product_image": "https://ibb.co.com/YFbL8599",
+    "category": "External SSD",
+    "price": 119.99,
+    "description": "The perfect blend of speed and compatibility for photographers and creators. The X9 Pro offers sustained performance of up to 1,050MB/s, plug-and-play compatibility, and robust data protection.",
+    "specification": [
+      "2TB Storage Capacity",
+      "Up to 1,050 MB/s Read/Write Speeds",
+      "Password protection with 256‐bit AES hardware encryption",
+      "IP55 water and dust resistance",
+      "Works with Windows, Mac, Android, iPad, PC, and Linux"
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "shipping_charge": 9.25
+  },
+  {
+    "product_id": "ESSDCRU003",
+    "product_title": "Crucial X6 Portable SSD 1TB",
+    "product_image": "https://ibb.co.com/JW39TmRV",
+    "category": "External SSD",
+    "price": 69.99,
+    "description": "The Crucial X6 lets you store and access your files fast. This tiny drive is incredibly lightweight and provides up to 800MB/s read speed, making it 5.7x faster than traditional hard drives. Perfect for expanding storage on the go.",
+    "specification": [
+      "1TB Storage Capacity",
+      "Up to 800MB/s read speeds",
+      "Drop-proof up to 6.5 feet (2 meters)",
+      "Tiny, lightweight design (weighs less than your car keys)",
+      "Broad device compatibility"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 6.99
+  },
+
+
+  {
+    "product_id": "RAMCORS003",
+    "product_title": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz",
+    "product_image": "https://ibb.co.com/qYzYJnwt",
+    "category": "RAM",
+    "price": 44.99,
+    "description": "Designed for high-performance overclocking on a budget. The Vengeance LPX heatspreader is made of pure aluminum for faster heat dissipation, and its low-profile design makes it ideal for small form factor systems.",
+    "specification": [
+      "16GB (2x8GB) DDR4 Kit",
+      "3200MHz Speed",
+      "CAS Latency: 16",
+      "Low-profile design for high compatibility",
+      "Solid aluminum heatspreader"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "shipping_charge": 5.99
+  },
+  {
+    "product_id": "RAMGSKL001",
+    "product_title": "G.Skill Trident Z5 RGB 32GB (2x16GB) DDR5 6400MHz",
+    "product_image": "https://ibb.co.com/XfQgdBFZ",
+    "category": "RAM",
+    "price": 159.99,
+    "description": "Engineered for extreme performance on next-gen DDR5 platforms. The Trident Z5 RGB features a sleek and futuristic design with a streamlined light bar, perfect for overclockers and PC enthusiasts.",
+    "specification": [
+      "32GB (2x16GB) DDR5 Kit",
+      "6400MHz Ultra-High Speed",
+      "CAS Latency: 32",
+      "Sleek dual-textured aluminum heatspreader",
+      "Customizable RGB lighting"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 9.50
+  },
+  {
+    "product_id": "RAMGSKL002",
+    "product_title": "G.Skill Trident Z Neo 32GB (2x16GB) DDR4 3600MHz",
+    "product_image": "https://ibb.co.com/JjTfPRdj",
+    "category": "RAM",
+    "price": 109.99,
+    "description": "Optimized and engineered for full compatibility on the latest AMD Ryzen platforms. The Trident Z Neo brings unparalleled memory performance and vibrant RGB lighting to any gaming PC or workstation.",
+    "specification": [
+      "32GB (2x16GB) DDR4 Kit",
+      "3600MHz Speed",
+      "CAS Latency: 16 (Low Latency)",
+      "Optimized for AMD Ryzen 5000 Series",
+      "Dual-tone design with 8-zone RGB"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 8.00
+  },
+  {
+    "product_id": "RAMGSKL003",
+    "product_title": "G.Skill Ripjaws V Series 16GB (2x8GB) DDR4 3200MHz",
+    "product_image": "https://ibb.co.com/RTTL5V5W",
+    "category": "RAM",
+    "price": 42.99,
+    "description": "The classic choice for performance and value. The Ripjaws V series is the newest DDR4 memory designed for maximum compatibility and cutting-edge performance with the latest Intel Core processors.",
+    "specification": [
+      "16GB (2x8GB) DDR4 Kit",
+      "3200MHz Speed",
+      "CAS Latency: 16",
+      "Available in five color options",
+      "Rigorously tested for reliability and compatibility"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 5.99
+  },
+  {
+    "product_id": "RAMKING001",
+    "product_title": "Kingston FURY Renegade RGB 32GB (2x16GB) DDR5 6000MHz",
+    "product_image": "https://ibb.co.com/MkZGLRDz",
+    "category": "RAM",
+    "price": 174.99,
+    "description": "Designed for extreme performance on next-gen DDR5 platforms. Kingston FURY Renegade features a sleek, newly designed black and silver aluminum heat spreader with a dynamic LED light bar.",
+    "specification": [
+      "32GB (2x16GB) DDR5 Kit",
+      "6000MHz Speed",
+      "CAS Latency: 32",
+      "FURY Infrared Sync Technology for RGB",
+      "Intel XMP 3.0 Certified"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 9.75
+  },
+  {
+    "product_id": "RAMKING002",
+    "product_title": "Kingston FURY Beast RGB 32GB (2x16GB) DDR4 3200MHz",
+    "product_image": "https://ibb.co.com/pjMJnSc2",
+    "category": "RAM",
+    "price": 89.99,
+    "description": "A high-performance, cost-effective upgrade. FURY Beast DDR4 RGB features Plug N Play automatic overclocking and a stylish low-profile heat spreader with stunning RGB effects.",
+    "specification": [
+      "32GB (2x16GB) DDR4 Kit",
+      "3200MHz Speed",
+      "CAS Latency: 16",
+      "Customizable RGB lighting",
+      "Ready for AMD Ryzen and Intel XMP"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "shipping_charge": 7.25
+  },
+  {
+    "product_id": "RAMKING003",
+    "product_title": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+    "product_image": "https://ibb.co.com/8vVKwvv",
+    "category": "RAM",
+    "price": 41.99,
+    "description": "The perfect performance upgrade for gamers and PC enthusiasts who want solid performance without the lights. Features a stylish, low-profile heat spreader for effective cooling.",
+    "specification": [
+      "16GB (2x8GB) DDR4 Kit",
+      "3200MHz Speed",
+      "CAS Latency: 16",
+      "Cost-efficient, high-performance upgrade",
+      "Stylish low-profile heat spreader"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 5.95
+  },
+   {
+    "product_id": "GPUASUS001",
+    "product_title": "ASUS ROG Strix GeForce RTX 4090 OC Edition 24GB",
+    "product_image": "https://ibb.co.com/bgd44WdT",
+    "category": "Graphic Cards",
+    "price": 1999.99,
+    "description": "The ROG Strix GeForce RTX 4090 brings a whole new meaning to going with the flow. Inside and out, every element of the card gives the monstrous GPU headroom to breathe freely and achieve ultimate performance.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4090",
+      "VRAM: 24GB GDDR6X",
+      "Boost Clock: 2640 MHz (OC Mode)",
+      "Cooling: Patented vapor chamber with massive heatsink",
+      "Features: DLSS 3, Axial-tech fans, Aura Sync RGB"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 35.00
+  },
+  {
+    "product_id": "GPUASUS002",
+    "product_title": "ASUS TUF Gaming GeForce RTX 4070 Ti OC Edition 12GB",
+    "product_image": "https://ibb.co.com/mrQ56vNT",
+    "category": "Graphic Cards",
+    "price": 849.99,
+    "description": "The ASUS TUF Gaming GeForce RTX 4070 Ti has been redesigned to house the next-gen Ada Lovelace GPU. With military-grade capacitors and robust cooling, it's built TUF for incredible 1440p and 4K gaming performance.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4070 Ti",
+      "VRAM: 12GB GDDR6X",
+      "Boost Clock: 2760 MHz (OC Mode)",
+      "Cooling: Triple Axial-tech fans",
+      "Features: Military-grade components, Metal exoskeleton"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 25.50
+  },
+  {
+    "product_id": "GPUASUS003",
+    "product_title": "ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB",
+    "product_image": "https://ibb.co.com/KjP8gDv5",
+    "category": "Graphic Cards",
+    "price": 349.99,
+    "description": "Delivering the latest NVIDIA Ampere gaming experience in its purest form, the ASUS Dual GeForce RTX 3060 melds performance and simplicity like no other. A great value card for stellar 1080p gaming.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 3060",
+      "VRAM: 12GB GDDR6",
+      "Boost Clock: 1867 MHz (OC Mode)",
+      "Cooling: Dual Axial-tech fans",
+      "Features: Protective backplate, 2-slot design"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "shipping_charge": 15.00
+  },
+  {
+    "product_id": "GPUMSI001",
+    "product_title": "MSI Suprim Liquid X GeForce RTX 4090 24G",
+    "product_image": "https://ibb.co.com/pBwLKpfm",
+    "category": "Graphic Cards",
+    "price": 2099.99,
+    "description": "MSI's top-tier card gets even cooler. The Suprim Liquid X features a hybrid cooling solution that combines air and liquid to achieve new levels of performance in stunning silence.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4090",
+      "VRAM: 24GB GDDR6X",
+      "Boost Clock: 2625 MHz",
+      "Cooling: Hybrid liquid cooling with 240mm radiator",
+      "Features: Brushed aluminum finish, Zero Frozr technology"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 38.00
+  },
+  {
+    "product_id": "GPUMSI002",
+    "product_title": "MSI Gaming X Trio GeForce RTX 4080 16GB",
+    "product_image": "https://ibb.co.com/mY6xL9h",
+    "category": "Graphic Cards",
+    "price": 1249.99,
+    "description": "The Gaming X Trio series returns with its iconic design, balancing performance, cooling, and low-noise. Featuring the TRI FROZR 3 cooling system, it's ready to power through the most demanding games at 4K.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4080",
+      "VRAM: 16GB GDDR6X",
+      "Boost Clock: 2610 MHz",
+      "Cooling: TRI FROZR 3 with TORX FAN 5.0",
+      "Features: Mystic Light RGB, Metal backplate"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 28.50
+  },
+  {
+    "product_id": "GPUMSI003",
+    "product_title": "MSI Ventus 2X Black GeForce RTX 4060 8GB OC",
+    "product_image": "https://ibb.co.com/608JkDyT",
+    "category": "Graphic Cards",
+    "price": 299.99,
+    "description": "Ventus provides a fundamentally solid experience for users looking for a performance graphics card. A sharp-looking updated design with TORX FAN 4.0 lets Ventus breeze through any task.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4060",
+      "VRAM: 8GB GDDR6",
+      "Boost Clock: 2505 MHz",
+      "Cooling: Dual TORX FAN 4.0",
+      "Features: Compact design, Reinforcing backplate"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "shipping_charge": 12.50
+  },
+  {
+    "product_id": "GPUGIGA001",
+    "product_title": "Gigabyte AORUS GeForce RTX 4090 Master 24G",
+    "product_image": "https://ibb.co.com/xqQ8fj83",
+    "category": "Graphic Cards",
+    "price": 1899.99,
+    "description": "The AORUS Master is the ultimate choice for enthusiasts. It features the WINDFORCE bionic shark fan cooling system and a unique LCD Edge View to display GPU stats or custom GIFs.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4090",
+      "VRAM: 24GB GDDR6X",
+      "Boost Clock: 2550 MHz",
+      "Cooling: WINDFORCE Bionic Shark Fans",
+      "Features: LCD Edge View, Dual BIOS, RGB Fusion"
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "shipping_charge": 32.00
+  },
+  {
+    "product_id": "GPUGIGA002",
+    "product_title": "Gigabyte Gaming OC GeForce RTX 4070 12GB",
+    "product_image": "https://ibb.co.com/pByb4Qyr",
+    "category": "Graphic Cards",
+    "price": 649.99,
+    "description": "Powered by NVIDIA's Ada Lovelace architecture, the Gaming OC 4070 features the WINDFORCE cooling system with 3x unique blade fans, making it a reliable and powerful choice for 1440p gaming.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 4070",
+      "VRAM: 12GB GDDR6X",
+      "Boost Clock: 2565 MHz",
+      "Cooling: WINDFORCE triple-fan cooling system",
+      "Features: Protective metal backplate, RGB Fusion"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 22.00
+  },
+  {
+    "product_id": "GPUGIGA003",
+    "product_title": "Gigabyte Eagle OC GeForce RTX 3050 8GB",
+    "product_image": "https://ibb.co.com/pByb4Qyr",
+    "category": "Graphic Cards",
+    "price": 249.99,
+    "description": "The Gigabyte Eagle provides an excellent entry point into RTX gaming. Featuring the efficient WINDFORCE 2X cooling system, it's perfect for playing the latest games at 1080p.",
+    "specification": [
+      "GPU: NVIDIA GeForce RTX 30,50",
+      "VRAM: 8GB GDDR6",
+      "Boost Clock: 1792 MHz",
+      "Cooling: WINDFORCE 2X with alternate spinning fans",
+      "Features: Compact size, DLSS Support"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "CPUINTL001",
+    "product_title": "Intel Core i9-14900K",
+    "product_image": "https://ibb.co.com/xqgGYJYg",
+    "category": "Processors",
+    "price": 589.99,
+    "description": "The ultimate desktop processor for enthusiasts and hardcore gamers. With 24 cores and a blazing 6.0 GHz max turbo frequency, it delivers top-tier performance for gaming, streaming, and content creation.",
+    "specification": [
+      "24 Cores (8P + 16E) / 32 Threads",
+      "Up to 6.0 GHz Max Turbo Frequency",
+      "36MB Intel Smart Cache",
+      "Unlocked for Overclocking",
+      "Integrated Intel UHD Graphics 770"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 14.50
+  },
+  {
+    "product_id": "CPUINTL002",
+    "product_title": "Intel Core i7-14700K",
+    "product_image": "https://ibb.co.com/0g6KSvZ",
+    "category": "Processors",
+    "price": 409.99,
+    "description": "Hitting the sweet spot for high-end performance, the Core i7-14700K offers a significant core count increase over its predecessor, making it a powerhouse for both gaming and demanding productivity tasks.",
+    "specification": [
+      "20 Cores (8P + 12E) / 28 Threads",
+      "Up to 5.6 GHz Max Turbo Frequency",
+      "33MB Intel Smart Cache",
+      "Unlocked for Overclocking",
+      "Supports DDR5 and DDR4 Memory"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 12.00
+  },
+  {
+    "product_id": "CPUINTL003",
+    "product_title": "Intel Core i5-14600K",
+    "product_image": "https://ibb.co.com/jPtVSWpS",
+    "category": "Processors",
+    "price": 319.99,
+    "description": "The go-to processor for mainstream gaming builds. The Core i5-14600K provides excellent performance in the latest titles and everyday applications, offering fantastic value for its price.",
+    "specification": [
+      "14 Cores (6P + 8E) / 20 Threads",
+      "Up to 5.3 GHz Max Turbo Frequency",
+      "24MB Intel Smart Cache",
+      "Unlocked for Overclocking",
+      "Excellent value for gaming builds"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 9.99
+  },
+  {
+    "product_id": "CPUAMD001",
+    "product_title": "AMD Ryzen 9 7950X",
+    "product_image": "https://ibb.co.com/4wPvc76W",
+    "category": "Processors",
+    "price": 549.99,
+    "description": "The productivity king. With 16 high-performance Zen 4 cores, the Ryzen 9 7950X is built to dominate multi-threaded workloads like 3D rendering, video editing, and software compilation.",
+    "specification": [
+      "16 Cores / 32 Threads",
+      "Up to 5.7 GHz Max Boost Clock",
+      "80MB Total Cache (L2+L3)",
+      "Socket AM5 Platform (DDR5 Required)",
+      "Unlocked for Overclocking"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "shipping_charge": 13.50
+  },
+  {
+    "product_id": "CPUAMD002",
+    "product_title": "AMD Ryzen 7 7800X3D",
+    "product_image": "https://ibb.co.com/8njtkYR6",
+    "category": "Processors",
+    "price": 399.99,
+    "description": "Widely regarded as the best gaming CPU on the market. The Ryzen 7 7800X3D leverages AMD's 3D V-Cache technology to deliver unparalleled gaming performance and frame rates.",
+    "specification": [
+      "8 Cores / 16 Threads",
+      "Up to 5.0 GHz Max Boost Clock",
+      "104MB Total Cache with 3D V-Cache",
+      "The Ultimate Gaming Processor",
+      "Socket AM5 Platform (DDR5 Required)"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "shipping_charge": 11.50
+  },
+  {
+    "product_id": "CPUAMD003",
+    "product_title": "AMD Ryzen 5 7600X",
+    "product_image": "https://ibb.co.com/DgSXD5nM",
+    "category": "Processors",
+    "price": 249.99,
+    "description": "The entry point to AMD's powerful AM5 platform. The Ryzen 5 7600X offers fantastic single-core performance, making it an exceptional value for gamers and general users building a modern PC.",
+    "specification": [
+      "6 Cores / 12 Threads",
+      "Up to 5.3 GHz Max Boost Clock",
+      "38MB Total Cache (L2+L3)",
+      "Socket AM5 Platform (DDR5 Required)",
+      "Excellent performance-per-dollar"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "shipping_charge": 9.50
+  }
+]

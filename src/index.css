@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+@import "tailwindcss";
+@plugin 'daisyui';
+
+@theme{
+  /* font-family */
+  --font-serif:"Sora", sans-serif;
+  --text-custom-title:1.75rem;
+  /* breaking points */
+  --breakpoint-xxs:20rem;
+  --breakpoint-xs:21.875rem;
+  --breakpoint-sm:28.125rem;
+  --breakpoint-md:47.9375rem;
+  --breakpoint-lg:61.875rem;
+  --break-point-xl:75rem;
+  --breakpoint-2xl:1350px;
+  --breakpoint-3xl:87.5rem;
+  /* color */
+  --color-project-violet:#9538E2;
+
+}
+
+@layer base {
+  *{
+    @apply m-0 p-0 box-border;
+  }
+  body{
+    @apply font-serif capitalize font-normal leading-7;
+  }
+}
+
+@layer components{
+  /*  hero title*/
+  .xxxl-title{
+    @apply xxs:text-3xl sm:text-4xl lg:text-5xl font-bold text-project-violet;
+  }
+  /* footer title */
+  .xxl-title{
+    @apply xxs:text-xl md:text-2xl lg:text-3xl font-semibold;
+  }
+  /* product detail title */
+  .xl-title{
+    @apply xxs:text-xl md:text-2xl lg:text-custom-title font-semibold;
+  }
+  .lg-title{
+    @apply xxs:text-base md:text-xl lg:text-2xl;
+  }
+  /* content title */
+  .md-title{
+    @apply font-bold text-black xxs:text-lg md:text-xl lg:text-4xl;
+  }
+  /* card title */
+  .sm-title{
+    @apply font-semibold xxs:text-base  md:text-lg  lg:text-2xl;
+  }
+  /* footer content title */
+  .xm-title{
+    @apply xxs:text-sm md:text-base lg:text-lg font-bold;
+  }
+
+  /* paragraph */
+
+  .brief{
+    @apply xxs:text-xs md:text-sm lg:text-base font-normal;
+  }
+
+}
+
+
