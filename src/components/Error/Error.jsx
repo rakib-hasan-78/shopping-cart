@@ -15,10 +15,10 @@ const Error = () => {
             return(
                 <div className='xxs:w-full lg:w-7/12 h-full flex flex-col items-center'>
                     <h2 className='xxl-title p-2 bg-linear-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent'>oops! Error occurred!</h2>
-                    <h3 className='lg-title text-violet-800'><span>/{routeLocation}</span> {error.statusText}</h3>
+                    <p className='brief text-violet-800'><span className='bg-violet-200 p-1.5 rounded-lg'>{routeLocation}</span> {error.statusText}</p>
                     {error.data?.message && <p>{error.data.message}</p>}
                     <button 
-                    className='uppercase btn btn-lg btn-outline btn-secondary my-2'
+                    className='uppercase btn btn-lg btn-outline btn-secondary my-4'
                      onClick={returnHandler}
                      >
                      return

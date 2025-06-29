@@ -5,6 +5,7 @@ import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ErrorPage from './pages/ErrorPage/ErrorPage.jsx'
 import Root from './pages/Root/Root.jsx'
+import Home from './pages/Home/Home';
 
 const router = createBrowserRouter([
   {
@@ -14,7 +15,8 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <p>okey publikeee</p>
+        loader:()=>fetch('/data.json').then(res=>res.json()), 
+        element: <Home />
       },
       {
         path: '/statistics',
