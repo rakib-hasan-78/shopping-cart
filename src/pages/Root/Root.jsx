@@ -6,7 +6,7 @@ import Header from './../../components/Header/Header';
 const Root = () => {
     return (
         <div 
-        className='w-full h-screen flex flex-col items-center justify-between pt-3'>
+        className='w-full h-auto flex flex-col items-center justify-between pt-3'>
             <Header />
             <Outlet />
         
