@@ -4,12 +4,23 @@ import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ErrorPage from './pages/ErrorPage/ErrorPage.jsx'
+import Root from './pages/Root/Root.jsx'
 
 const router = createBrowserRouter([
   {
     path:'/',
-    element: <h1>0ye kuljeet!</h1>,
-    errorElement: <ErrorPage />
+    element: <Root />,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        path: '/',
+        element: <p>okey publikeee</p>
+      },
+      {
+        path: '/statistics',
+        element: <p>this is stats.....</p>
+      }
+    ]
     
   }
 ])

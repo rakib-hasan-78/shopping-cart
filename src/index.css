@@ -41,7 +41,7 @@
 @layer components{
   /*  hero title*/
   .xxxl-title{
-    @apply xxs:text-3xl sm:text-4xl lg:text-5xl font-bold;
+    @apply xxs:text-2xl sm:text-3xl lg:text-4xl font-bold;
   }
   /* footer title */
   .xxl-title{
@@ -70,11 +70,16 @@
   /* paragraph */
 
   .brief{
-    @apply xxs:text-xs md:text-sm lg:text-base font-normal;
+    @apply xxs:text-xs md:text-sm lg:text-sm font-normal;
   }
+  
 
   .btn-gradient-border{
     @apply relative inline-block rounded-full p-[2px] bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500;
+  }
+
+  .main{
+    @apply xxs:w-full lg:w-11/12 mx-auto flex flex-wrap flex-col;
   }
 
 }
