@@ -40,7 +40,7 @@ const Nav = () => {
                 <div className="indicator">
                     <span className="indicator-item badge badge-xs badge-error text-red-50">12</span>
                     <button
-                    className={`btn btn-circle  btn-sm ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
+                    className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">
                     <BsCart3 />
                     </button>
@@ -48,7 +48,7 @@ const Nav = () => {
                 <div className="indicator">
                     <span className="indicator-item badge badge-xs badge-error text-red-50">10</span>
                     <button
-                    className={`btn btn-circle  btn-sm ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
+                    className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">
                     <GoHeart />
                     </button>

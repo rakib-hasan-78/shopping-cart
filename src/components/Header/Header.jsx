@@ -5,13 +5,13 @@ import ProductCard from './../ProductCard/ProductCard';
 
 const Header = () => {
     return (
-        <div className='w-full h-8'>
+        <header className='w-full h-auto'>
             <main className='main relative'>
                 <Hero />
                 <Nav />
                 <ProductCard />
             </main>
-        </div>
+        </header>
     );
 };
 
