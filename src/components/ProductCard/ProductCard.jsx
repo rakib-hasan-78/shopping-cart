@@ -9,7 +9,7 @@ const ProductCard = () => {
                     <img
                         src={heroPng}
                         alt="Hero"
-                        className="w-full h-full object-cover rounded-2xl"
+                        className="w-full h-full object-cover  rounded-2xl"
                     />
                 </div>
             </div>
