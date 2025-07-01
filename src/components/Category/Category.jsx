@@ -7,7 +7,7 @@ const Category = () => {
            <Btn btnName={'all'} />
            <Btn btnName={'Laptops'} />
            <Btn btnName={'Keyboards'} />
-           <Btn btnName={'Computer Mouse'} />
+           <Btn btnName={'Mouse'} />
            <Btn btnName={'Soundboxes'} />
            <Btn btnName={'Monitors'} />
            <Btn btnName={'Headphones'} />

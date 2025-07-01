@@ -3,11 +3,16 @@ import { BiDollar } from "react-icons/bi";
 import { BsCart3 } from "react-icons/bs";
 import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
 import hds from '../../assets/hero.png';
-const Card = () => {
+const Card = ({product}) => {
     return (
         <div className='w-full h-64 border rounded-md bg-project-white border-project-gray flex flex-col'>
-            <div className='p-3 rounded-md'>
+            <div className='p-3 rounded-md relative'>
             <img className='rounded-md' src={hds} alt="" />
+            <div className='absolute w-3 top-3 left-3 rounded-full'>
+                <div 
+                className="badge w-18 text-[8px] font-extrabold rounded-full bg-gradient-to-r from-rose-600/40 via-red-500/40 to-pink-500/50 text-red-900/60 border-0 shadow-2xl"
+                > <small>out of stock</small> </div>
+            </div>
             </div>
             <div className='px-3'>
                 <h2 
