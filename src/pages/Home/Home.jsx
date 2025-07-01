@@ -11,7 +11,7 @@ const Home = () => {
     
     return (
         <DataContext.Provider value={{productData}}>
-            <div className='w-full h-auto flex flex-col bg-project-gray/50'>
+            <div className='w-full h-auto flex flex-col bg-project-gray/80'>
                 <main className="main">
                     <Hero>
                         <div className="hero-content text-center w-11/12 flex-col mt-24">

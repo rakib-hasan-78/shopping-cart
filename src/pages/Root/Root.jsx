@@ -1,15 +1,20 @@
 import React from 'react';
-import { Outlet } from 'react-router-dom';
+import { Outlet, useNavigation } from 'react-router-dom';
 import Header from './../../components/Header/Header';
 import Footer from './../../components/Footer/Footer';
+import Loader from './../../components/Loader/Loader';
 
 
 const Root = () => {
+    const navigation = useNavigation();
     return (
         <div 
         className='w-full h-auto flex flex-col items-center justify-between pt-3'>
             <Header />
-            <Outlet />
+            {
+                navigation.state==='loading' ? <Loader /> :
+                <Outlet />
+            }
             <Footer className='pt-3'>
                 <div className='flex flex-wrap flex-col items-center py-6'>
                     <h3 className='xxl-title py-2'>Gadget Heaven</h3>

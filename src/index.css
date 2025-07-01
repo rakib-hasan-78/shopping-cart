@@ -36,6 +36,9 @@
   img{
     @apply w-full h-full;
   }
+  button{
+    @apply capitalize;
+  }
 }
 
 @layer components{
@@ -60,7 +63,7 @@
   }
   /* card title */
   .sm-title{
-    @apply font-semibold xxs:text-base  md:text-lg  lg:text-2xl;
+    @apply font-medium xxs:text-base  md:text-lg  lg:text-sm;
   }
   /* footer content title */
   .xm-title{
@@ -75,7 +78,7 @@
   
 
   .btn-gradient-border{
-    @apply relative inline-block rounded-full p-[2px] bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500;
+    @apply relative inline-block rounded-full p-[1px] bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500;
   }
 
   .main{
