@@ -2,7 +2,7 @@
     {
     "product_id": "A001",
     "product_title": "Apple MacBook Pro 16-inch M2 Max",
-    "product_image": "https://ibb.co.com/HfVYZt3X",
+    "product_image": "https://i.ibb.co.com/Dj8xmMG/Mac-Book-Air-M2-15-inch-8-CPU-10-GPU-Silver-4066.jpg",
     "category": "Laptops",
     "price": 3499,
     "description": "The Apple MacBook Pro 16-inch with M2 Max chip offers unparalleled power and performance for creative professionals. Equipped with a stunning Liquid Retina XDR display, it delivers vibrant colors and true blacks for accurate design work. With up to 64GB of unified memory and 8TB SSD storage, it handles intensive workflows effortlessly. Enjoy long battery life, a premium keyboard, and advanced thermal design.",
@@ -13,14 +13,14 @@
       "Up to 8TB SSD storage",
       "Battery life up to 21 hours"
     ],
-    "availability": true,
+    "availability":true,
     "rating": 4.9,
     "shipping_charge": 25
   },
   {
     "product_id": "A002",
     "product_title": "Apple MacBook Air 15-inch M2",
-    "product_image": "https://ibb.co.com/SZdhHmQ",
+    "product_image": "https://i.ibb.co.com/0RcZ5CvQ/3715-45148-8178.jpg",
     "category": "Laptops",
     "price": 1499,
     "description": "The Apple MacBook Air 15-inch with M2 chip is the perfect combination of portability and power. It features a sleek, lightweight design ideal for students and professionals on the go. The Retina display offers sharp images and vibrant colors. With up to 18 hours of battery life, fast SSD storage, and silent fanless architecture, it is ready to support your daily productivity and creativity needs.",
@@ -38,7 +38,7 @@
   {
     "product_id": "A003",
     "product_title": "Apple MacBook Pro 14-inch M1 Pro",
-    "product_image": "https://ibb.co.com/gLNZQnFB",
+    "product_image": "https://i.ibb.co.com/KpdxB1z3/3710-10824.jpg",
     "category": "Laptops",
     "price": 2399,
     "description": "Experience pro-level performance with the Apple MacBook Pro 14-inch featuring the M1 Pro chip. This laptop boasts a stunning Liquid Retina XDR display with ProMotion technology for smoother visuals. It offers outstanding power efficiency and lightning-fast performance, making it ideal for video editing, coding, and multitasking. Long battery life and an advanced cooling system keep you working uninterrupted.",
@@ -56,7 +56,7 @@
   {
     "product_id": "A004",
     "product_title": "Apple MacBook Air 13-inch M1",
-    "product_image": "https://ibb.co.com/N2ncQkrL",
+    "product_image": "https://i.ibb.co.com/zVHqjLFS/Mac-Book-Air-M1-13-inch-8256-GB-Space-Gray-9682.jpg",
     "category": "Laptops",
     "price": 999,
     "description": "The MacBook Air 13-inch with Apple’s M1 chip revolutionizes thin and light laptops. Its fanless design ensures silent operation, while the powerful CPU and GPU deliver fast performance for everyday tasks and creative projects. The Retina display is bright and colorful, and the laptop provides excellent battery life, perfect for users who prioritize mobility and all-day productivity.",
@@ -74,7 +74,7 @@
   {
     "product_id": "A005",
     "product_title": "Apple MacBook Pro 13-inch M2",
-    "product_image": "https://ibb.co.com/PvFZQw1f",
+    "product_image": "https://i.ibb.co.com/gLmMVztB/Mac-Book-Pro-M2-8256-GB-13-inch-Space-Gray-a-3035.jpg",
     "category": "Laptops",
     "price": 1299,
     "description": "This 13-inch MacBook Pro with the M2 chip offers a great balance of portability and power for professionals on the move. Featuring the Magic Keyboard and Retina display, it supports intensive workloads like photo and video editing with smooth performance. The Touch Bar adds quick access to controls and shortcuts, while the battery supports long work sessions.",
@@ -92,7 +92,7 @@
   {
     "product_id": "A006",
     "product_title": "Apple MacBook Pro 16-inch M1 Max",
-    "product_image": "https://ibb.co.com/9kJ6jRLX",
+    "product_image": "https://i.ibb.co.com/mrJ5ch79/Mac-Book-Air-M2-13-6-inch-8256-GB-midnight-1121.jpg",
     "category": "Laptops",
     "price": 3199,
     "description": "Designed for heavy workloads, the MacBook Pro 16-inch with M1 Max chip delivers extraordinary CPU and GPU performance. It features a stunning 16-inch Liquid Retina XDR display with excellent color accuracy. With up to 64GB memory and fast SSD storage, it’s perfect for 3D rendering, software development, and video production. Advanced cooling ensures consistent performance during extended use.",
@@ -110,7 +110,7 @@
   {
     "product_id": "A007",
     "product_title": "Apple MacBook Air 13-inch M1 2020",
-    "product_image": "https://ibb.co.com/nsH1Z3pq",
+    "product_image": "https://i.ibb.co.com/nNT9Shv2/3715-43695.jpg",
     "category": "Laptops",
     "price": 899,
     "description": "The 2020 MacBook Air powered by the Apple M1 chip is known for exceptional performance and efficiency in a slim design. It offers a high-resolution Retina display and supports up to 16GB of memory. This model is ideal for students and professionals who want a dependable, lightweight machine for everyday computing and multimedia.",
@@ -128,7 +128,7 @@
   {
     "product_id": "A008",
     "product_title": "Apple MacBook Pro 14-inch M2 Pro",
-    "product_image": "https://ibb.co.com/DDtPTNtk",
+    "product_image": "https://i.ibb.co.com/fYhNB8JV/Mac-Book-Air-M1-13-inch-8256-GB-Space-Gray-9682.jpg",
     "category": "Laptops",
     "price": 1999,
     "description": "The MacBook Pro 14-inch equipped with the M2 Pro chip is tailored for demanding professional tasks, offering a Liquid Retina XDR display and ProMotion technology. It balances power efficiency with top-tier performance and includes a versatile range of ports. Perfect for video editors, developers, and designers who need reliability and speed on the go.",
@@ -146,7 +146,7 @@
   {
     "product_id": "A009",
     "product_title": "Apple MacBook Air 13-inch M2 2022",
-    "product_image": "https://ibb.co.com/ZRdzMcCB",
+    "product_image": "https://i.ibb.co.com/Y734w638/Mac-Book-Pro-M2-Pro-Space-Grey-a-5196.jpg",
     "category": "Laptops",
     "price": 1199,
     "description": "The 2022 MacBook Air with the M2 chip features a fresh design with a bigger 13.6-inch Retina display, improved performance, and battery life. This model offers MagSafe charging, better speakers, and an upgraded 1080p webcam, making it ideal for both everyday productivity and creative work in a compact form factor.",
@@ -164,7 +164,7 @@
   {
     "product_id": "A010",
     "product_title": "Apple MacBook Pro 13-inch M1 Pro",
-    "product_image": "https://ibb.co.com/7hw34gP",
+    "product_image": "https://i.ibb.co.com/3KDxzf2/2324-58451.jpg",
     "category": "Laptops",
     "price": 1799,
     "description": "The MacBook Pro 13-inch with M1 Pro chip brings enhanced CPU and GPU power, along with an extended battery life and advanced cooling system. It features the Retina display and is ideal for professionals requiring strong performance in a portable size. Perfect for multitasking, software development, and creative projects that demand reliability and speed.",
@@ -183,7 +183,7 @@
    {
     "product_id": "HP001",
     "product_title": "HP Envy 13",
-    "product_image": "https://ibb.co.com/b5f6HZSM",
+    "product_image": "https://i.ibb.co.com/BYqkyv6/c08896414.png",
     "category": "Laptops",
     "price": 1199.99,
     "description": "The HP Envy 13 is a sleek and ultra-portable laptop designed for creators and professionals. Featuring a vibrant 13.3-inch 4K display, the latest Intel Core i7 processor, and fast SSD storage, it offers powerful performance and excellent battery life in a lightweight metal chassis.",
@@ -201,7 +201,7 @@
   {
     "product_id": "HP002",
     "product_title": "HP Envy x360 15",
-    "product_image": "https://ibb.co.com/NGZR9fN",
+    "product_image": "https://i.ibb.co.com/XxwWyghr/HP-ENVY-13-BF0013-DX-c-2226.jpg",
     "category": "Laptops",
     "price": 1049.99,
     "description": "HP Envy x360 15 is a powerful 2-in-1 convertible laptop equipped with AMD Ryzen 7 processors and a stunning touch-enabled display. It is designed to provide excellent multitasking and creative capabilities in a durable metal build with Bang & Olufsen audio for an immersive experience.",
@@ -219,7 +219,7 @@
   {
     "product_id": "HP003",
     "product_title": "HP Dragonfly G3",
-    "product_image": "https://example.com/hp_dragonfly_g3.jpg",
+    "product_image": "https://i.ibb.co.com/fdVdBnzf/HP-Dragonfly-Folio-G3-MC-Solution-BD-1.webp",
     "category": "Laptops",
     "price": 1599.99,
     "description": "The HP Dragonfly G3 is an ultra-lightweight business laptop weighing under 1 kg, offering powerful Intel Evo platform performance. It includes a 13.5-inch 3:2 display, advanced security features, and excellent battery life, making it perfect for executives who prioritize mobility without sacrificing power.",
@@ -237,7 +237,7 @@
   {
     "product_id": "HP004",
     "product_title": "HP Dragonfly Folio",
-    "product_image": "https://ibb.co.com/Qv7vzC3L",
+    "product_image": "https://i.ibb.co.com/YFZx30kY/HP-Dragonfly-Chromebook-Enterprise-2x.jpg",
     "category": "Laptops",
     "price": 1799.99,
     "description": "HP Dragonfly Folio is a premium business convertible laptop with a leather-inspired finish and ultra-thin design. It features a 13.5-inch touchscreen, stylus support, and enterprise-grade security, perfect for professionals looking for style, performance, and security in one elegant device.",
@@ -255,7 +255,7 @@
   {
     "product_id": "HP005",
     "product_title": "HP EliteBook 840 G9",
-    "product_image": "https://ibb.co.com/LXNT37s8",
+    "product_image": "https://i.ibb.co.com/XrYnqRGb/com-nb-hp-elitebook-840-g9-product-image.png",
     "category": "Laptops",
     "price": 1349.99,
     "description": "The HP EliteBook 840 G9 is a powerful business laptop combining strong security features with a durable chassis. With a 14-inch Full HD display and 12th Gen Intel Core processors, it delivers reliable performance and long battery life, ideal for on-the-go professionals and corporate environments.",
@@ -273,7 +273,7 @@
   {
     "product_id": "HP006",
     "product_title": "HP EliteBook x360 1040 G9",
-    "product_image": "https://ibb.co.com/4RGLnx9v",
+    "product_image": "https://i.ibb.co.com/k2fTsFkb/c08177315.png",
     "category": "Laptops",
     "price": 1899.99,
     "description": "The HP EliteBook x360 1040 G9 is a versatile premium business convertible with a 14-inch touchscreen and 360-degree hinge. Equipped with powerful Intel processors and collaboration tools, it offers flexibility, security, and performance for executives who need to work efficiently in any environment.",
@@ -291,7 +291,7 @@
   {
     "product_id": "HP007",
     "product_title": "HP ProBook 450 G9",
-    "product_image": "https://ibb.co.com/svwhBqW6",
+    "product_image": "https://i.ibb.co.com/4ZTcQp1Y/com-nb-hp-probook-450-and-440-g9-product-image.png",
     "category": "Laptops",
     "price": 899.99,
     "description": "The HP ProBook 450 G9 is a budget-friendly business laptop offering a solid balance of performance and value. With a 15.6-inch display, Intel Core i5/i7 processors, and a sturdy chassis, it’s perfect for small and medium-sized businesses requiring reliable productivity tools.",
@@ -309,7 +309,7 @@
   {
     "product_id": "HP008",
     "product_title": "HP ProBook 635 Aero",
-    "product_image": "https://ibb.co.com/5WYbrXsK",
+    "product_image": "https://i.ibb.co.com/MD8FcyPB/HP-Probook-635-Aero-G7-Ryzen-54500-U-8-GB-RAM-256-GB-SSD-13-3-FHD-Laptop-2.jpg",
     "category": "Laptops",
     "price": 1099.99,
     "description": "HP ProBook 635 Aero offers AMD Ryzen processor power packed in a lightweight, durable chassis. It boasts impressive battery life and strong security features, making it ideal for mobile professionals who need dependable performance and portability without compromise.",
@@ -327,7 +327,7 @@
   {
     "product_id": "HP009",
     "product_title": "HP Elite Dragonfly Max",
-    "product_image": "https://ibb.co.com/zTJzr6Rj",
+    "product_image": "https://i.ibb.co.com/HDD9hH2P/giant-323894.jpg",
     "category": "Laptops",
     "price": 1799.99,
     "description": "The HP Elite Dragonfly Max is a top-tier business laptop featuring AI noise cancellation, 5G connectivity, and a vivid 13.5-inch display. Designed for professionals working remotely, it offers long battery life and enhanced collaboration capabilities for seamless productivity anywhere.",
@@ -345,7 +345,7 @@
   {
     "product_id": "HP010",
     "product_title": "HP ProBook x360 435 G8",
-    "product_image": "https://ibb.co.com/6RRqXWZt",
+    "product_image": "https://i.ibb.co.com/k2fTsFkb/c08177315.png",
     "category": "Laptops",
     "price": 999.99,
     "description": "The HP ProBook x360 435 G8 is a flexible 2-in-1 laptop powered by AMD Ryzen processors. Its 13.3-inch touch display and convertible design make it ideal for teamwork and presentations, while security features ensure data safety for business environments.",
@@ -364,7 +364,7 @@
   {
     "product_id": "DELL001",
     "product_title": "Dell XPS 13 Plus",
-    "product_image": "https://ibb.co.com/Q39ZHgB4",
+    "product_image": "https://i.ibb.co.com/LXSMgFw3/notebook-xps-13-9345-t-gray-gallery-2.png",
     "category": "Laptops",
     "price": 1399.99,
     "description": "The Dell XPS 13 Plus offers a futuristic design with a seamless glass touch function row and edge-to-edge 13.4-inch OLED display. Powered by 12th Gen Intel Core processors, this laptop is ideal for professionals and creatives seeking top-tier performance in a compact, stylish body.",
@@ -383,7 +383,7 @@
   {
     "product_id": "DELL003",
     "product_title": "Dell Latitude 7420",
-    "product_image": "https://ibb.co.com/CsSc0YSW",
+    "product_image": "https://i.ibb.co.com/fGTg0yTQ/la7420t-ctb-00030rf120-bk-5000x5000-gettyimages-1197597312-revised.png",
     "category": "Laptops",
     "price": 1499.99,
     "description": "The Dell Latitude 7420 is a premium business laptop built for durability and security. Featuring a 14-inch Full HD display and 11th Gen Intel Core processors, it delivers excellent performance with long battery life and enterprise-grade security features ideal for professionals.",
@@ -401,7 +401,7 @@
   {
     "product_id": "DELL004",
     "product_title": "Dell G15 Gaming Laptop",
-    "product_image": "https://ibb.co.com/bg9ZKMJB",
+    "product_image": "https://i.ibb.co.com/d0Yq5wg2/notebook-g15-5530-nt-coral-black-gallery-1.png",
     "category": "Laptops",
     "price": 1149.99,
     "description": "The Dell G15 is a budget-friendly gaming laptop with powerful hardware including an Intel Core i7 processor and NVIDIA RTX 3050 graphics. With a 15.6-inch Full HD display and effective thermal cooling, it offers smooth gameplay and reliable performance for gamers on a budget.",
@@ -420,7 +420,7 @@
   {
     "product_id": "DELL007",
     "product_title": "Dell Latitude 9520",
-    "product_image": "https://ibb.co.com/Y7vMt5Lf",
+    "product_image": "https://i.ibb.co.com/TBzSHQgP/la9520t-ctb-05030rf295-gy-5000x5000-gettyimages-1088317948-revised.png",
     "category": "Laptops",
     "price": 2099.99,
     "description": "The Dell Latitude 9520 is an enterprise-class laptop built for performance and security. It features a 15-inch Full HD display, 11th Gen Intel Core processors, and advanced security solutions. Its premium chassis and long battery life make it ideal for demanding business environments.",
@@ -439,7 +439,7 @@
   {
     "product_id": "DELL009",
     "product_title": "Dell Precision 5570",
-    "product_image": "https://ibb.co.com/99vRbB36",
+    "product_image": "https://i.ibb.co.com/rGtnxqfY/workstation-precision-15-5570-gallery-3.png",
     "category": "Laptops",
     "price": 2499.99,
     "description": "The Dell Precision 5570 is a mobile workstation designed for professionals in CAD and 3D design. Featuring a 15.6-inch 4K UHD display and Intel Xeon processors, it offers high-end graphics performance and reliability for demanding creative and engineering tasks.",
@@ -457,7 +457,7 @@
   {
     "product_id": "DELL010",
     "product_title": "Dell Inspiron 16 Plus",
-    "product_image": "https://ibb.co.com/Pv9T8Wnh",
+    "product_image": "https://i.ibb.co.com/gLPvCWpT/laptop-inspiron-16-plus-7640nt-bl-dis-fpr-ai-key-gallery-6.png",
     "category": "Laptops",
     "price": 1249.99,
     "description": "The Dell Inspiron 16 Plus offers a large 16-inch 3K display and powerful 11th Gen Intel Core processors. It’s perfect for users needing a big screen and strong multitasking capabilities for creative work and entertainment, all within a stylish, modern chassis.",
@@ -476,7 +476,7 @@
   {
     "product_id": "AS001",
     "product_title": "Asus Vivobook 15 OLED (M513IA)",
-    "product_image": "https://ibb.co.com/qSVHnxc",
+    "product_image": "https://i.ibb.co.com/RFdXS7s/vivobook-15-020-500x500.jpg",
     "category": "Laptops",
     "price": 899.99,
     "description": "The Asus Vivobook 15 OLED (M513IA) delivers stunning visual quality with its 15.6-inch Full HD OLED display, perfect for content creators and media enthusiasts. Powered by AMD Ryzen 7 5800H and 16GB RAM, it handles multitasking effortlessly. A fast 512GB SSD, ergonomic keyboard, and lightweight chassis make it ideal for both work and entertainment on the go.",
@@ -494,7 +494,7 @@
   {
     "product_id": "AS004",
     "product_title": "Asus Vivobook Flip 14 (TP470EA)",
-    "product_image": "https://ibb.co.com/kggMJgPp",
+    "product_image": "https://i.ibb.co.com/4ZZJ2Z0c/vivobook-flip-14-1-500x500.jpg",
     "category": "Laptops",
     "price": 749.99,
     "description": "The Asus Vivobook Flip 14 (TP470EA) is a versatile 2-in-1 convertible laptop with a responsive touch screen and stylus support. Powered by Intel Core i5-1135G7, it offers solid performance for work, study, and creative projects. The 360-degree hinge, lightweight design, and long battery life make it ideal for flexible on-the-go usage.",
@@ -513,7 +513,7 @@
   {
     "product_id": "AS010",
     "product_title": "Asus Vivobook 15X OLED (M1504QA)",
-    "product_image": "https://ibb.co.com/mVWMxgSj",
+    "product_image": "https://i.ibb.co.com/FLTjPCnr/vivobook-15x-oled-cool-silver-03-500x500.webp",
     "category": "Laptops",
     "price": 1049.99,
     "description": "The Asus Vivobook 15X OLED (M1504QA) is a creative-focused laptop featuring a 15.6-inch 2.8K OLED display, making it ideal for multimedia editing and vibrant visuals. Equipped with AMD Ryzen 7 6800H and 16GB RAM, it provides reliable performance for creators and students alike. Its light build and long battery life ensure productivity on the move.",
@@ -532,7 +532,7 @@
   {
     "product_id": "SB001",
     "product_title": "Microsoft Surface Book 3 – 13.5-inch",
-    "product_image": "https://ibb.co.com/VYQntZHx",
+    "product_image": "https://i.ibb.co.com/TMbjkSK1/Microsoft-Surface-Book-3-10th-Gen-Intel-Core-i.jpg",
     "category": "Laptops",
     "price": 1599.99,
     "description": "The Surface Book 3 13.5-inch combines the power of a high-performance laptop with the versatility of a detachable tablet. With Intel Core i7, up to NVIDIA GTX 1650 Max‑Q graphics, and all-day battery life, it handles creative workflows like photo editing, coding, and light gaming effortlessly. The PixelSense touchscreen is vivid and responsive, and the hinge allows easy transition between laptop and tablet modes.",
@@ -550,7 +550,7 @@
   {
     "product_id": "SB002",
     "product_title": "Microsoft Surface Book 3 – 15-inch",
-    "product_image": "https://ibb.co.com/LsqNYK0",
+    "product_image": "https://i.ibb.co.com/mPYNbpR/71h-KFW0-Owb-L-AC-SL1500.jpg",
     "category": "Laptops",
     "price": 2399.99,
     "description": "The Surface Book 3 15-inch is designed for power users who need professional-grade performance. Sporting Intel Core i7 and NVIDIA GTX 1660 Ti, it excels at 3D rendering, video editing, and other GPU-intensive tasks. This detachable laptop delivers tablet convenience with pen support and long battery life, while its sturdy build ensures reliability in various work environments.",
@@ -569,7 +569,7 @@
   {
     "product_id": "SB007",
     "product_title": "Microsoft Surface Book 3 – High Spec",
-    "product_image": "https://ibb.co.com/n8bxg9Pn",
+    "product_image": "https://i.ibb.co.com/h1y37bYZ/surface-pro-9-platinum-001-500x500.webp",
     "category": "Laptops",
     "price": 2799.99,
     "description": "The highest-performance Surface Book 3 features Intel Core i7 and NVIDIA GTX 1660 Ti Max‑Q, alongside 32GB RAM and 2TB SSD storage. Built for professional creative workflows such as video editing, 3D rendering, and graphic design, its detachable form factor and impressive battery life make it a powerful yet flexible studio device.",
@@ -588,7 +588,7 @@
   {
     "product_id": "SB009",
     "product_title": "Microsoft Surface Book 3 – Mid Spec",
-    "product_image": "https://ibb.co.com/VYQntZHx",
+    "product_image": "https://i.ibb.co.com/PvvDnX8Q/NEW-Microsoft-Surface-Book-3-10th-Gen-Intel-Core-i70.jpg",
     "category": "Laptops",
     "price": 1999.99,
     "description": "The mid-spec Surface Book 3 model offers a solid blend of power and portability with Intel Core i7, 16GB RAM, 1TB SSD, and NVIDIA GTX 1650. The detachable design provides flexibility for tablet usage, and the bright PixelSense display is great for drawing, presentations, or watching HD video content anywhere.",
@@ -606,7 +606,7 @@
   {
     "product_id": "SB010",
     "product_title": "Microsoft Surface Book 3 – 2TB GPU",
-    "product_image": "https://ibb.co.com/9kkZLKjt",
+    "product_image": "https://i.ibb.co.com/TMbjkSK1/Microsoft-Surface-Book-3-10th-Gen-Intel-Core-i.jpg",
     "category": "Laptops",
     "price": 3199.99,
     "description": "This top-tier Surface Book 3 model includes Intel Core i7, NVIDIA GTX 1660 Ti Max‑Q, 32GB RAM, and 2TB SSD. Built for professionals who need maximum performance in a portable design, it excels in video editing, 3D modeling, and graphic design. The detachable tablet mode and precise pen input enhance creative workflows.",
@@ -625,7 +625,7 @@
   {
     "product_id": "KBD001",
     "product_title": "Logitech MX Keys",
-    "product_image": "https://ibb.co.com/yc5FXsTQ",
+    "product_image": "https://i.ibb.co.com/TxRMkhXg/4259-74566.jpg",
     "category": "Keyboards",
     "price": 82.81,
     "description": "The Logitech MX Keys is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -643,7 +643,7 @@
   {
     "product_id": "KBD002",
     "product_title": "Logitech K380 Multi-Device",
-    "product_image": "https://ibb.co.com/vC6Jbz3N",
+    "product_image": "https://i.ibb.co.com/FkLB975Q/K380-jpg-500x500-1.webp",
     "category": "Keyboards",
     "price": 55.87,
     "description": "The Logitech K380 Multi-Device is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -661,7 +661,7 @@
   {
     "product_id": "KBD003",
     "product_title": "Logitech G915 TKL",
-    "product_image": "https://ibb.co.com/BHhY4F3K",
+    "product_image": "https://i.ibb.co.com/TqWp94nT/g915-tkl-gallery-3-carbon.png",
     "category": "Keyboards",
     "price": 234.81,
     "description": "The Logitech G915 TKL is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -679,7 +679,7 @@
   {
     "product_id": "KBD004",
     "product_title": "Logitech K845 Mechanical",
-    "product_image": "https://ibb.co.com/GQ9x7Btx",
+    "product_image": "https://i.ibb.co.com/wZn2Jjgr/KB-LGT-G915-X-LS-TKL-920-012726-2aea9e2f-65e2-4895-b57b-1ae0ac290c1b.png",
     "category": "Keyboards",
     "price": 194.37,
     "description": "The Logitech K845 Mechanical is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -697,7 +697,7 @@
   {
     "product_id": "KBD005",
     "product_title": "Razer BlackWidow V4",
-    "product_image": "https://ibb.co.com/N20D6JpQ",
+    "product_image": "https://i.ibb.co.com/3mvr1GMr/51-J05wj-SVGL-AC-SL1000.jpg",
     "category": "Keyboards",
     "price": 243.86,
     "description": "The Razer BlackWidow V4 is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -715,7 +715,7 @@
   {
     "product_id": "KBD006",
     "product_title": "Razer Huntsman Mini",
-    "product_image": "https://ibb.co.com/60v1ydHh",
+    "product_image": "https://i.ibb.co.com/1GCyfPKh/blackwidow-v4-01-500x500.webp",
     "category": "Keyboards",
     "price": 242.29,
     "description": "The Razer Huntsman Mini is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -733,7 +733,7 @@
   {
     "product_id": "KBD007",
     "product_title": "Razer Cynosa V2",
-    "product_image": "https://ibb.co.com/5gfZHkcm",
+    "product_image": "https://i.ibb.co.com/0yBFnwCN/huntsman-mini-1-500x500-1-jpg.webp",
     "category": "Keyboards",
     "price": 246.47,
     "description": "The Razer Cynosa V2 is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -751,7 +751,7 @@
   {
     "product_id": "KBD008",
     "product_title": "Razer Pro Type Ultra",
-    "product_image": "https://ibb.co.com/PGDM6CFg",
+    "product_image": "https://i.ibb.co.com/PvfkHMCK/cynosa-v2-01-500x500-1-jpg.webp",
     "category": "Keyboards",
     "price": 228.79,
     "description": "The Razer Pro Type Ultra is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -769,7 +769,7 @@
   {
     "product_id": "KBD009",
     "product_title": "Corsair K95 RGB Platinum",
-    "product_image": "https://ibb.co.com/fd1kRXBF",
+    "product_image": "https://i.ibb.co.com/XxYDCJjt/pro-type-01-500x500.jpg",
     "category": "Keyboards",
     "price": 95.69,
     "description": "The Corsair K95 RGB Platinum is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -787,7 +787,7 @@
   {
     "product_id": "KBD010",
     "product_title": "Corsair K70 RGB TKL",
-    "product_image": "https://ibb.co.com/H98NJJ1",
+    "product_image": "https://i.ibb.co.com/60nHhyVw/k95-500x500.jpg",
     "category": "Keyboards",
     "price": 175.92,
     "description": "The Corsair K70 RGB TKL is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -805,7 +805,7 @@
   {
     "product_id": "KBD011",
     "product_title": "Corsair K55 RGB Pro XT",
-    "product_image": "https://ibb.co.com/qFjBVYCg",
+    "product_image": "https://i.ibb.co.com/t1rZddk/k70-rgb-tkl-champion-series-01-500x500.jpg",
     "category": "Keyboards",
     "price": 207.98,
     "description": "The Corsair K55 RGB Pro XT is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -823,7 +823,7 @@
   {
     "product_id": "KBD012",
     "product_title": "Corsair K100 Air Wireless",
-    "product_image": "https://ibb.co.com/z0ZFRYf",
+    "product_image": "https://i.ibb.co.com/LhRSHdrg/corsair-k55-rgb-gaming-keyboard-01-500x500.webp",
     "category": "Keyboards",
     "price": 170.02,
     "description": "The Corsair K100 Air Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -841,7 +841,7 @@
   {
     "product_id": "KBD013",
     "product_title": "Keychron K2 Wireless",
-    "product_image": "https://ibb.co.com/5xXhV8JS",
+    "product_image": "https://i.ibb.co.com/WYf0ywK/corsair-k100-air-wireless-rgb-keyboard-1100x1100.jpg",
     "category": "Keyboards",
     "price": 87.29,
     "description": "The Keychron K2 Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -859,7 +859,7 @@
   {
     "product_id": "KBD014",
     "product_title": "Keychron K6 Wireless",
-    "product_image": "https://ibb.co.com/XfSzfYJv",
+    "product_image": "https://i.ibb.co.com/G3fQj2r8/k2-wireless-01-500x500.webp",
     "category": "Keyboards",
     "price": 159.3,
     "description": "The Keychron K6 Wireless is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -877,7 +877,7 @@
   {
     "product_id": "KBD015",
     "product_title": "Keychron Q1 Pro",
-    "product_image": "https://ibb.co.com/MxCknrdb",
+    "product_image": "https://i.ibb.co.com/gbzDb4gB/Keychron-K6-Pro-QMK-VIA-Wireless-Custom-Mechanical-Keyboard-65-percent-layout-for-Mac-Windows-Linux.jpg",
     "category": "Keyboards",
     "price": 54.09,
     "description": "The Keychron Q1 Pro is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -895,7 +895,7 @@
   {
     "product_id": "KBD016",
     "product_title": "Keychron V1 QMK",
-    "product_image": "https://ibb.co.com/xKTVTMBV",
+    "product_image": "https://i.ibb.co.com/B5C2Lbkm/Keychron-Q1-fullyassembly-navyblue-blue.jpg",
     "category": "Keyboards",
     "price": 149.25,
     "description": "The Keychron V1 QMK is designed to deliver a seamless typing experience, whether you're working or gaming. It features responsive keys, ergonomic design, and reliable connectivity. Perfect for users who value performance, build quality, and sleek aesthetics.",
@@ -914,7 +914,7 @@
   {
     "product_id": "MSERAZR001",
     "product_title": "Razer DeathAdder V3 Pro",
-    "product_image": "https://ibb.co.com/sXKWx0R",
+    "product_image": "https://i.ibb.co.com/9dbZKFg/Death-Adder-v3-Pro-Black.png",
     "category": "Computer Mouse",
     "price": 149.99,
     "description": "The evolution of a legend. The DeathAdder V3 Pro is an ultra-lightweight ergonomic mouse, refined and reforged to provide absolute control and comfort for competitive play.",
@@ -932,7 +932,7 @@
   {
     "product_id": "MSERAZR002",
     "product_title": "Razer Viper V2 Pro",
-    "product_image": "https://ibb.co.com/prbtNfPs",
+    "product_image": "https://i.ibb.co.com/zHQyCX5L/H2ecbd47f285048ef9ce04d1f8c0736c9f-jpg.webp",
     "category": "Computer Mouse",
     "price": 149.99,
     "description": "Esports has a new apex predator. The Razer Viper V2 Pro is 20% lighter than its predecessor and armed with all-round upgrades for enhanced performance. For the pros, by the pros.",
@@ -950,7 +950,7 @@
   {
     "product_id": "MSERAZR003",
     "product_title": "Razer Basilisk V3",
-    "product_image": "https://ibb.co.com/chtLk01L",
+    "product_image": "https://i.ibb.co.com/k2015jx1/razer-basilisk-v3-mouse-1100x1100.jpg",
     "category": "Computer Mouse",
     "price": 69.99,
     "description": "The quintessential ergonomic gaming mouse for customized performance. Features 11 programmable buttons, a smart-reel scroll wheel, and a heavy dose of Razer Chroma RGB.",
@@ -968,7 +968,7 @@
   {
     "product_id": "MSERAZR004",
     "product_title": "Razer Naga V2 Pro",
-    "product_image": "https://ibb.co.com/5XRm1ZMn",
+    "product_image": "https://i.ibb.co.com/CpHgwL1M/Razer-Naga-V2-Pro-price-in-Bangladesh-MC-Solution-BD.webp",
     "category": "Computer Mouse",
     "price": 179.99,
     "description": "The master of MMO and MOBA games. The Razer Naga V2 Pro comes with 3 swappable side plates, allowing you to adapt to any game genre with 12, 6, or 2 button layouts.",
@@ -987,7 +987,7 @@
   {
     "product_id": "MSESTEEL001",
     "product_title": "SteelSeries Aerox 5 Wireless",
-    "product_image": "https://ibb.co.com/fTLt14m",
+    "product_image": "https://i.ibb.co.com/Vk5Dj2X/aerox-5-01-500x500.webp",
     "category": "Computer Mouse",
     "price": 139.99,
     "description": "Engineered to be lightning fast, the Aerox 5 Wireless has an ultra-lightweight 74g design, perfect for any game genre. Features dual wireless connectivity and 9 programmable buttons.",
@@ -1005,7 +1005,7 @@
   {
     "product_id": "MSESTEEL002",
     "product_title": "SteelSeries Prime Wireless",
-    "product_image": "https://ibb.co.com/ycjJQCqJ",
+    "product_image": "https://i.ibb.co.com/wFm1zq41/steelseries-prime-precision-esports-mouse-1100x1100.jpg",
     "category": "Computer Mouse",
     "price": 99.99,
     "description": "Developed with the world's leading competitive esports players, the Prime Wireless mouse has a battle-tested shape, ultra-lightweight 80g design, and crispy optical magnetic switches.",
@@ -1023,7 +1023,7 @@
   {
     "product_id": "MSESTEEL003",
     "product_title": "SteelSeries Rival 3",
-    "product_image": "https://ibb.co.com/ycjJQCqJ",
+    "product_image": "https://i.ibb.co.com/KxmcSz93/scimitar-rgb-elite-1-1100x1100.jpg",
     "category": "Computer Mouse",
     "price": 29.99,
     "description": "Enjoy true performance with the Rival 3. Featuring a TrueMove Core optical gaming sensor and a durable, lightweight build, it's the perfect entry into competitive gaming.",
@@ -1042,7 +1042,7 @@
   {
     "product_id": "MSECORS001",
     "product_title": "Corsair Scimitar RGB Elite",
-    "product_image": "https://ibb.co.com/pjn65r39",
+    "product_image": "https://i.ibb.co/Pv95SXNz/scimitar-rgb-elite-2-550x550.jpg",
     "category": "Computer Mouse",
     "price": 79.99,
     "description": "The Scimitar RGB Elite levels up your gameplay with 17 fully programmable buttons for advanced macros and remaps. A patented Key Slider control system lets you reposition the 12 side buttons.",
@@ -1060,7 +1060,7 @@
   {
     "product_id": "MSECORS002",
     "product_title": "Corsair Dark Core RGB Pro SE",
-    "product_image": "https://ibb.co.com/JLfspxy",
+    "product_image": "https://i.ibb.co.com/Y9zLdDy/corsair-dark-core-rgb-pro-se-mouse-1-550x550.jpg",
     "category": "Computer Mouse",
     "price": 89.99,
     "description": "The Dark Core RGB Pro SE features three ways to connect, including sub-1ms Slipstream Wireless. It also supports Qi wireless charging and has a comfortable contoured shape.",
@@ -1079,7 +1079,7 @@
   {
     "product_id": "MSEMSFT004",
     "product_title": "Microsoft Pro IntelliMouse",
-    "product_image": "https://ibb.co.com/Fd1X4v6",
+    "product_image": "https://i.ibb.co.com/RJKNTn2/microsoft-pro-intellimouse.jpg",
     "category": "Computer Mouse",
     "price": 59.99,
     "description": "Inspired by the classic IntelliMouse 3.0, the Pro IntelliMouse has exceptional tracking and the firm scroll wheel fans love, but with modern upgrades like a better sensor and customizable buttons.",
@@ -1098,7 +1098,7 @@
    {
     "product_id": "SNDJBL001",
     "product_title": "JBL Flip 6",
-    "product_image": "https://ibb.co.com/7J2gjy2B",
+    "product_image": "https://i.ibb.co.com/4ZPsKNPC/173147555355-2.webp",
     "category": "Soundboxes",
     "price": 129.95,
     "description": "The JBL Flip 6 delivers powerful JBL Original Pro Sound with exceptional clarity thanks to its 2-way speaker system. It's waterproof and dustproof, so you can bring your speaker anywhere.",
@@ -1116,7 +1116,7 @@
   {
     "product_id": "SNDJBL002",
     "product_title": "JBL Charge 5",
-    "product_image": "https://ibb.co.com/XxWGXCWD",
+    "product_image": "https://i.ibb.co.com/s9gXjVgC/JBL-CHARGE5-HERO-RED-0029-x2.png",
     "category": "Soundboxes",
     "price": 179.95,
     "description": "Take the party with you no matter what the weather. The JBL Charge 5 speaker delivers bold JBL Original Pro Sound, with an optimized long-excursion driver, separate tweeter, and dual bass radiators. It also doubles as a powerbank.",
@@ -1134,7 +1134,7 @@
   {
     "product_id": "SNDJBL003",
     "product_title": "JBL Go 3",
-    "product_image": "https://ibb.co.com/S49rrd23",
+    "product_image": "https://i.ibb.co.com/0RdttFkG/JBL-GO-3-HERO-GREY-PINK-0539-x1.png",
     "category": "Soundboxes",
     "price": 49.95,
     "description": "JBL Go 3 features bold styling and rich JBL Pro Sound. With its new eye-catching edgy design, colorful fabrics, and expressive details this a must-have accessory for your next outing.",
@@ -1149,10 +1149,11 @@
     "rating": 4.6,
     "shipping_charge": 6.95
   },
+
   {
     "product_id": "SNDJBL004",
     "product_title": "JBL PartyBox 310",
-    "product_image": "https://ibb.co.com/sdDyvKHR",
+    "product_image": "https://i.ibb.co.com/pBsJvfyw/partybox-310-01-500x500.jpg",
     "category": "Soundboxes",
     "price": 549.95,
     "description": "Huge JBL Pro Sound, a dazzling, dynamic light show that syncs to the beat, and a splashproof design. The PartyBox 310 is the ultimate portable party machine with wheels and a telescopic handle.",
@@ -1171,7 +1172,7 @@
   {
     "product_id": "SNDBOSE001",
     "product_title": "Bose SoundLink Flex",
-    "product_image": "https://ibb.co.com/R4d4z3Tq",
+    "product_image": "https://i.ibb.co.com/x8d8J1qN/bose-soundlink-flex-speaker-1100x1100.jpg",
     "category": "Soundboxes",
     "price": 149.00,
     "description": "The SoundLink Flex Bluetooth speaker delivers the clearest possible sound with deep, powerful bass. Packed with exclusive technologies and a custom-engineered transducer for deep, clear, and immersive audio.",
@@ -1189,7 +1190,7 @@
   {
     "product_id": "SNDBOSE002",
     "product_title": "Bose Portable Smart Speaker",
-    "product_image": "https://ibb.co.com/Pzrg50S9",
+    "product_image": "https://i.ibb.co.com/TqwtHdCb/20210904-1630736579-519710.png",
     "category": "Soundboxes",
     "price": 399.00,
     "description": "The most versatile smart speaker from Bose. It’s a home speaker, a portable speaker, and a voice-controlled speaker, all in one. Enjoy 360 degrees of deep, clear, lifelike sound.",
@@ -1207,7 +1208,7 @@
   {
     "product_id": "SNDBOSE003",
     "product_title": "Bose SoundLink Micro",
-    "product_image": "https://ibb.co.com/TxQdPFGH",
+    "product_image": "https://i.ibb.co.com/hJGw2tNK/2643-51802.jpg",
     "category": "Soundboxes",
     "price": 119.00,
     "description": "Crisp, balanced sound and unmatched bass for a speaker its size. The SoundLink Micro is waterproof from the inside out and features a tear-resistant silicone strap, so you can take it wherever you go.",
@@ -1225,7 +1226,7 @@
   {
     "product_id": "SNDBOSE004",
     "product_title": "Bose SoundLink Revolve+ II",
-    "product_image": "https://ibb.co.com/Pd7kpnb",
+    "product_image": "https://i.ibb.co.com/jSctK2x/8898654-R-SET.jpg",
     "category": "Soundboxes",
     "price": 329.00,
     "description": "The best-performing portable Bluetooth speaker from Bose, engineered to spread deep, jaw-dropping sound in every direction. Place it in the center of the room to give everyone the same experience.",
@@ -1243,7 +1244,7 @@
   {
     "product_id": "SNDSONY001",
     "product_title": "Sony SRS-XB100",
-    "product_image": "https://ibb.co.com/35HLFQBh",
+    "product_image": "https://i.ibb.co.com/7xF6pL2y/Sony-SRS-XB100-Wireless-Bluetooth-Speaker-Black-6996.jpg",
     "category": "Soundboxes",
     "price": 59.99,
     "description": "Enjoy powerful, clear sound with the super-compact SRS-XB100 wireless speaker. It's durable, has up to 16 hours of battery life, and is perfect for on-the-go listening.",
@@ -1261,7 +1262,7 @@
   {
     "product_id": "SNDSONY002",
     "product_title": "Sony SRS-XE300",
-    "product_image": "https://ibb.co.com/SD544S7G",
+    "product_image": "https://i.ibb.co.com/hxLJJ01w/14bbe92839d4d1a5dd01d2266a8c4c9b-fmt-pjpeg-wid-165-bgcolor-FFFFFF-bgc-FFFFFF.jpg",
     "category": "Soundboxes",
     "price": 199.99,
     "description": "The XE300 has a Line-Shape Diffuser that will help your music reach further, even to the side of the speaker. Plus, with a portable size and 24-hour battery life, it’s the perfect partner for your next party.",
@@ -1279,7 +1280,7 @@
   {
     "product_id": "SNDSONY004",
     "product_title": "Sony LSPX-S3 Glass Sound Speaker",
-    "product_image": "https://ibb.co.com/twbnQzqp",
+    "product_image": "https://i.ibb.co.com/Cpn4m6bK/82f36284ebb2b9261794590800f9f459-fmt-pjpeg-wid-165-bgcolor-FFFFFF-bgc-FFFFFF.jpg",
     "category": "Soundboxes",
     "price": 349.99,
     "description": "Enhance the atmosphere of any room with the crystal clear sound and ambient illumination of the LSPX-S3 Glass Sound Speaker. It features an organic glass tweeter that provides clear, high-frequency sound in every direction.",
@@ -1297,7 +1298,7 @@
   {
     "product_id": "SNDSONY005",
     "product_title": "Sony SRS-RA3000",
-    "product_image": "https://ibb.co.com/7tVqB83j",
+    "product_image": "https://i.ibb.co.com/4RMHC9bK/71n-L-v-Vvzs-L-AC-SL1000.jpg",
     "category": "Soundboxes",
     "price": 249.99,
     "description": "Enjoy a new listening experience with the RA3000. This Wi-Fi enabled speaker creates ambient room-filling sound and supports 360 Reality Audio for an immersive experience.",
@@ -1315,7 +1316,7 @@
   {
     "product_id": "SNDSONOS001",
     "product_title": "Sonos One (Gen 2)",
-    "product_image": "https://ibb.co.com/wZfxtYm6",
+    "product_image": "https://i.ibb.co.com/kg6P4ZpH/617-FNag22o-L-AC-SL1276.jpg",
     "category": "Soundboxes",
     "price": 219.00,
     "description": "The powerful smart speaker with voice control built in. Get rich, room-filling sound with Sonos One, and control it with your voice, the Sonos app, Apple AirPlay 2, and more.",
@@ -1333,7 +1334,7 @@
   {
     "product_id": "SNDSONOS002",
     "product_title": "Sonos Roam",
-    "product_image": "https://ibb.co.com/B2cmj5L4",
+    "product_image": "https://i.ibb.co.com/fVsPJQw0/259264439eb0130b7b202a33869fcee50784e402-1514x2232.png",
     "category": "Soundboxes",
     "price": 179.00,
     "description": "The portable smart speaker for all your listening adventures. Enjoy music, voice control, and multiroom listening at home on Wi-Fi, plus Bluetooth streaming, all-day battery life, and waterproof durability on the go.",
@@ -1352,7 +1353,7 @@
   {
     "product_id": "SNDSONOS005",
     "product_title": "Sonos Beam (Gen 2)",
-    "product_image": "https://ibb.co.com/S1R5y6J",
+    "product_image": "https://i.ibb.co.com/WvGQF4nD/110a711ffb1d9ec82743734ef7477a7d400c8d11-2400x2400.png",
     "category": "Soundboxes",
     "price": 499.00,
     "description": "Enrich all your entertainment with the latest generation of our compact smart soundbar, now with Dolby Atmos. Experience panoramic sound for shows, movies, and games.",
@@ -1371,7 +1372,7 @@
   {
     "product_id": "SNDANKR002",
     "product_title": "Anker Soundcore 2",
-    "product_image": "https://ibb.co.com/QFjxP0Zb",
+    "product_image": "https://i.ibb.co.com/9fscgpG/e12ba440b45fc67e970049734783d6fb0b6b20d1-2480x2480.png",
     "category": "Soundboxes",
     "price": 39.99,
     "description": "Anker's classic portable Bluetooth speaker. Incredible sound, unbelievable 24-hour playtime, and a rugged, durable build make it the perfect go-anywhere speaker.",
@@ -1389,7 +1390,7 @@
   {
     "product_id": "SNDANKR003",
     "product_title": "Anker Soundcore Flare 2",
-    "product_image": "https://ibb.co.com/dsHZ7N0b",
+    "product_image": "https://i.ibb.co.com/j9jtHCvV/A3165011-TD01-V1.jpg",
     "category": "Soundboxes",
     "price": 79.00,
     "description": "A portable 360° Bluetooth speaker with a beat-driven light show. Dual drivers and passive radiators combine with BassUp technology to generate a 20W party with intense bass.",
@@ -1407,7 +1408,7 @@
   {
     "product_id": "SNDANKR004",
     "product_title": "Anker Soundcore Motion Boom Plus",
-    "product_image": "https://ibb.co.com/FkQ8jxC6",
+    "product_image": "https://i.ibb.co.com/qLHmPyVB/b58ce7b99582c961375527c3c6b27ebb.png",
     "category": "Soundboxes",
     "price": 179.99,
     "description": "An epic outdoor speaker with an epic 80W of power. Titanium drivers and BassUp technology deliver huge sound that's ready for any adventure. Fully waterproof and includes a detachable strap.",
@@ -1425,7 +1426,7 @@
   {
     "product_id": "SNDANKR005",
     "product_title": "Anker Soundcore Mini 3",
-    "product_image": "https://ibb.co.com/0VvmpVbR",
+    "product_image": "https://i.ibb.co.com/0VvmpVbR/2584-67442.jpg",
     "category": "Soundboxes",
     "price": 40.99,
     "description": "A super-compact Bluetooth speaker with 360° sound, customizable EQ, and 15-hour playtime. The Mini 3 is small enough to slip into a coat pocket or a bag.",
@@ -1443,7 +1444,7 @@
    {
     "product_id": "MONDELL001",
     "product_title": "Dell UltraSharp U2723QE",
-    "product_image": "https://ibb.co.com/21sVRt9X",
+    "product_image": "https://i.ibb.co.com/Q3CShNgs/monitor-u2723qe-gallery-3.png",
     "category": "Monitors",
     "price": 579.99,
     "description": "A premier 27-inch 4K monitor designed for professionals. It features IPS Black technology for deeper blacks and vibrant colors, extensive connectivity including a KVM switch, and a focus on productivity and user comfort.",
@@ -1461,7 +1462,7 @@
   {
     "product_id": "MONDELL002",
     "product_title": "Alienware AW3423DWF",
-    "product_image": "https://ibb.co.com/S7KR7kJ7",
+    "product_image": "https://i.ibb.co.com/yB8WBzVB/monitor-alienware-aw3423dwf-black-gallery-2.png",
     "category": "Monitors",
     "price": 999.99,
     "description": "Experience breathtaking gaming with this 34-inch ultrawide QD-OLED monitor. It combines the deep blacks and infinite contrast of OLED with the vibrant colors of Quantum Dot technology for an incredibly immersive experience.",
@@ -1479,7 +1480,7 @@
   {
     "product_id": "MONDELL003",
     "product_title": "Dell S3222DGM",
-    "product_image": "https://ibb.co.com/1fQ90d7c",
+    "product_image": "https://i.ibb.co.com/bgmr62Qt/s3222dgm-cfp-00000ff090-bk.png",
     "category": "Monitors",
     "price": 349.99,
     "description": "A 32-inch curved QHD gaming monitor that offers an immersive viewing experience at a great value. Its high refresh rate and fast response time make it ideal for fast-paced gaming.",
@@ -1497,7 +1498,7 @@
   {
     "product_id": "MONDELL004",
     "product_title": "Dell P2422H",
-    "product_image": "https://ibb.co.com/yBWPvF4d",
+    "product_image": "https://i.ibb.co.com/KzFh4xKb/peripherals-monitor-p2422h-gallery-1.png",
     "category": "Monitors",
     "price": 219.99,
     "description": "A reliable and efficient 24-inch Full HD monitor designed for everyday office work. It features ComfortView Plus to reduce harmful blue light emissions without sacrificing color accuracy.",
@@ -1515,7 +1516,7 @@
   {
     "product_id": "MONDELL005",
     "product_title": "Alienware AW2524H",
-    "product_image": "https://ibb.co.com/W4p791h5",
+    "product_image": "https://i.ibb.co.com/mCTqx23X/27-GP850-B-Ultra-Gear-Gaming-Monitors-D01.jpg",
     "category": "Monitors",
     "price": 829.99,
     "description": "Engineered for esports professionals, this monitor boasts a world-first 500Hz refresh rate for the ultimate in motion clarity and responsiveness. Every millisecond counts.",
@@ -1533,7 +1534,7 @@
   {
     "product_id": "MONLG001",
     "product_title": "LG 27GP850-B UltraGear",
-    "product_image": "https://ibb.co.com/Kjhq1fJL",
+    "product_image": "https://i.ibb.co.com/gbyqwrKT/md08003934-DZ-1-jpg-io-transform-fill-width-596.jpg",
     "category": "Monitors",
     "price": 429.99,
     "description": "A highly popular gaming monitor that hits the sweet spot for many gamers. It features a fast and colorful Nano IPS panel, QHD resolution, and a high refresh rate for a smooth and immersive experience.",
@@ -1551,7 +1552,7 @@
   {
     "product_id": "MONLG002",
     "product_title": "LG 42-inch C3 OLED evo",
-    "product_image": "https://ibb.co.com/W4KLpDsk",
+    "product_image": "https://i.ibb.co.com/mVz3FvS9/md08003934-DZ-1-jpg.jpg",
     "category": "Monitors",
     "price": 1199.99,
     "description": "While technically a TV, the 42-inch C3 is a favorite desktop monitor for gamers and creators seeking the ultimate image quality. It offers perfect blacks, infinite contrast, and an incredible HDR experience.",
@@ -1569,7 +1570,7 @@
   {
     "product_id": "MONLG003",
     "product_title": "LG DualUp 28MQ780-B",
-    "product_image": "https://ibb.co.com/LdgFkM8S",
+    "product_image": "https://i.ibb.co.com/CK9c1qzB/28-MQ780-B-IPS-Monitor-D-01.jpg",
     "category": "Monitors",
     "price": 699.99,
     "description": "A completely unique monitor designed for multitasking. Its 16:18 aspect ratio provides the same screen real estate as two 21.5-inch monitors stacked vertically, perfect for coding, editing, and creative work.",

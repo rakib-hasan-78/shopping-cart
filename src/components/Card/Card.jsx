@@ -4,22 +4,30 @@ import { BsCart3 } from "react-icons/bs";
 import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
 import hds from '../../assets/hero.png';
 const Card = ({product}) => {
+    const {product_title, product_image, availability, price} = product;
     return (
-        <div className='w-full h-64 border rounded-md bg-project-white border-project-gray flex flex-col'>
-            <div className='p-3 rounded-md relative'>
-            <img className='rounded-md' src={hds} alt="" />
-            <div className='absolute w-3 top-3 left-3 rounded-full'>
+        <div className='w-full h-auto border rounded-md bg-gray-400/30 border-project-gray flex flex-col justify-center '>
+            <div className='p-3 rounded-md relative flex items-center justify-center'>
+            <div className='w-40 h-32 bg-white rounded-md' >
+            <img className='rounded-md ' src={product_image} alt="" />
+            </div>
+            {
+                !availability ? 
+                <div className='absolute w-3 top-3 left-3 rounded-full'>
                 <div 
                 className="badge w-18 text-[8px] font-extrabold rounded-full bg-gradient-to-r from-rose-600/40 via-red-500/40 to-pink-500/50 text-red-900/60 border-0 shadow-2xl"
-                > <small>out of stock</small> </div>
-            </div>
+                > 
+                <small>out of stock</small>
+                </div>
+            </div> : ''
+            }
             </div>
             <div className='px-3'>
                 <h2 
                 className='sm-title'
                 >
                 <small>
-                Corsair K95 RGB Platinum
+                {product_title}
                 </small>
                 </h2>
                 <p 
@@ -28,7 +36,7 @@ const Card = ({product}) => {
                 <small className='flex'>
                 price:
                 <span className='text-xs'><BiDollar />  </span>
-                <span>7902</span>
+                <span>{price}</span>
                 </small>
                 </p>
             </div>
