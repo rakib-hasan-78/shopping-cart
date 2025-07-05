@@ -2,7 +2,7 @@ import React from 'react';
 import { BiDollar } from "react-icons/bi";
 import { BsCart3 } from "react-icons/bs";
 import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
-import hds from '../../assets/hero.png';
+
 const Card = ({product}) => {
     const {product_title, product_image, availability, price} = product;
     return (
