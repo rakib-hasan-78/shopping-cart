@@ -6,7 +6,7 @@ import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
 const Card = ({product}) => {
     const {product_title, product_image, availability, price} = product;
     return (
-        <div className='w-full h-auto border rounded-md bg-gray-400/30 border-project-gray flex flex-col justify-center '>
+        <div className='w-full h-72 border rounded-md bg-gray-400/30 border-project-gray flex flex-col justify-center '>
             <div className='p-3 rounded-md relative flex items-center justify-center'>
             <div className='w-40 h-32 bg-white rounded-md' >
             <img className='rounded-md ' src={product_image} alt="" />

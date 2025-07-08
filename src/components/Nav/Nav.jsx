@@ -8,7 +8,7 @@ const Nav = () => {
     const location = useLocation();
 
     return (
-        <div className={`navbar min-h-8 -py-2 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16 absolute xxs:w-full rounded-t-2xl`}>
+        <div className={`navbar  min-h-8 -py-2 z-20 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16  xxs:w-full rounded-t-2xl`}>
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

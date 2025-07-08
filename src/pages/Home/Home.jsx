@@ -11,10 +11,10 @@ const Home = () => {
     
     return (
         <DataContext.Provider value={{productData}}>
-            <div className='w-full h-auto flex flex-col bg-project-gray/80'>
+            <div className='w-full h-auto flex flex-col bg-project-gray/80 relative'>
                 <main className="main">
-                    <Hero>
-                        <div className="hero-content text-center w-11/12 flex-col mt-24">
+                    <Hero className={`h-[460px] relative`}>
+                        <div className="hero-content text-center w-11/12 flex-col mt-10">
                         
                             <h1 className="xxxl-title text-project-white">Upgrade Your Tech Accessorize with Gadget Heaven Accessories</h1>
                             <p className="py-3 brief max-w-lg text-xs text-project-white/80">

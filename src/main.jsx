@@ -6,6 +6,9 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ErrorPage from './pages/ErrorPage/ErrorPage.jsx'
 import Root from './pages/Root/Root.jsx'
 import Home from './pages/Home/Home';
+import Details from './Details/Details.jsx'
+import Statistics from './pages/Statistics/Statistics.jsx'
+
 
 const router = createBrowserRouter([
   {
@@ -20,7 +23,11 @@ const router = createBrowserRouter([
       },
       {
         path: '/statistics',
-        element: <p>this is stats.....</p>
+        element: <Statistics />
+      },
+      {
+        path: '/products/:product_id',
+        element: <Details />
       }
     ]
     
