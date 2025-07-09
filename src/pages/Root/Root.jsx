@@ -16,9 +16,9 @@ const Root = () => {
                 <Outlet />
             }
             <Footer className='pt-3'>
-                <div className='flex flex-wrap flex-col items-center py-6'>
-                    <h3 className='xxl-title py-2'>Gadget Heaven</h3>
-                    <p className='brief text-xs'>Leading the way in cutting-edge technology and innovation.</p>
+                <div className='flex flex-wrap flex-col items-center py-2 lg:py-6'>
+                    <h3 className='xxl-title py-0 lg:py-2'>Gadget Heaven</h3>
+                    <p className='brief text-xs text-center'>Leading the way in cutting-edge technology and innovation.</p>
                 </div>
             </Footer>
         </div>

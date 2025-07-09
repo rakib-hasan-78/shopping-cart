@@ -17,7 +17,7 @@ const Contents = () => {
         }
     }
     return (
-        <div className='lg:w-7/12 h-auto flex flex-col space-y-2'>
+        <div className='w-full lg:w-7/12 h-auto flex flex-col space-y-2'>
 
             <div className='lg:w-full h-auto grid lg:grid-cols-3 justify-items-center items-center gap-3'>
                 {

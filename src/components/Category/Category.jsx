@@ -41,7 +41,7 @@ const Category = () => {
     console.log(categories);   
 
     return (
-        <div className='xxs:w-full lg:w-2/12 h-auto flex xxs:flex-row lg:flex-col p-6 bg-white border border-white rounded-md space-y-2'>
+        <div className='xxs:w-full lg:w-2/12 h-auto flex flex-wrap xxs:flex-row lg:flex-col p-6 bg-white border border-white rounded-md space-y-2'>
            {
             categories.map(category=>(
                 <Btn onClick={()=>categoryHandler(category)} key={category} btnName={category} isActive={itemCategory===category} />

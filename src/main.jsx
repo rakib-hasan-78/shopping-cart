@@ -1,7 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ErrorPage from './pages/ErrorPage/ErrorPage.jsx'
 import Root from './pages/Root/Root.jsx'
@@ -22,13 +21,15 @@ const router = createBrowserRouter([
         element: <Home />
       },
       {
+        path: '/products/:product_id',
+        loader: ()=>fetch('/data.json').then(res=>res.json()), 
+        element: <Details />
+      },
+      {
         path: '/statistics',
         element: <Statistics />
       },
-      {
-        path: '/products/:product_id',
-        element: <Details />
-      }
+      
     ]
     
   }

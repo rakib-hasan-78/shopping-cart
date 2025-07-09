@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const FooterNav = () => {
     return (
-        <div className='w-full h-auto grid xxs:grid-cols-1 lg:grid-cols-3 justify-items-center py-10 px-24'>
+        <div className='w-full h-auto grid xxs:grid-cols-1 lg:grid-cols-3 justify-items-center py-2 lg:py-10 px-24'>
             <nav className='flex flex-col items-center'>
                 <h5 className='footer-title text-regular-black capitalize font-bold xxs:text-sm lg:text-lg'>Services</h5>
                 <NavLink 

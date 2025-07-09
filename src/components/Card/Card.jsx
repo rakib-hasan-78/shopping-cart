@@ -2,9 +2,11 @@ import React from 'react';
 import { BiDollar } from "react-icons/bi";
 import { BsCart3 } from "react-icons/bs";
 import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
+import { useNavigate } from 'react-router-dom';
 
 const Card = ({product}) => {
-    const {product_title, product_image, availability, price} = product;
+    const {product_title, product_image, availability, price, product_id} = product;
+    const navigate = useNavigate();
     return (
         <div className='w-full h-72 border rounded-md bg-gray-400/30 border-project-gray flex flex-col justify-center '>
             <div className='p-3 rounded-md relative flex items-center justify-center'>
@@ -47,6 +49,7 @@ const Card = ({product}) => {
                 className="btn-gradient-border p-[1px] w-9/12"
                 >
                     <button
+                    onClick={()=>navigate(`products/${product_id}`)}
                      className="btn btn-xs bg-white text-purple-600 font-normal rounded-full min-h-0 h-auto px-4 py-0 w-full" 
                      >
                     

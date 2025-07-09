@@ -57,6 +57,9 @@
   .lg-title{
     @apply xxs:text-base md:text-xl lg:text-2xl;
   }
+  .xsm-title{
+    @apply lg:text-lg font-semibold ;
+  }
   /* content title */
   .md-title{
     @apply font-bold text-black xxs:text-lg md:text-xl lg:text-4xl;
