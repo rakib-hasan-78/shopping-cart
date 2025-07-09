@@ -10,7 +10,7 @@ const Rating = ({ rating = 0, size = 'w-6 h-6', className = '' }) => {
       <div key={i} className={`relative ${size}`}>
         {/* Empty Star */}
         <div
-          className={`mask mask-star-2 ${size} absolute inset-0 border border-yellow-400 bg-yellow-400/20`}
+          className={`mask mask-star-2 ${size} absolute inset-0 border border-yellow-400 bg-gray-300/60`}
         ></div>
 
         {/* Filled Star */}

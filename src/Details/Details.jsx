@@ -6,7 +6,7 @@ import ProductDetails from './../components/ProductDetails/ProductDetails';
 const Details = () => {
     
     return (
-        <div className='w-full h-[695px] lg:h-[600px] mb-36'>
+        <div className='w-full h-[695px] lg:h-[600px] mb-36 '>
            <Hero className={`h-60`}>
                     <div className="hero-content text-center w-11/12 flex-col lg:mt-2 relative">
                             <h2 className="xl-title text-project-white"> 
