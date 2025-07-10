@@ -3,6 +3,7 @@ import { Outlet, useNavigation } from 'react-router-dom';
 import Header from './../../components/Header/Header';
 import Footer from './../../components/Footer/Footer';
 import Loader from './../../components/Loader/Loader';
+import { ToastContainer } from 'react-toastify';
 
 
 const Root = () => {
@@ -21,8 +22,10 @@ const Root = () => {
                     <p className='brief text-xs text-center'>Leading the way in cutting-edge technology and innovation.</p>
                 </div>
             </Footer>
+            <ToastContainer />
         </div>
     );
 };
 
 export default Root;
+
