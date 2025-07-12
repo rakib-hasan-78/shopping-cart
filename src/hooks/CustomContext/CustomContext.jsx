@@ -36,6 +36,35 @@ const CustomContext = () => {
             return;
         }
     };
+    // product decrement handler ===> 
+    const productDecrementHandler = product =>{
+        const found = cart.find(ca=>ca.product_id===product.product_id);
+        // if expected product not in the cart===>
+        if (!found) {
+            toast.error(`${product.product_title} Not In the Cart List`, {
+                position:'top-center',
+            });
+
+            return;
+        }
+        else {
+            const updatedItems = cart.map(ca=>{
+                if (ca.product_id===product.product_id) {
+                    if (ca.quantity>0) {
+                        toast.info(`${product.product_title} Remains ${ca.quantity-1} Unit.`)
+                        return {...ca, quantity:ca.quantity-1}
+                    }
+                    else {
+                        toast.error(`${product.product_title} Removed From The Cart`)
+                        return null;
+                    }
+                }
+                return ca; 
+            }).filter(Boolean);
+
+            setCart(updatedItems);
+        }
+    } 
     // wish list handler 
     const wishListHandler = product =>{
         // if same product is in cart list ====>
@@ -59,6 +88,24 @@ const CustomContext = () => {
         }
     };
 
+    //moving wish list to add to cart ===> 
+        
+    const moveCartToWishListHandler = product =>{
+        const selectedProduct = wishlist.find(wl=>wl.product_id===product.product_id);
+
+        if (selectedProduct) {
+          setCart([...cart ,{...product, quantity:1}]);
+          const removedProduct = wishlist.filter(wl=>wl.product_id!==product.product_id);
+          setWishList(removedProduct);
+        }
+
+        toast.info(`${product.product_title} moved to Cart List`, {
+            position:`top-center`,
+        });
+
+        return;
+    }
+
     // remove handler ===>
     
     const removeHandler = product =>{
@@ -81,12 +128,12 @@ const CustomContext = () => {
         }
     }
 
-    
+    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler};
 
     return (
-        <div>
+        <productCustomContext.Provider value={value}>
             
-        </div>
+        </productCustomContext.Provider>
     );
 };
 
