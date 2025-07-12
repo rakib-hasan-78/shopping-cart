@@ -4,12 +4,13 @@ import { BsCart3 } from 'react-icons/bs';
 import { GoHeart } from 'react-icons/go';
 import { useLoaderData, useParams } from 'react-router-dom';
 import { MdOutlineCheckCircleOutline } from "react-icons/md";
+import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 const ProductDetails = () => {
   const products = useLoaderData();
   const { product_id } = useParams();
   const product = products.find(product => product.product_id === product_id);
-
+  const {cartHandler, wishListHandler} = useProduct();
   const {
     product_title,
     product_image,
@@ -63,11 +64,18 @@ const ProductDetails = () => {
               </span>
             </div>
             <div className="flex items-center space-x-2">
-              <button className="btn btn-sm rounded-3xl bg-project-violet text-violet-100 font-medium">
+              <button
+               className="btn btn-sm rounded-3xl bg-project-violet text-violet-100 font-medium"
+               onClick={()=>cartHandler(product)}
+               >
                 add to cart
                 <span className='text-white'><BsCart3 /></span>
               </button>
-              <button className='btn btn-circle btn-sm'>
+
+              <button
+               className='btn btn-circle btn-sm'
+               onClick={()=>wishListHandler(product)}
+               >
                 <GoHeart />
               </button>
             </div>

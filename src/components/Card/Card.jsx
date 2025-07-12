@@ -3,10 +3,12 @@ import { BiDollar } from "react-icons/bi";
 import { BsCart3 } from "react-icons/bs";
 import { AiOutlinePlus ,  AiOutlineMinus } from "react-icons/ai";
 import { useNavigate } from 'react-router-dom';
+import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 const Card = ({product}) => {
     const {product_title, product_image, availability, price, product_id} = product;
     const navigate = useNavigate();
+    const {cartHandler, productDecrementHandler} = useProduct()
     return (
         <div className='w-full h-72 border rounded-md bg-gray-400/30 border-project-gray flex flex-col justify-center '>
             <div className='p-3 rounded-md relative flex items-center justify-center'>
@@ -59,7 +61,8 @@ const Card = ({product}) => {
                 </div>
                 <div className="btn-gradient-border p-[1px] w-9/12">
                 <div className="bg-white rounded-full flex items-center justify-between px-2 py-1 w-full">
-                    <button 
+                    <button
+                    onClick={()=>productDecrementHandler(product)} 
                     className="btn btn-xs btn-circle text-xs min-h-0 h-5 w-5 p-0 bg-transparent border-none">
                     <small 
                     className='text-violet-600'
@@ -72,7 +75,8 @@ const Card = ({product}) => {
                         <BsCart3 /> 
                     </small> 
                     </span>
-                    <button 
+                    <button
+                    onClick={()=>cartHandler(product)} 
                     className="btn btn-xs btn-circle text-xs min-h-0 h-5 w-5 py-2.5 bg-transparent border-none">
                     <small 
                     className='text-pink-500'

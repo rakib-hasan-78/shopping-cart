@@ -3,9 +3,11 @@ import { useLocation } from 'react-router-dom';
 import navLinks from '../../hooks/navLinks/navLinks';
 import { BsCart3 } from "react-icons/bs";
 import { GoHeart } from "react-icons/go";
+import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 const Nav = () => {
     const location = useLocation();
+    const { cart, wishlist } = useProduct(); 
 
     return (
         <div className={`navbar  min-h-8 -py-2 z-20 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16  xxs:w-full rounded-t-2xl`}>
@@ -38,7 +40,11 @@ const Nav = () => {
 
             <div className="navbar-end flex items-center space-x-4">
                 <div className="indicator">
-                    <span className="indicator-item badge badge-xs badge-error text-red-50">12</span>
+                    {
+                        cart.length>0 &&(
+                            <span className="indicator-item badge badge-xs badge-error text-red-50">{cart.length}</span>
+                            )
+                    }
                     <button
                     className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">
@@ -46,7 +52,11 @@ const Nav = () => {
                     </button>
                 </div>
                 <div className="indicator">
-                    <span className="indicator-item badge badge-xs badge-error text-red-50">10</span>
+                    {
+                        wishlist.length>0 &&(
+                            <span className="indicator-item badge badge-xs badge-error text-red-50">{wishlist.length}</span>
+                            )
+                    }
                     <button
                     className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">

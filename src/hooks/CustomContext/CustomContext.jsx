@@ -4,7 +4,7 @@ import { toast } from 'react-toastify';
 const productCustomContext = createContext();
 export const useProduct = ()=> useContext(productCustomContext);
 
-const CustomContext = () => {
+const CustomContext = ({children}) => {
     const [cart, setCart] = useState([]);
     const [wishlist , setWishList] = useState([]);
 
@@ -32,6 +32,9 @@ const CustomContext = () => {
         }
         // if the product to first time add to cart ===>
          else {
+            toast.success(`${product.product_title} Added To Cart`, {
+                position:'top-center',
+            });
             setCart([...cart , {...product , quantity:1}]);
             return;
         }
@@ -83,6 +86,10 @@ const CustomContext = () => {
         }
         // first time to add the product in wishlist===>
         else{
+            toast.success(`${product.product_title} Added To Wish List`, {
+                position:'top-center',
+            });
+
             setWishList([...wishlist, product]);
             return;
         }
@@ -132,7 +139,7 @@ const CustomContext = () => {
 
     return (
         <productCustomContext.Provider value={value}>
-            
+            {children}
         </productCustomContext.Provider>
     );
 };

@@ -4,11 +4,13 @@ import Header from './../../components/Header/Header';
 import Footer from './../../components/Footer/Footer';
 import Loader from './../../components/Loader/Loader';
 import { ToastContainer } from 'react-toastify';
+import CustomContext from '../../hooks/CustomContext/CustomContext';
 
 
 const Root = () => {
     const navigation = useNavigation();
     return (
+        <CustomContext>
         <div 
         className='w-full h-auto flex flex-col items-center justify-between pt-3'>
             <Header />
@@ -24,6 +26,7 @@ const Root = () => {
             </Footer>
             <ToastContainer />
         </div>
+        </CustomContext>
     );
 };
 
