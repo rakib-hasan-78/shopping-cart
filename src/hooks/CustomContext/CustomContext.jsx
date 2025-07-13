@@ -13,14 +13,16 @@ const CustomContext = ({children}) => {
 
         // if same product is in wishlist===>
         if (wishlist.find(wL=>wL.product_id===product.product_id)) {
-            toast.error(`${product.product_title} IsIn Wish List.`,{
+            toast.error(`${product.product_title} Is In Wish List.`,{
                 position:'top-center',
             });
             return;
         }
+       
         // if same product is already in the cart ===>
 
         else if (cart.find(ct=>ct.product_id===product.product_id)) {
+           
             // providing message from toast ====>
             toast.success(`${product.product_title} Added To List`, {
                 position:'top-center',
@@ -32,11 +34,22 @@ const CustomContext = ({children}) => {
         }
         // if the product to first time add to cart ===>
          else {
-            toast.success(`${product.product_title} Added To Cart`, {
-                position:'top-center',
-            });
-            setCart([...cart , {...product , quantity:1}]);
-            return;
+
+             if(!product.availability){
+                toast.error(`${product.product_title} Is Out Of Stock`, {
+                    position:'top-center',
+                });
+                return;
+            }
+            else{
+
+                toast.success(`${product.product_title} Added To Cart`, {
+                    position:'top-center',
+                });
+                setCart([...cart , {...product , quantity:1}]);
+                return;
+            }
+            
         }
     };
     // product decrement handler ===> 
