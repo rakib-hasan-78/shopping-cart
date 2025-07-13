@@ -7,6 +7,7 @@ import Root from './pages/Root/Root.jsx'
 import Home from './pages/Home/Home';
 import Details from './Details/Details.jsx'
 import Statistics from './pages/Statistics/Statistics.jsx'
+import Dashboard from './pages/Dashboard/Dashboard.jsx'
 
 
 const router = createBrowserRouter([
@@ -28,6 +29,10 @@ const router = createBrowserRouter([
       {
         path: '/statistics',
         element: <Statistics />
+      },
+      {
+        path:'/dashboard',
+        element: <Dashboard />
       },
       
     ]

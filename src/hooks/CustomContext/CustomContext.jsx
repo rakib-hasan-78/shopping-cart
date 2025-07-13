@@ -114,16 +114,27 @@ const CustomContext = ({children}) => {
         const selectedProduct = wishlist.find(wl=>wl.product_id===product.product_id);
 
         if (selectedProduct) {
-          setCart([...cart ,{...product, quantity:1}]);
-          const removedProduct = wishlist.filter(wl=>wl.product_id!==product.product_id);
-          setWishList(removedProduct);
-        }
+          
+          if (product.availability) {
+              
+              setCart([...cart ,{...product, quantity:1}]);
+              const removedProduct = wishlist.filter(wl=>wl.product_id!==product.product_id);
+              setWishList(removedProduct);
 
-        toast.info(`${product.product_title} moved to Cart List`, {
-            position:`top-center`,
-        });
-
-        return;
+              toast.info(`${product.product_title} moved to Cart List`, {
+                  position:`top-center`,
+              });
+      
+              return;
+            }
+            else {
+                toast.error(`${product.product_title} Is Out Of Stock`, {
+                    position:'top-center',
+                });
+                return;
+            }
+    
+          }  
     }
 
     // remove handler ===>
