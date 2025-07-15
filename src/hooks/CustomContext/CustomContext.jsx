@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useState } from 'react';
+import { useMemo } from 'react';
 import { toast } from 'react-toastify';
 
 const productCustomContext = createContext();
@@ -7,6 +8,7 @@ export const useProduct = ()=> useContext(productCustomContext);
 const CustomContext = ({children}) => {
     const [cart, setCart] = useState([]);
     const [wishlist , setWishList] = useState([]);
+    console.log(cart);
 
     // cart handler 
     const cartHandler = product=>{
@@ -158,6 +160,9 @@ const CustomContext = ({children}) => {
             return;
         }
     }
+
+    // total shopping cost ==>
+    
 
     const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler};
 

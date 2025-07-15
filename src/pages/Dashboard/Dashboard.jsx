@@ -1,9 +1,12 @@
 import React, { useState } from 'react';
 import Hero from './../../components/Hero/Hero';
 import SelectedItems from './../../components/SelectedItems/SelectedItems';
+import { useProduct } from './../../hooks/CustomContext/CustomContext';
 
 const Dashboard = () => {
     const [selectedContent , setSelectedContent] = useState('cart');
+    const {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler} = useProduct();
+
     // tab handler ===>
     const tabHandler = (e , type) =>{
         e.preventDefault();
@@ -51,11 +54,15 @@ const Dashboard = () => {
                 </Hero>
                 {/* content section */}
                 <section 
-                className='w-full h-auto py-10 flex flex-col items-center justify-start
+                className='w-full h-auto py-10 flex flex-col items-center justify-start space-y-2
                 '>
-                  <SelectedItems
-                   selectedContent={selectedContent}
-                   />  
+                    {
+                        selectedContent==='cart'&&(
+                            cart.map(ca=>(
+                                <SelectedItems key={ca.product_id} item={ca} selectedContent={selectedContent} />
+                            ))
+                        )
+                    }
                 </section>
             </main>
             
