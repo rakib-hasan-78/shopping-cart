@@ -1,16 +1,17 @@
 import React from 'react';
-import { useLoaderData } from 'react-router-dom';
 import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 import { BsCart3 } from 'react-icons/bs';
 import { GoTrash } from "react-icons/go";
+import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 
 
 const SelectedItems = ({selectedContent, item}) => {
-    const product = useLoaderData();
+    
     const {product_title, product_image, price, shipping_charge, quantity} = item;
+    const { cartHandler, productDecrementHandler, removeHandler,  getCardAmount} = useProduct();
 
-    const productPrice = parseFloat((Number(quantity) * Number(price)) + Number(shipping_charge)).toFixed(2); 
+    const addedPrice = getCardAmount(item);
 
     return (
         <div 
@@ -35,6 +36,7 @@ const SelectedItems = ({selectedContent, item}) => {
                     <div className='btn-gradient-border p-[1px] w-full'>
                         <div className="bg-white rounded-full flex items-center justify-between px-2 py-1 w-full">
                             <button
+                            onClick={()=>productDecrementHandler(item)}
                             className="btn btn-xs btn-circle text-xs min-h-0 h-5 p-0 bg-transparent border-none">
                             <small 
                             className='text-violet-600'
@@ -50,6 +52,7 @@ const SelectedItems = ({selectedContent, item}) => {
                             </span>
 
                             <button
+                            onClick={()=>cartHandler(item)}
                             className="btn btn-xs btn-circle text-xs min-h-0 h-5 py-2.5 bg-transparent border-none">
                             <small 
                             className='text-pink-500'
@@ -96,13 +99,14 @@ const SelectedItems = ({selectedContent, item}) => {
                         className='text-[8px] text-project-black/50'
                         >(adding shipping cost once)</span>
                         </div>
-                        <h6 className='text-sm'>{productPrice}</h6>
+                        <h6 className='text-sm'>{addedPrice}</h6>
                     </div>
                 )
             }
             {/* remove button */}
             <div className="h-24 flex flex-col items-center justify-center pt-3">
                 <button 
+                onClick={()=>removeHandler(item)}
                 className="btn btn-circle bg-project-black/1 delay-150 transition-all ease-in-out hover:bg-project-black/15 text-rose-500/60 hover:text-rose-500/90"
                 >
                 <GoTrash 

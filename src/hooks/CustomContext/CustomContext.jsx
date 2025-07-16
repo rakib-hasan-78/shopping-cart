@@ -8,7 +8,10 @@ export const useProduct = ()=> useContext(productCustomContext);
 const CustomContext = ({children}) => {
     const [cart, setCart] = useState([]);
     const [wishlist , setWishList] = useState([]);
-    console.log(cart);
+
+    // declaring global tax rate ==>
+
+    const TAX_RATE = 0.15;
 
     // cart handler 
     const cartHandler = product=>{
@@ -68,7 +71,7 @@ const CustomContext = ({children}) => {
         else {
             const updatedItems = cart.map(ca=>{
                 if (ca.product_id===product.product_id) {
-                    if (ca.quantity>0) {
+                    if (ca.quantity>1) {
                         toast.info(`${product.product_title} Remains ${ca.quantity-1} Unit.`)
                         return {...ca, quantity:ca.quantity-1}
                     }
@@ -160,11 +163,32 @@ const CustomContext = ({children}) => {
             return;
         }
     }
+    // card amount 
+    const getCardAmount = product =>{
+        const {price, quantity, shipping_charge:shipping} = product;
+        const subTotal = Number.parseFloat((quantity * price).toFixed(2));
+        const priceWithShipping = Number.parseFloat((subTotal+shipping).toFixed(2));
+        return priceWithShipping;
+    }
 
     // total shopping cost ==>
-    
+    const totals = useMemo(()=>{
+        return cart.reduce((acc , item)=>{
+            const {price = 0, quantity = 1, shipping_charge:shipping = 0} = item;
+            const itemSubTotal = Number.parseFloat(price * quantity);
+            const itemTax = Number.parseFloat(itemSubTotal + shipping) * TAX_RATE;
 
-    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler};
+            acc.subTotal += itemSubTotal;
+            acc.shipping += shipping;
+            acc.tax += itemTax;
+            acc.grandTotal = acc.subTotal + acc.shipping + acc.tax;
+            return acc;
+        },
+        {subTotal:0 , shipping:0, tax:0, grandTotal:0}
+    )
+    }, [cart]);
+
+    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount};
 
     return (
         <productCustomContext.Provider value={value}>
