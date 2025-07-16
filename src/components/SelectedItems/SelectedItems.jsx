@@ -9,7 +9,7 @@ import { useProduct } from '../../hooks/CustomContext/CustomContext';
 const SelectedItems = ({selectedContent, item}) => {
     
     const {product_title, product_image, price, shipping_charge, quantity} = item;
-    const { cartHandler, productDecrementHandler, removeHandler,  getCardAmount} = useProduct();
+    const { cartHandler, productDecrementHandler, removeHandler,  getCardAmount, moveCartToWishListHandler} = useProduct();
 
     const addedPrice = getCardAmount(item);
 
@@ -73,6 +73,7 @@ const SelectedItems = ({selectedContent, item}) => {
                     <div className='h-24 flex flex-col items-center justify-start space-y-4'>
                         <h5 className='text-base font-semibold'>Add to cart</h5>
                         <button
+                        onClick={()=>moveCartToWishListHandler(item)}
                         className='btn btn-block bg-project-violet text-project-white rounded-3xl font-light delay-150 transition-all hover:font-bold hover:bg-project-violet/90 shadow-none'
                         >
                         add to cart

@@ -63,6 +63,13 @@ const Dashboard = () => {
                             ))
                         )
                     }
+                    {
+                        selectedContent==='wishlist' &&(
+                            wishlist.map(wl=>(
+                                <SelectedItems key={wl.product_id} item={wl} selectedContent={selectedContent} />
+                            ))
+                        )
+                    }
                 </section>
             </main>
             
