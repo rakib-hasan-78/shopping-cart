@@ -1,16 +1,41 @@
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import navLinks from '../../hooks/navLinks/navLinks';
 import { BsCart3 } from "react-icons/bs";
 import { GoHeart } from "react-icons/go";
 import { useProduct } from '../../hooks/CustomContext/CustomContext';
+import NavProduct from '../NavProduct/NavProduct';
 
 const Nav = () => {
     const location = useLocation();
-    const { cart, wishlist } = useProduct(); 
+    const { 
+    cart,
+    wishlist ,
+        } = useProduct(); 
+
+    const [drawer, setDrawer] = useState(null);
+    const drawerDown = useRef(null);
+
+    const drawerHandler = (e , type)=>{
+        e.preventDefault();
+        setDrawer(prev=> prev===type ? null : type);
+    }
+
+    useEffect(()=>{
+        function handleClose(e){
+            if (drawerDown.current && !drawerDown
+            .current.contains(e.target)) {
+                setDrawer(null);
+            }
+        }
+        document.addEventListener('mousedown', handleClose);
+        return ()=>{
+            document.removeEventListener('mousedown', handleClose);
+        }
+    }, [drawer]);
 
     return (
-        <div className={`navbar  min-h-8 -py-2 z-20 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16  xxs:w-full rounded-t-2xl`}>
+        <div className={`navbar  min-h-8 -py-2 z-20 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16  xxs:w-full rounded-t-2xl relative`}>
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -46,6 +71,7 @@ const Nav = () => {
                             )
                     }
                     <button
+                    onClick={(e)=>drawerHandler(e, 'cart')}
                     className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">
                     <BsCart3 />
@@ -58,12 +84,20 @@ const Nav = () => {
                             )
                     }
                     <button
+                    onClick={(e)=>drawerHandler(e, 'wishlist')}
                     className={`btn btn-circle  btn-xs ${location.pathname==='/'? `text-project-violet bg-project-white border-project-white`:`text-project-white bg-project-violet border-project-violet`}`}
                     type="button">
                     <GoHeart />
                     </button>
                 </div>
             </div>
+            {
+                drawer &&(
+                    <div ref={drawerDown}>
+                    <NavProduct />
+                    </div>
+                )
+            }
         </div>
     );
 };

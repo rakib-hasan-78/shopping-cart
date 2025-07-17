@@ -3,6 +3,7 @@
 @import "tailwindcss";
 @plugin 'daisyui';
 
+
 @theme{
   /* font-family */
   --font-serif:"Sora", sans-serif;
@@ -39,6 +40,7 @@
   button{
     @apply capitalize;
   }
+
 }
 
 @layer components{

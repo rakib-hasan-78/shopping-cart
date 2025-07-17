@@ -6,7 +6,7 @@ import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 
 
-const SelectedItems = ({selectedContent, item}) => {
+const SelectedItems = ({selectedContent, item, variant}) => {
     
     const {product_title, product_image, price, shipping_charge, quantity} = item;
     const { cartHandler, productDecrementHandler, removeHandler,  getCardAmount, moveCartToWishListHandler} = useProduct();
@@ -15,15 +15,18 @@ const SelectedItems = ({selectedContent, item}) => {
 
     return (
         <div 
-        className={`w-10/12 py-6 px-0 h-auto bg-project-white rounded-xl flex items-center ${selectedContent==='cart'?'justify-around' : 'justify-between px-4' } `}
+        className={`${variant==='nav'? 'w-11/12 py-2':'w-9/12 py-6'}px-0 h-auto bg-project-white rounded-xl flex items-center ${selectedContent==='cart'?'justify-around' : 'justify-between' }  `}
         >
             {/* product image */}
-            <div className='w-auto h-24 flex items-start space-x-6'>
-                <img className='w-32 rounded-xl' src={product_image} alt={`product name: ${product_title}`} />
-                <div>
-                    <h4 className='text-base font-semibold line-clamp-2 w-60'>{product_title}</h4>
-                    <h5> <span className='font-semibold text-base'>price:</span> <span className='text-sm text-project-black/60'>$ {price}</span> </h5>
-                    <h6> <span className='font-semibold text-base'>shipment charge:</span>  <span className='text-sm text-project-black/60'>$ {shipping_charge}</span> </h6>
+            <div className={`w-auto ${variant==='nav'?'h-16 space-x-1':'h-24 space-x-6'} flex items-start `}>
+                <img className={`${variant==='nav'?'w-20 h-16':'w-32'} rounded-xl`} src={product_image} alt={`product name: ${product_title}`} />
+                <div className='text-project-black'>
+                    <h4 className={`${variant==='nav'? 'text-xs line-clamp-1 w-28':'text-sm w-60 line-clamp-2'} font-semibold `}>{product_title}</h4>
+                 
+                        <h5> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>price:</span> <span className={` ${variant==='nav'? 'text-[10px]':'text-sm'} text-project-black/60`}>$ {price}</span> </h5>
+                        <h6> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>shipment charge:</span>  <span className={`${variant==='nav'? 'text-[10px]':'text-sm'} text-project-black/60`}>$ {shipping_charge}</span> </h6>
+
+                   
                 </div>
             </div>
             {/* action button based on logic = cart */}
@@ -31,10 +34,10 @@ const SelectedItems = ({selectedContent, item}) => {
 
                 selectedContent==='cart' &&(
 
-                <div className='h-24 flex flex-col items-center justify-start space-y-4'>
-                    <h5 className='text-lg font-semibold'>customize items</h5>
-                    <div className='btn-gradient-border p-[1px] w-full'>
-                        <div className="bg-white rounded-full flex items-center justify-between px-2 py-1 w-full">
+                <div className={` ${variant==='nav'? 'h-16 space-y-3':'h-24 space-y-4'} flex flex-col items-center justify-start text-project-black`}>
+                    <h5 className={`${variant==='nav'?'text-xs':'text-sm'} font-semibold`}>customize items</h5>
+                    <div className={`btn-gradient-border p-[1px] w-full`}>
+                        <div className={`bg-white rounded-full flex items-center justify-between ${variant==='nav'?'px-0 py-0':'px-2 py-1'} w-full`}>
                             <button
                             onClick={()=>productDecrementHandler(item)}
                             className="btn btn-xs btn-circle text-xs min-h-0 h-5 p-0 bg-transparent border-none">
@@ -84,34 +87,34 @@ const SelectedItems = ({selectedContent, item}) => {
             {/* product quantity */}
             {
               selectedContent==='cart' &&(
-                 <div className='flex items-center justify-start flex-col h-24 space-y-5 '>
-                <h5 className='text-base font-semibold'>quantity</h5>
-                <h6 className='text-sm'>{quantity}</h6>
+                 <div className={`flex items-center ${variant==='nav'?'justify-start h-14 space-y-1.5':'justify-start h-24 space-y-5'} flex-col text-project-black`}>
+                <h5 className={`${variant==='nav' ? 'text-xs':'text-sm'} font-semibold`}>quantity</h5>
+                <h6 className={`${variant==='nav'?'text-[10px]':'text-xs'}`}>{quantity}</h6>
                 </div>
               )  
             }
             {/* cart items' price */}
             {
                 selectedContent==='cart' &&(
-                    <div className='h-24 flex flex-col items-center justify-start space-y-2'>
-                        <div className='flex flex-col items-center justify-center -space-y-3'>
-                        <h6 className='text-lg font-semibold'>price</h6>
+                    <div className={`${variant==='nav'?'h-16 space-y-1':'h-24 space-y-2'} flex flex-col items-center justify-start `}>
+                        <div className='flex flex-col items-center justify-center -space-y-3 text-project-black'>
+                        <h6 className={`${variant==='nav'?'text-xs':'text-sm'} font-semibold`}>price</h6>
                         <span
                         className='text-[8px] text-project-black/50'
-                        >(adding shipping cost once)</span>
+                        >(shipping cost)</span>
                         </div>
-                        <h6 className='text-sm'>{addedPrice}</h6>
+                        <h6 className='text-sm text-black'>{addedPrice}</h6>
                     </div>
                 )
             }
             {/* remove button */}
-            <div className="h-24 flex flex-col items-center justify-center pt-3">
+            <div className={`${variant==='nav' ?'h-20':'h-24'} flex flex-col items-center justify-center pt-3`}>
                 <button 
                 onClick={()=>removeHandler(item)}
                 className="btn btn-circle bg-project-black/1 delay-150 transition-all ease-in-out hover:bg-project-black/15 text-rose-500/60 hover:text-rose-500/90"
                 >
                 <GoTrash 
-                className='font-extrabold text-lg'
+                className={`font-extrabold ${variant==='nav'? 'text-xs':'text-lg'}`}
                  />
                 </button>
             </div>

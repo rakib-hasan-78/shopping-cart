@@ -1,17 +1,15 @@
-import React, { useState } from 'react';
+
 import Hero from './../../components/Hero/Hero';
 import SelectedItems from './../../components/SelectedItems/SelectedItems';
 import { useProduct } from './../../hooks/CustomContext/CustomContext';
 
 const Dashboard = () => {
-    const [selectedContent , setSelectedContent] = useState('cart');
-    const {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler} = useProduct();
+    const {cart, wishlist, selectedContent , setSelectedContent} = useProduct();
 
     // tab handler ===>
     const tabHandler = (e , type) =>{
         e.preventDefault();
         setSelectedContent(type);
-        console.log(`clicked for ${type}`);
     }
 
     return (
@@ -66,7 +64,7 @@ const Dashboard = () => {
                     {
                         selectedContent==='wishlist' &&(
                             wishlist.map(wl=>(
-                                <SelectedItems key={wl.product_id} item={wl} selectedContent={selectedContent} />
+                                <SelectedItems key={wl.product_id} item={wl} selectedContent={selectedContent} variant={'dashboard'} />
                             ))
                         )
                     }

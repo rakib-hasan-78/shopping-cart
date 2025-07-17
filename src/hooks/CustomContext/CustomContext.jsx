@@ -8,6 +8,9 @@ export const useProduct = ()=> useContext(productCustomContext);
 const CustomContext = ({children}) => {
     const [cart, setCart] = useState([]);
     const [wishlist , setWishList] = useState([]);
+    // use for tab &  button selection in nav and dashboard===>
+    const [selectedContent , setSelectedContent] = useState('cart');
+    
 
     // declaring global tax rate ==>
 
@@ -188,7 +191,7 @@ const CustomContext = ({children}) => {
     )
     }, [cart]);
 
-    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount};
+    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount, selectedContent , setSelectedContent};
 
     return (
         <productCustomContext.Provider value={value}>
