@@ -11,7 +11,7 @@ const Highlights = ({selectedContent, cart, wishlist}) => {
         <h3 className='font-bold text-xl'>{ cartText && cart.length>0 &&('cart') || wishlist.length>0 &&('wishlist')}</h3>
 
             {
-                cart.length>0 &&(
+               selectedContent==='cart' && cart.length>0 &&(
                     <div className='flex items-center justify-between w-6/12'>
                         <h3 className='font-bold text-lg'>total cost: {(totals.subTotal + totals.shipping).toFixed(2)}</h3>
                         <div className='btn-gradient-border p-[1px] w-4/12 cursor-pointer flex items-center justify-center
