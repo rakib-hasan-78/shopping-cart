@@ -2,6 +2,7 @@
 import Hero from './../../components/Hero/Hero';
 import SelectedItems from './../../components/SelectedItems/SelectedItems';
 import { useProduct } from './../../hooks/CustomContext/CustomContext';
+import Highlights from './../../components/Highlights/Highlights';
 
 const Dashboard = () => {
     const {cart, wishlist, selectedContent , setSelectedContent} = useProduct();
@@ -50,6 +51,7 @@ const Dashboard = () => {
                         </div>
                     </div>
                 </Hero>
+                <Highlights selectedContent={selectedContent} cart={cart} wishlist={wishlist} />
                 {/* content section */}
                 <section 
                 className='w-full h-auto py-10 flex flex-col items-center justify-start space-y-2

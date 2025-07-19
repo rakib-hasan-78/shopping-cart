@@ -175,23 +175,45 @@ const CustomContext = ({children}) => {
     }
 
     // total shopping cost ==>
-    const totals = useMemo(()=>{
-        return cart.reduce((acc , item)=>{
-            const {price = 0, quantity = 1, shipping_charge:shipping = 0} = item;
-            const itemSubTotal = Number.parseFloat(price * quantity);
-            const itemTax = Number.parseFloat(itemSubTotal + shipping) * TAX_RATE;
+    const totals = useMemo(() => {
+    return cart.reduce(
+        (acc, item) => {
+        const price = Number(item.price) || 0;
+        const quantity = Number(item.quantity) || 1;
+        const shipping = Number(item.shipping_charge) || 0;
 
-            acc.subTotal += itemSubTotal;
-            acc.shipping += shipping;
-            acc.tax += itemTax;
-            acc.grandTotal = acc.subTotal + acc.shipping + acc.tax;
-            return acc;
+        const itemSubTotal = Number((price * quantity).toFixed(2));
+        const itemTax = Number((itemSubTotal * TAX_RATE).toFixed(2));
+
+        acc.subTotal += itemSubTotal;
+        acc.shipping += shipping;
+        acc.tax += itemTax;
+        acc.grandTotal = Number((acc.subTotal + acc.shipping + acc.tax).toFixed(2));
+
+        return acc;
         },
-        {subTotal:0 , shipping:0, tax:0, grandTotal:0}
-    )
+        { subTotal: 0, shipping: 0, tax: 0, grandTotal: 0 }
+    );
     }, [cart]);
 
-    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount, selectedContent , setSelectedContent};
+    const sortHandler = () =>{
+        const sortedPrice = [...cart].sort((a,b)=>{
+            if (a.price < b.price) {
+                return 1;
+            } else if (a.price>b.price) {
+                return -1;
+            } else {
+                return 0;
+            }
+        });
+        setCart(sortedPrice);
+        toast.info(`items sorted comparing with main price`, {
+            position:'top-center',
+        })
+        return;
+    }
+
+    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount, selectedContent , setSelectedContent, sortHandler};
 
     return (
         <productCustomContext.Provider value={value}>

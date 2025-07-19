@@ -47,7 +47,7 @@ useEffect(() => {
   return () => {
     document.removeEventListener('mousedown', handleClickOutside);
   };
-}, [drawer]);
+}, [drawer, setDrawer, setSelectedContent]);
 
 
 
