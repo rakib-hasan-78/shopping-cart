@@ -15,16 +15,16 @@ const SelectedItems = ({selectedContent, item, variant}) => {
 
     return (
         <div 
-        className={`${variant==='nav'? 'w-11/12 py-2':'w-9/12 py-6'}px-0 h-auto bg-project-white rounded-xl flex items-center ${selectedContent==='cart'?'justify-around' : 'justify-between' }  `}
+        className={`px-0 h-auto  rounded-xl flex items-center ${selectedContent==='cart'?'justify-around' : 'justify-between' } ${variant==='nav'? 'w-11/12 py-0 bg-fuchsia-200/30 border border-fuchsia-100 backdrop-blur-2xl':'w-9/12 py-6 bg-project-white'} `}
         >
             {/* product image */}
-            <div className={`w-auto ${variant==='nav'?'h-16 space-x-1':'h-24 space-x-6'} flex items-start `}>
+            <div className={`w-auto ${variant==='nav'?'h-16 space-x-3':'h-24 space-x-6'} flex items-start `}>
                 <img className={`${variant==='nav'?'w-20 h-16':'w-32'} rounded-xl`} src={product_image} alt={`product name: ${product_title}`} />
-                <div className='text-project-black'>
+                <div className={`${variant==='nav' ? 'text-fuchsia-100':'text-project-black'} `}>
                     <h4 className={`${variant==='nav'? 'text-xs line-clamp-1 w-28':'text-sm w-60 line-clamp-2'} font-semibold `}>{product_title}</h4>
                  
-                        <h5> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>price:</span> <span className={` ${variant==='nav'? 'text-[10px]':'text-sm'} text-project-black/60`}>$ {price}</span> </h5>
-                        <h6> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>shipment charge:</span>  <span className={`${variant==='nav'? 'text-[10px]':'text-sm'} text-project-black/60`}>$ {shipping_charge}</span> </h6>
+                        <h5> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>price:</span> <span className={` ${variant==='nav'? 'text-[10px]':'text-sm'}`}>$ {price}</span> </h5>
+                        <h6> <span className={`font-semibold ${variant==='nav'?'text-[10px]':'text-xs'}`}>shipment charge:</span>  <span className={`${variant==='nav'? 'text-[10px]':'text-sm'}`}>$ {shipping_charge}</span> </h6>
 
                    
                 </div>
@@ -34,7 +34,7 @@ const SelectedItems = ({selectedContent, item, variant}) => {
 
                 selectedContent==='cart' &&(
 
-                <div className={` ${variant==='nav'? 'h-16 space-y-3':'h-24 space-y-4'} flex flex-col items-center justify-start text-project-black`}>
+                <div className={` ${variant==='nav'? 'h-16 space-y-3  text-fuchsia-100':'h-24 space-y-4 text-project-black'} flex flex-col items-center justify-start`}>
                     <h5 className={`${variant==='nav'?'text-xs':'text-sm'} font-semibold`}>customize items</h5>
                     <div className={`btn-gradient-border p-[1px] w-full`}>
                         <div className={`bg-white rounded-full flex items-center justify-between ${variant==='nav'?'px-0 py-0':'px-2 py-1'} w-full`}>
@@ -87,7 +87,7 @@ const SelectedItems = ({selectedContent, item, variant}) => {
             {/* product quantity */}
             {
               selectedContent==='cart' &&(
-                 <div className={`flex items-center ${variant==='nav'?'justify-start h-14 space-y-1.5':'justify-start h-24 space-y-5'} flex-col text-project-black`}>
+                 <div className={`flex items-center ${variant==='nav'?'justify-start h-14 space-y-1.5 text-fuchsia-100':'justify-start h-24 space-y-5 text-project-black'} flex-col`}>
                 <h5 className={`${variant==='nav' ? 'text-xs':'text-sm'} font-semibold`}>quantity</h5>
                 <h6 className={`${variant==='nav'?'text-[10px]':'text-xs'}`}>{quantity}</h6>
                 </div>
@@ -96,14 +96,14 @@ const SelectedItems = ({selectedContent, item, variant}) => {
             {/* cart items' price */}
             {
                 selectedContent==='cart' &&(
-                    <div className={`${variant==='nav'?'h-16 space-y-1':'h-24 space-y-2'} flex flex-col items-center justify-start `}>
-                        <div className='flex flex-col items-center justify-center -space-y-3 text-project-black'>
+                    <div className={`${variant==='nav'?'h-16 space-y-1 text-fuchsia-100':'h-24 space-y-2 text-project-black'} flex flex-col items-center justify-start `}>
+                        <div className='flex flex-col items-center justify-center -space-y-3'>
                         <h6 className={`${variant==='nav'?'text-xs':'text-sm'} font-semibold`}>price</h6>
                         <span
-                        className='text-[8px] text-project-black/50'
-                        >(shipping cost)</span>
+                        className={`text-[8px] ${variant==='nav'?'text-fuchsia-100/30': 'text-project-black/50'}`}
+                        >(include shipping cost)</span>
                         </div>
-                        <h6 className='text-sm text-black'>{addedPrice}</h6>
+                        <h6 className='text-sm'>{addedPrice}</h6>
                     </div>
                 )
             }
@@ -111,7 +111,7 @@ const SelectedItems = ({selectedContent, item, variant}) => {
             <div className={`${variant==='nav' ?'h-20':'h-24'} flex flex-col items-center justify-center pt-3`}>
                 <button 
                 onClick={()=>removeHandler(item)}
-                className="btn btn-circle bg-project-black/1 delay-150 transition-all ease-in-out hover:bg-project-black/15 text-rose-500/60 hover:text-rose-500/90"
+                className={`btn btn-circle bg-project-black/1 delay-150 transition-all ease-in-out hover:bg-project-black/15 ${ variant==='nav'?'text-rose-100 hover:text-rose-200/90': 'text-rose-500/60 hover:text-rose-500/90'}`}
                 >
                 <GoTrash 
                 className={`font-extrabold ${variant==='nav'? 'text-xs':'text-lg'}`}

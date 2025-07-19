@@ -57,7 +57,7 @@ const Dashboard = () => {
                     {
                         selectedContent==='cart'&&(
                             cart.map(ca=>(
-                                <SelectedItems key={ca.product_id} item={ca} selectedContent={selectedContent} />
+                                <SelectedItems key={ca.product_id} item={ca} selectedContent={selectedContent} variant={'dashboard'} />
                             ))
                         )
                     }

@@ -11,6 +11,7 @@ const Nav = () => {
     const { 
     cart,
     wishlist ,
+    setSelectedContent
         } = useProduct(); 
 
     const [drawer, setDrawer] = useState(null);
@@ -18,6 +19,7 @@ const Nav = () => {
 
     const drawerHandler = (e , type)=>{
         e.preventDefault();
+        setSelectedContent(type);
         setDrawer(prev=> prev===type ? null : type);
     }
 
