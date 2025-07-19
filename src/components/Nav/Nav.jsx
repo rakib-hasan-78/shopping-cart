@@ -16,25 +16,41 @@ const Nav = () => {
 
     const [drawer, setDrawer] = useState(null);
     const drawerDown = useRef(null);
+    const buttonRef = useRef(null);
 
-    const drawerHandler = (e , type)=>{
-        e.preventDefault();
-        setSelectedContent(type);
-        setDrawer(prev=> prev===type ? null : type);
+const drawerHandler = (e, type) => {
+  e.preventDefault();
+  buttonRef.current = e.currentTarget;
+  setSelectedContent(type)
+  setDrawer(prev => (prev === type ? null : type));
+};
+
+
+// Close on outside click — with delay to let ref attach
+useEffect(() => {
+  const handleClickOutside = (e) => {
+    const clickedOutsideDrawer =
+      drawerDown.current && !drawerDown.current.contains(e.target);
+    const clickedOutsideButton =
+      buttonRef.current && !buttonRef.current.contains(e.target);
+
+    if (clickedOutsideDrawer && clickedOutsideButton) {
+      setDrawer(null);
+      setSelectedContent(null);
     }
+  };
 
-    useEffect(()=>{
-        function handleClose(e){
-            if (drawerDown.current && !drawerDown
-            .current.contains(e.target)) {
-                setDrawer(null);
-            }
-        }
-        document.addEventListener('mousedown', handleClose);
-        return ()=>{
-            document.removeEventListener('mousedown', handleClose);
-        }
-    }, [drawer]);
+  if (drawer) {
+    document.addEventListener('mousedown', handleClickOutside);
+  }
+
+  return () => {
+    document.removeEventListener('mousedown', handleClickOutside);
+  };
+}, [drawer]);
+
+
+
 
     return (
         <div className={`navbar  min-h-8 -py-2 z-20 ${location.pathname === '/' ? 'bg-project-violet' : 'bg-project-white'} xxs:px-0 xxs:pr-3  lg:px-16  xxs:w-full rounded-t-2xl relative`}>
@@ -93,13 +109,12 @@ const Nav = () => {
                     </button>
                 </div>
             </div>
-            {
-                drawer &&(
-                    <div ref={drawerDown}>
-                    <NavProduct />
-                    </div>
-                )
-            }
+            {drawer && (
+            <div ref={drawerDown}>
+                <NavProduct />
+            </div>
+            )}
+
         </div>
     );
 };
