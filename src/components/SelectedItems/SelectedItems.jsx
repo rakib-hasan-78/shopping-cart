@@ -11,7 +11,7 @@ const SelectedItems = ({selectedContent, item, variant}) => {
     const {product_title, product_image, price, shipping_charge, quantity} = item;
     const { cartHandler, productDecrementHandler, removeHandler,  getCardAmount, moveCartToWishListHandler} = useProduct();
 
-    const addedPrice = getCardAmount(item);
+    const [subTotal] = getCardAmount(item);
 
     return (
         <div 
@@ -103,7 +103,7 @@ const SelectedItems = ({selectedContent, item, variant}) => {
                         className={`text-[8px] ${variant==='nav'?'text-fuchsia-100/30': 'text-project-black/50'}`}
                         >(include shipping cost)</span>
                         </div>
-                        <h6 className='text-sm'>{addedPrice}</h6>
+                        <h6 className='text-sm'>{((subTotal + shipping_charge).toFixed(2))}</h6>
                     </div>
                 )
             }

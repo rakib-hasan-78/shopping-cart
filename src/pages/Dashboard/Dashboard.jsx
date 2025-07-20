@@ -3,6 +3,7 @@ import Hero from './../../components/Hero/Hero';
 import SelectedItems from './../../components/SelectedItems/SelectedItems';
 import { useProduct } from './../../hooks/CustomContext/CustomContext';
 import Highlights from './../../components/Highlights/Highlights';
+import Invoice from './../../components/Invoice/Invoice';
 
 const Dashboard = () => {
     const {cart, wishlist, selectedContent , setSelectedContent} = useProduct();
@@ -68,6 +69,13 @@ const Dashboard = () => {
                             wishlist.map(wl=>(
                                 <SelectedItems key={wl.product_id} item={wl} selectedContent={selectedContent} variant={'dashboard'} />
                             ))
+                        )
+                    }
+                </section>
+                <section className='w-full h-auto my-7 flex items-center justify-center'>
+                    {
+                        selectedContent==='cart' && cart.length>0 &&(
+                            <Invoice cart={cart} />
                         )
                     }
                 </section>

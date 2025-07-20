@@ -14,7 +14,7 @@ const CustomContext = ({children}) => {
 
     // declaring global tax rate ==>
 
-    const TAX_RATE = 0.15;
+    const TAX_RATE = 0.05;
 
     // cart handler 
     const cartHandler = product=>{
@@ -169,9 +169,10 @@ const CustomContext = ({children}) => {
     // card amount 
     const getCardAmount = product =>{
         const {price, quantity, shipping_charge:shipping} = product;
-        const subTotal = Number.parseFloat((quantity * price).toFixed(2));
-        const priceWithShipping = Number.parseFloat((subTotal+shipping).toFixed(2));
-        return priceWithShipping;
+        const subTotal = Number((quantity * price).toFixed(2));
+        const taxItem = Number((subTotal * TAX_RATE).toFixed(2));
+        const priceWithShipping = Number((subTotal + shipping + taxItem).toFixed(2));
+        return [subTotal, taxItem, priceWithShipping]; 
     }
 
     // total shopping cost ==>
