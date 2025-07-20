@@ -25,7 +25,6 @@ const Highlights = ({selectedContent, cart, wishlist}) => {
                             </div>
                         </div>
                         <button
-                        
                         className='bg-gradient-to-br from-purple-600 via-purple-500 to-pink-500 shadow-md hover:brightness-105 transition-all duration-300 btn px-7 py-6 rounded-full text-violet-100 text-lg'>
                             purchase
                         </button>
