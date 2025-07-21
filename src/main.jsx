@@ -8,6 +8,7 @@ import Home from './pages/Home/Home';
 import Details from './Details/Details.jsx'
 import Statistics from './pages/Statistics/Statistics.jsx'
 import Dashboard from './pages/Dashboard/Dashboard.jsx'
+import CustomContext from './hooks/CustomContext/CustomContext.jsx'
 
 
 const router = createBrowserRouter([
@@ -42,7 +43,10 @@ const router = createBrowserRouter([
 ])
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <CustomContext>
     <RouterProvider router={router} />
+    </CustomContext>
     {/* <App /> */}
   </StrictMode>,
 )
+

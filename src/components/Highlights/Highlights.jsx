@@ -3,9 +3,11 @@ import { useProduct } from '../../hooks/CustomContext/CustomContext';
 import { RiSoundModuleLine } from "react-icons/ri";
 import PurchaseHandler from './../PurchaseHandler/PurchaseHandler';
 
+
 const Highlights = ({selectedContent, cart, wishlist}) => {
     const {totals, sortHandler} = useProduct();
     const cartText = selectedContent==='cart' && 'cart';
+
     return (
         <section className="w-9/12 h-auto py-5 flex items-center justify-between px-2 mt-10 mx-auto">
 
@@ -25,7 +27,8 @@ const Highlights = ({selectedContent, cart, wishlist}) => {
                                 </button>
                             </div>
                         </div>
-                        <PurchaseHandler className={`text-lg px-7`} />
+                        <PurchaseHandler 
+                        className={`text-lg px-7`} />
                     </div>
                 )
             }

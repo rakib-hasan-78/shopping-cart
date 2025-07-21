@@ -65,7 +65,7 @@ const NavInvoice = () => {
             </div>
             </div>
             <div className='w-full h-auto flex items-center justify-center'>
-                <PurchaseHandler
+                <PurchaseHandler 
                  className={`w-full btn-wide text-sm !px-36   `} />
             </div>
         </div>

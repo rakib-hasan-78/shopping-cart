@@ -68,7 +68,7 @@ const Invoice = ({cart}) => {
                 </table>
                 {/* purchase handler */}
                 <div className='w-full py-3 flex items-center justify-end my-6'>
-                    <PurchaseHandler className={`text-lg py-6 px-7`} />
+                    <PurchaseHandler  className={`text-lg py-6 px-7`} />
                 </div>
             </div>
         </div>

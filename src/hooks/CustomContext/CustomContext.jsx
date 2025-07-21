@@ -10,7 +10,8 @@ const CustomContext = ({children}) => {
     const [wishlist , setWishList] = useState([]);
     // use for tab &  button selection in nav and dashboard===>
     const [selectedContent , setSelectedContent] = useState('cart');
-    
+    // modal handler state===>
+    const [isOpen, setIsOpen] = useState(false);
 
     // declaring global tax rate ==>
 
@@ -214,7 +215,8 @@ const CustomContext = ({children}) => {
         return;
     }
 
-    const value = {cart, wishlist, cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount, selectedContent , setSelectedContent, sortHandler};
+    const value = {cart, setCart,  wishlist, setWishList,
+         cartHandler, productDecrementHandler, moveCartToWishListHandler, wishListHandler, removeHandler, totals, getCardAmount, selectedContent , setSelectedContent, sortHandler, isOpen, setIsOpen};
 
     return (
         <productCustomContext.Provider value={value}>

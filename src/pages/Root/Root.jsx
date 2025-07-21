@@ -4,13 +4,15 @@ import Header from './../../components/Header/Header';
 import Footer from './../../components/Footer/Footer';
 import Loader from './../../components/Loader/Loader';
 import { ToastContainer } from 'react-toastify';
-import CustomContext from '../../hooks/CustomContext/CustomContext';
+import Modal from './../../components/Modal/Modal';
+import { useProduct } from '../../hooks/CustomContext/CustomContext';
 
 
 const Root = () => {
     const navigation = useNavigation();
+    const {isOpen, setIsOpen} = useProduct();
     return (
-        <CustomContext>
+    
         <div 
         className='w-full h-auto flex flex-col items-center justify-between pt-3'>
             <Header />
@@ -25,8 +27,11 @@ const Root = () => {
                 </div>
             </Footer>
             <ToastContainer />
+            {isOpen &&(
+                <Modal isOpen={isOpen}  setIsOpen={setIsOpen} />
+            )}
         </div>
-        </CustomContext>
+        
     );
 };
 
