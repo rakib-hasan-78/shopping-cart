@@ -1,6 +1,7 @@
 import React from 'react';
 import { useProduct } from '../../hooks/CustomContext/CustomContext';
 import { RiSoundModuleLine } from "react-icons/ri";
+import PurchaseHandler from './../PurchaseHandler/PurchaseHandler';
 
 const Highlights = ({selectedContent, cart, wishlist}) => {
     const {totals, sortHandler} = useProduct();
@@ -24,10 +25,7 @@ const Highlights = ({selectedContent, cart, wishlist}) => {
                                 </button>
                             </div>
                         </div>
-                        <button
-                        className='bg-gradient-to-br from-purple-600 via-purple-500 to-pink-500 shadow-md hover:brightness-105 transition-all duration-300 btn px-7 py-6 rounded-full text-violet-100 text-lg'>
-                            purchase
-                        </button>
+                        <PurchaseHandler className={`text-lg px-7`} />
                     </div>
                 )
             }
