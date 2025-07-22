@@ -1,6 +1,7 @@
 import React, { createContext, useContext, useState } from 'react';
 import { useMemo } from 'react';
 import { toast } from 'react-toastify';
+import { addToLS, decrementLS, incrementToLS, removeLS } from '../LS/LS';
 
 const productCustomContext = createContext();
 export const useProduct = ()=> useContext(productCustomContext);
@@ -39,6 +40,7 @@ const CustomContext = ({children}) => {
             // product items increment logic ===>
             const matchProduct = cart.map(ca=>ca.product_id===product.product_id ? {...ca , quantity: ca.quantity + 1} : ca);
             setCart(matchProduct);
+            incrementToLS('cart-items', product);
             return;
         }
         // if the product to first time add to cart ===>
@@ -56,6 +58,7 @@ const CustomContext = ({children}) => {
                     position:'top-center',
                 });
                 setCart([...cart , {...product , quantity:1}]);
+                incrementToLS('cart-items', product);
                 return;
             }
             
@@ -88,6 +91,7 @@ const CustomContext = ({children}) => {
             }).filter(Boolean);
 
             setCart(updatedItems);
+            decrementLS('cart-items', product.product_id)
         }
     } 
     // wish list handler 
@@ -113,6 +117,7 @@ const CustomContext = ({children}) => {
             });
 
             setWishList([...wishlist, product]);
+            addToLS('wishList-items', product.product_id);
             return;
         }
     };
@@ -127,8 +132,10 @@ const CustomContext = ({children}) => {
           if (product.availability) {
               
               setCart([...cart ,{...product, quantity:1}]);
+              incrementToLS('cart-items', product.product_id);
               const removedProduct = wishlist.filter(wl=>wl.product_id!==product.product_id);
               setWishList(removedProduct);
+              removeLS('wishList-items', product.product_id)
 
               toast.info(`${product.product_title} moved to Cart List`, {
                   position:`top-center`,
@@ -158,12 +165,14 @@ const CustomContext = ({children}) => {
         if (cartItemRemover) {
             const updatedCart = cart.filter(ca=>ca.product_id!==product.product_id);
             setCart(updatedCart);
+            removeLS('cart-items', product.product_id)
             return;
         }
 
         if (wishListItemRemover) {
             const updatedWishItem = wishlist.filter(wl=>wl.product_id!==product.product_id);
             setWishList(updatedWishItem);
+            removeLS('wishList-items', product.product_id)
             return;
         }
     }
