@@ -66,6 +66,7 @@ const CustomContext = ({children}) => {
     };
     // product decrement handler ===> 
     const productDecrementHandler = product =>{
+        console.log("productDecrementHandler was triggered for:", product);
         const found = cart.find(ca=>ca.product_id===product.product_id);
         // if expected product not in the cart===>
         if (!found) {
@@ -91,7 +92,7 @@ const CustomContext = ({children}) => {
             }).filter(Boolean);
 
             setCart(updatedItems);
-            decrementLS('cart-items', product.product_id)
+            decrementLS('cart-items', product)
         }
     } 
     // wish list handler 
@@ -117,7 +118,7 @@ const CustomContext = ({children}) => {
             });
 
             setWishList([...wishlist, product]);
-            addToLS('wishList-items', product.product_id);
+            addToLS('wishList-items', product);
             return;
         }
     };
@@ -132,10 +133,8 @@ const CustomContext = ({children}) => {
           if (product.availability) {
               
               setCart([...cart ,{...product, quantity:1}]);
-              incrementToLS('cart-items', product.product_id);
               const removedProduct = wishlist.filter(wl=>wl.product_id!==product.product_id);
               setWishList(removedProduct);
-              removeLS('wishList-items', product.product_id)
 
               toast.info(`${product.product_title} moved to Cart List`, {
                   position:`top-center`,
@@ -165,14 +164,14 @@ const CustomContext = ({children}) => {
         if (cartItemRemover) {
             const updatedCart = cart.filter(ca=>ca.product_id!==product.product_id);
             setCart(updatedCart);
-            removeLS('cart-items', product.product_id)
+            removeLS('cart-items', product)
             return;
         }
 
         if (wishListItemRemover) {
             const updatedWishItem = wishlist.filter(wl=>wl.product_id!==product.product_id);
             setWishList(updatedWishItem);
-            removeLS('wishList-items', product.product_id)
+            removeLS('wishList-items', product)
             return;
         }
     }
